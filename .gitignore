@@ -13,4 +13,4 @@ node_modules
 package-lock.json
 
 # Ignore specific files
-2009-10-01-paper-title-number-1.md
+_publications/2009-10-01-paper-title-number-1.md
