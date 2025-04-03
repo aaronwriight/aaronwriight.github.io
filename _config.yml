@@ -22,7 +22,7 @@ repository               : "aaronwriight/aaronwriight.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp3_2024_mit.jpg"
+  avatar           : "pfp3_2024_mit_sq.jpg"
   name             : "Aaron Wright"
   pronouns         : # example: "she/her"  
   bio              : "Hey, I'm Aaron! I study language and hike sometimes. :)"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "aaron-wriight"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
