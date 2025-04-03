@@ -11,7 +11,7 @@
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 52em;
+  padding-left: 2em;
   padding-right: 2em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
@@ -342,7 +342,7 @@
   }
 
   .active {
-    margin-left: -0.5em;
+    margin-right: -0.5em; # change for nav bar justification (?)
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
