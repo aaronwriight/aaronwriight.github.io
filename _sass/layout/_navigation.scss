@@ -71,7 +71,7 @@
 
   li {
     display: block;
-    float: left;
+    float: right; # justification 'right'?
     margin-left: -1px;
 
     a {
@@ -342,7 +342,7 @@
   }
 
   .active {
-    margin-right: -0.5em; # change for nav bar justification (?)
+    margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
     color: #fff;
