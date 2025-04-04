@@ -1,7 +1,7 @@
 ---
 title: "The extended language network: Language selective brain areas whose contributions to language remain to be discovered"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-04-03-ext-lang-net
 date: 2025-04-03
 venue: 'bioRxiv'
