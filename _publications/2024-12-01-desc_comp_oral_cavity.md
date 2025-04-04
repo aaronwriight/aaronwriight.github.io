@@ -9,5 +9,5 @@ venue: 'Medical Problems of Performing Artists'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Iltis, P. W., Frahm, J., Voit, D., Wright, A., & Dever, A. (2024). A Descriptive Comparison of Oral Cavity Movements Between Brass Instrumentalists Performing Large Interval Slurs. Medical Problems of Performing Artists, 39(4), 169-176.'
+citation: 'Iltis, P. W., Frahm, J., Voit, D., <b>Wright, A.</b>, & Dever, A. (2024). A Descriptive Comparison of Oral Cavity Movements Between Brass Instrumentalists Performing Large Interval Slurs. Medical Problems of Performing Artists, 39(4), 169-176.'
 ---
