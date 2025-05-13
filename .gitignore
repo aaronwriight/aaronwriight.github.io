@@ -16,4 +16,4 @@ node_modules
 package-lock.json
 
 # Ignore specific files
-IN_PREP-Broca-articulation-active.md
+_publications/IN_PREP-Broca-articulation-active.md
