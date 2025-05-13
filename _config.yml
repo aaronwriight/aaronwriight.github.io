@@ -85,6 +85,8 @@ publication_category:
     title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+  in preparation:
+    title: 'In prep.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -282,6 +284,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _personal
+  - scope:
+      path: ""
+      type: personal
+    values:
+      layout: single
       author_profile: true
       share: true
 
