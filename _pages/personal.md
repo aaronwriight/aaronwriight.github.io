@@ -1,10 +1,8 @@
 ---
-permalink: /
+# layout: archive
 title: "Personal"
-# author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /personal/
+author_profile: true
 ---
 
 [I’m currently building this platform – more to come soon!]
