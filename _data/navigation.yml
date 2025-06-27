@@ -17,7 +17,7 @@ main:
   - title: "personal"
     url: /personal/
 
-  - title: "recommended readings"
+  - title: "readings & resources"
     url: /recommended_readings/
 
   # - title: "Talks"
