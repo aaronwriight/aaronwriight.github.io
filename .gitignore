@@ -16,3 +16,4 @@ node_modules
 package-lock.json
 
 # Ignore specific files
+footer_template.html
