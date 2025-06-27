@@ -1,0 +1,59 @@
+---
+layout: archive
+title: "publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">
+    You can also find my articles on 
+    <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  </div>
+{% endif %}
+
+{% assign selected_pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
+{% for pub in selected_pubs %}
+  <div class="pub-entry">
+    <h3>{{ pub.title }}</h3>
+    <p><strong>{{ pub.authors }}</strong></p>
+    <p><em>{{ pub.venue }}</em>, {{ pub.date | date: "%Y" }}</p>
+    <p>{{ pub.abstract }}</p>
+    {% if pub.paperurl %}<p><a href="{{ pub.paperurl }}">DOI</a></p>{% endif %}
+    {% if pub.pdf %}<p><a href="{{ pub.pdf }}">PDF</a></p>{% endif %}
+    {% if pub.recommended_citation %}
+      <p><em>Recommended citation:</em><br>{{ pub.recommended_citation }}</p>
+    {% endif %}
+  </div>
+  <hr/>
+{% endfor %}
+
+<!--
+{% include base_path %}
+-->
+
+<!-- New style rendering if publication categories are defined-->
+ <!--
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+-->
+
+
+
