@@ -2,8 +2,8 @@
 	"name": "OOjs UI icon academic-progressive",
 	"icons": [
 		{
-			"src": "/images/brain3-favicon/web-app-manifest-192x192.png",
-			"sizes": "192x192",
+			"src": "/images/brain3-favicon/web-app-manifest-512x512.png",
+			"sizes": "512x512",
 			"type": "image/png"
 		},
 		{
