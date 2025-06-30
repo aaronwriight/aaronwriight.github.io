@@ -11,14 +11,17 @@ main:
   - title: "publications"
     url: /publications/
 
-  - title: "cv"
+  - title: "cv" # markdown
     url: /cv/
+
+  - title: "readings & resources"
+    url: /readings_resources/
 
   - title: "personal"
     url: /personal/
 
-  - title: "readings & resources"
-    url: /readings_resources/
+  # - title: "photography"
+  #   url: /personal/
 
   # - title: "Talks"
   #  url: /talks/    
@@ -29,10 +32,10 @@ main:
   # - title: "Portfolio"
   #  url: /portfolio/
         
-  # - title: "Blog Posts"
+  # - title: "blog"
   #  url: /year-archive/
     
-  # - title: "CV"
+  # - title: "CV" # json
   #   url: /cv-json/
     
   # - title: "Guide"
