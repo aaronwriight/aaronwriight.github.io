@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aaron Wright"
+title                    : "aaron wright"
 title_separator          : "-"
-name                     : &name "Aaron Wright"
+name                     : &name "aaron wright"
 description              : &description "Welcome!"
 url                      : https://aaronwriight.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "aaronwriight/aaronwriight.github.io"
 author:
   # Biographic information
   avatar           : "pfp3_2024_mit_sq.jpg"
-  name             : "Aaron Wright"
+  name             : "aaron wright"
   pronouns         : # example: "she/her"  
   bio              : "Post-Baccalaureate Research Scholar @ MIT BCS 🧠"
   location         : "Cambridge, MA"

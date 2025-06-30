@@ -14,11 +14,11 @@ main:
   - title: "cv" # markdown
     url: /cv/
 
-  - title: "readings & resources"
-    url: /readings_resources/
-
   - title: "personal"
     url: /personal/
+
+  - title: "readings & resources"
+    url: /readings_resources/
 
   # - title: "photography"
   #   url: /personal/
