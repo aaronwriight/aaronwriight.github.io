@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
+---
+
 [I’m currently building this platform – more to come soon!]

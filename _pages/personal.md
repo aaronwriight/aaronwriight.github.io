@@ -8,6 +8,8 @@ author_profile: true
 #  - /personal.html
 ---
 
+---
+
 I'm a sucker for a good story.
 
 
@@ -23,12 +25,16 @@ Everything below is laced with a lively blend of its own woe and wonder, a compi
 If not carried in from my own musings, I hope that what I've stumbled upon finds a place in your story.
 
 
-Here are a "few" (several) of my favorite things . . . in no particular order.
+Here are a few (several) of my favorite things . . . in no particular order.
+
+Enjoy :)
 
 ---
 
 **Communities:**
 - [La Vida At Gordon College](https://lavidacenter.org)
+
+---
 
 **Artists & albums:**
 - [*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion
@@ -38,30 +44,40 @@ Here are a "few" (several) of my favorite things . . . in no particular order.
 - [*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN
 - [*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle
 
+---
+
 **Films:**
 - La La Land
 - A Quiet Place
 - Good Will Hunting
 - Spirited Away
 
+---
+
 **Literature:**
 - *Anne of Green Gables*, Lucy Maud Montgomery
 - *The Haunting of Hill House*, Shirley Jackson
 - *A Girl of the Limberlost*, Gene Stratton-Porter
+
+---
 
 **Creatives:**
 - Independent design studio: [HOUSE OF DAKH DESIGN STUDIO](https://houseofdakh.com)
 - Data visualizist, [Cédric Scherer](https://www.cedricscherer.com)
 - My TALENTED friend and storyteller, Eden Harfield at [Eden Grace Creative](https://www.edengracecreative.com)
 
+---
+
 **Podcasts:**
 - Pocket-sized science with hand-picked experts: [Ologies with Alie Ward](https://www.alieward.com)
 
+---
+
 **Other inspirations:**
 - Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)
-- Jon Bellions's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
+- Jon Bellion's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
 - Classical composer [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
-- Jennette McCurdy
+- [Jennette McCurdy](https://www.jennettemccurdy.com)'s raw memoir, *I'm Glad My Mom Died*
 
 ---
 
