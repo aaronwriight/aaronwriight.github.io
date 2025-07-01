@@ -7,7 +7,6 @@ author_profile: true
 #  - /personal
 #  - /personal.html
 ---
-
 ---
 
 I'm a sucker for a good story.
