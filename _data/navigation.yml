@@ -18,11 +18,11 @@ main:
   - title: "cv" # markdown
     url: /cv/
 
-  - title: "personal"
-    url: /personal/
-
   - title: "readings & resources"
     url: /readings_resources/
+
+  - title: "personal"
+    url: /personal/
 
   - title: "contact"
     url: /contact/
