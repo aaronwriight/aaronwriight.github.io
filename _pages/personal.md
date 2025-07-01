@@ -3,9 +3,9 @@ layout: archive
 title: "personal"
 permalink: /personal/
 author_profile: true
-redirect_from:
-  - /personal
-  - /personal.html
+#redirect_from:
+#  - /personal
+#  - /personal.html
 ---
 
 I'm a sucker for a good story.
