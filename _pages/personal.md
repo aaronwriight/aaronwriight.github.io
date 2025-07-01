@@ -1,0 +1,66 @@
+---
+layout: archive
+title: "personal"
+permalink: /personal/
+author_profile: true
+redirect_from:
+  - /personal
+  - /personal.html
+---
+
+[I’m currently building this platform – more to come soon!]
+
+[I’m currently building this platform – more to come soon!]
+
+I'm a sucker for a good story.
+<br>
+I hold a variety of things in my heart, all of which, in one way or another, flavor my approach to cognitive science.
+<br>
+Chief among them are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my own story.
+<br>
+Everything below is laced with a lively blend own woe and wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings.
+<br>
+If not carried from my own musings, I hope that what I've stumbled into finds a place in your story.
+<br>
+Here are a "few" (several) of my favorite things . . . in no particular order.
+<br>
+
+---
+
+Communities
+{[La Vida At Gordon College](https://lavidacenter.org)}
+
+Artists & albums:
+{[*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion},
+{[*Everybody*](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk), Logic},
+{[*Change of Scenery II*](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro), Quinn XCII},
+{[*Brol La Suite*](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu), Angèle},
+{[*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN}
+{[*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle}
+
+Films:
+{La La Land},
+{A Quiet Place}
+{Good Will Hunting},
+{Spirited Away},
+
+Literature:
+{*Anne of Green Gables*, Lucy Maud Montgomery},
+{*The Haunting of Hill House*, Shirley Jackson},
+{*A Girl of the Limberlost*, Gene Stratton-Porter}
+
+Creatives:
+{Independent design studio: [HOUSE OF DAKH DESIGN STUDIO](https://houseofdakh.com)},
+{Data visualizist, [Cédric Scherer](https://www.cedricscherer.com)},
+{My TALENTED friend and storyteller, Eden Harfield at [Eden Grace Creative](https://www.edengracecreative.com)}
+
+Podcasts:
+{Pocket-sized science with leading "ologists": [Ologies with Alie Ward](https://www.alieward.com)}
+
+Other inspirations:
+{Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)}
+{Jon Bellions's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)}
+{Classical composer [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)}
+{Jenette McCurdy}
+
+Ask me about them over coffee or on a hike sometime!
