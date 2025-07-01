@@ -8,6 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+
+#  - title: research"
+#    url: /research/
+
   - title: "publications"
     url: /publications/
 
@@ -19,6 +23,9 @@ main:
 
   - title: "readings & resources"
     url: /readings_resources/
+
+  - title: "contact"
+    url: /contact/
 
 #  - title: "mbtl" # mind behind the lens
 #    url: /mbtl/
