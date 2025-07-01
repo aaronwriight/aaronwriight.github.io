@@ -28,40 +28,40 @@ Here are a "few" (several) of my favorite things . . . in no particular order.
 ---
 
 **Communities:**
-- {[La Vida At Gordon College](https://lavidacenter.org)}
+- [La Vida At Gordon College](https://lavidacenter.org)
 
 **Artists & albums:**
-- {[*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion},
-- {[*Everybody*](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk), Logic},
-- {[*Change of Scenery II*](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro), Quinn XCII},
-- {[*Brol La Suite*](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu), Angèle},
-- {[*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN},
-- {[*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle}
+- [*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion
+- [*Everybody*](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk), Logic
+- [*Change of Scenery II*](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro), Quinn XCII
+- [*Brol La Suite*](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu), Angèle
+- [*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN
+- [*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle
 
 **Films:**
-- {La La Land},
-- {A Quiet Place},
-- {Good Will Hunting},
-- {Spirited Away},
+- La La Land
+- A Quiet Place
+- Good Will Hunting
+- Spirited Away
 
 **Literature:**
-- {*Anne of Green Gables*, Lucy Maud Montgomery},
-- {*The Haunting of Hill House*, Shirley Jackson},
-- {*A Girl of the Limberlost*, Gene Stratton-Porter}
+- *Anne of Green Gables*, Lucy Maud Montgomery
+- *The Haunting of Hill House*, Shirley Jackson
+- *A Girl of the Limberlost*, Gene Stratton-Porter
 
 **Creatives:**
-- {Independent design studio: [HOUSE OF DAKH DESIGN STUDIO](https://houseofdakh.com)},
-- {Data visualizist, [Cédric Scherer](https://www.cedricscherer.com)},
-- {My TALENTED friend and storyteller, Eden Harfield at [Eden Grace Creative](https://www.edengracecreative.com)}
+- Independent design studio: [HOUSE OF DAKH DESIGN STUDIO](https://houseofdakh.com)
+- Data visualizist, [Cédric Scherer](https://www.cedricscherer.com)
+- My TALENTED friend and storyteller, Eden Harfield at [Eden Grace Creative](https://www.edengracecreative.com)
 
 **Podcasts:**
-- {Pocket-sized science with leading "ologists": [Ologies with Alie Ward](https://www.alieward.com)}
+- Pocket-sized science with hand-picked experts: [Ologies with Alie Ward](https://www.alieward.com)
 
 **Other inspirations:**
-- {Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)},
-- {Jon Bellions's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)},
-- {Classical composer [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)},
-- {Jenette McCurdy}
+- Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)
+- Jon Bellions's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
+- Classical composer [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
+- Jennette McCurdy
 
 ---
 
