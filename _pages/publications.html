@@ -6,30 +6,29 @@ author_profile: true
 ---
 
 <style>
-
-/* remove default triangle/arrow from summary */
-summary {
-  list-style: none; /* firefox */
+.pub-links {
   white-space: nowrap;
-  cursor: pointer;
+  font-family: sans-serif;
 }
 
-summary::-webkit-details-marker {
-  display: none; /* chrome, safari */
-  white-space: nowrap
+.pub-links details {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
 }
 
-details.pub-abstract {
+.pub-links summary {
   display: inline;
-}
-
-/* style the summary to look like a link */
-.pub-abstract summary {
-  color: #52ADC8; /* typical link blue */
+  cursor: pointer;
+  color: #52ADC8;
   text-decoration: underline;
-  white-space: nowrap;
+  list-style: none;
 }
 
+.pub-links summary::-webkit-details-marker {
+  display: none; /* hides triangle in Chrome/Safari */
+}
 </style>
 
 <hr>
@@ -78,7 +77,7 @@ details.pub-abstract {
 <!-- End section -->
 </ul>
 
-<hr>
+<hr>a
 
 <b>Papers</b>
 <!-- Begin section -->
