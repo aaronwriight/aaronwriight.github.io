@@ -6,29 +6,40 @@ author_profile: true
 ---
 
 <style>
+
 .pub-links {
   white-space: nowrap;
   font-family: sans-serif;
 }
 
-.pub-links details {
+.pub-links details,
+details.pub-abstract {
   display: inline-block;
   margin: 0;
   padding: 0;
   vertical-align: middle;
 }
 
-.pub-links summary {
+/* style all summaries inside .pub-links to look like links */
+.pub-links summary,
+.pub-abstract summary {
   display: inline;
   cursor: pointer;
   color: #52ADC8;
   text-decoration: underline;
   list-style: none;
+  white-space: nowrap;
 }
 
-.pub-links summary::-webkit-details-marker {
-  display: none; /* hides triangle in Chrome/Safari */
+/* remove triangle from Chrome/Safari and Firefox */
+summary::-webkit-details-marker {
+  display: none;
 }
+
+summary {
+  list-style: none;
+}
+
 </style>
 
 <hr>
