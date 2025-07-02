@@ -13,6 +13,39 @@ author_profile: true
   </div>
 {% endif %}
 
+<style>
+/* remove default triangle/arrow from summary */
+summary {
+  list-style: none; /* firefox */
+  cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+  display: none; /* chrome, safari */
+}
+
+/* style the summary to look like a link */
+.pub-abstract summary {
+  color: #007BFF; /* typical link blue */
+  text-decoration: underline;
+  font-weight: 500;
+  display: inline-block;
+  padding: 4px 0;
+}
+
+/* optional: add hover effect */
+.pub-abstract summary:hover {
+  color: #0056b3;
+}
+</style>
+
+<details class="pub-abstract">
+  <summary>Abstract</summary>
+  <p>
+    Although language neuroscience has largely focused on ‘core’ left frontal and temporal brain areas and their right-hemisphere homotopes, numerous other areas...
+  </p>
+</details>
+
 <hr>
 
 <b>Preprints</b>
@@ -68,7 +101,7 @@ author_profile: true
         </p>
       </details>
       <p class="pub-links">
-        <a href="https://doi.org/10.21091/mppa.2024.04020" target="_blank">DOI</a> |
+        <a href="https://doi.org/10.21091/mppa.2024.04020" target="_blank">DOI</a>
       </p>
     </div>
   </li>
@@ -94,11 +127,11 @@ author_profile: true
       </p>
       </details>
       <p class="pub-links">
-        <a href="../files/posters/Wolna.Agata.Wright.Aaron_v2 copy.pdf" target="_blank">Poster</a>
+        <a href="../files/posters/Wolna.Agata.Wright.Aaron_v2 copy.pdf" target="_blank">PDF</a>
       </p>
     </div>
   </li>
-  
+
   <li>
     <!-- Wolna et al., 2025 -->
     <div class="pub-block">
@@ -111,7 +144,7 @@ author_profile: true
       </p>
       </details>
       <p class="pub-links">
-        <a href="../files/posters/CNS_2025_poster copy.pdf" target="_blank">Poster</a>
+        <a href="../files/posters/CNS_2025_poster copy.pdf" target="_blank">PDF</a>
       </p>
     </div>
   </li>
