@@ -6,15 +6,27 @@ author_profile: true
 ---
 
 <style>
-.toggle-abstract {
-  color: #52ADC8;
-  text-decoration: underline;
+/* remove default triangle/arrow from summary */
+summary {
+  list-style: none; /* firefox */
   cursor: pointer;
 }
 
-/* ensure span doesn’t stack like a block */
-.pub-links {
-  display: inline;
+summary::-webkit-details-marker {
+  display: none; /* chrome, safari */
+}
+
+/* style the summary to look like a link */
+.pub-abstract summary {
+  color: #52ADC8; /* typical link blue */
+  text-decoration: underline;
+  display: inline-block;
+  padding: 4px 0;
+}
+
+/* optional: add hover effect */
+.pub-abstract summary:hover {
+  color: #52ADC8;
 }
 </style>
 
@@ -60,8 +72,6 @@ author_profile: true
       </div>
     </li>
 
-
-  
 <!-- End section -->
 </ul>
 
