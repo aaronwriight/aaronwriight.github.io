@@ -10,7 +10,7 @@ author_profile: true
     display: flex;
     gap: 0.5em;
     font-family: sans-serif;
-    align-items: center;
+    align-items: flex-start;
     flex-wrap: wrap;
   }
 
@@ -18,6 +18,7 @@ author_profile: true
     display: inline-block;
     margin: 0;
     padding: 0;
+    position: relative;
   }
 
   .pub-links summary {
@@ -32,16 +33,18 @@ author_profile: true
     display: none;
   }
 
-  .pub-links details[open] > div {
-  position: static;       /* default flow */
-  background: none;
-  border: none;
-  padding: 0.25em 0 0 0;
-  margin: 0;
-  }
-
-  .abstract-text {
+  .pub-links details[open] > .abstract-text {
+    display: block;
+    position: absolute;
+    top: 1.5em; /* distance below the summary */
+    left: 0;
+    width: max-content;
     max-width: 600px;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 10;
   }
 </style>
 
