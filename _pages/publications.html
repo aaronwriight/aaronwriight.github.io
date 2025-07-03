@@ -6,43 +6,44 @@ author_profile: true
 ---
 
 <style>
+  .pub-links {
+    display: flex;
+    gap: 0.5em;
+    font-family: sans-serif;
+    align-items: center;
+    flex-wrap: wrap;
+  }
 
-.pub-links {
-  white-space: nowrap;
-  font-family: sans-serif;
-}
+  .pub-links details {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
 
-.pub-links details,
-details.pub-abstract {
-  display: inline;
-  margin: 0;
-  padding: 0;
-  vertical-align: middle;
-}
+  .pub-links summary {
+    display: inline;
+    cursor: pointer;
+    color: #52ADC8;
+    text-decoration: underline;
+    list-style: none;
+  }
 
-/* style all summaries inside .pub-links to look like links */
-.pub-links summary,
-.pub-abstract summary {
-  display: inline;
-  cursor: pointer;
-  color: #52ADC8;
-  text-decoration: underline;
-  list-style: none;
-  white-space: nowrap;
-}
+  .pub-links summary::-webkit-details-marker {
+    display: none;
+  }
 
-/* remove triangle from Chrome/Safari and Firefox */
-summary::-webkit-details-marker {
-  display: none;
-}
+  .pub-links details[open] > div {
+    position: static;
+    background: none;
+    border: none;
+    padding: 0.25em 0 0 0;
+    margin: 0;
+  }
 
-summary {
-  list-style: none;
-}
-
+  .abstract-text {
+    max-width: 600px;
+  }
 </style>
-
-<hr>
 
 <hr>
 
