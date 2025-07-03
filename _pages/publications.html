@@ -6,20 +6,19 @@ author_profile: true
 ---
 
 <style>
-  .pub-line {
-    display: inline-flex;
-    gap: 0.5em;
-    align-items: flex-start;
+  .pub-links {
+    white-space: nowrap;
     font-family: sans-serif;
   }
 
-  .pub-line details {
+  .pub-links details {
     display: inline-block;
     margin: 0;
     padding: 0;
+    vertical-align: top;
   }
 
-  .pub-line summary {
+  .pub-links summary {
     display: inline;
     cursor: pointer;
     color: #52ADC8;
@@ -27,19 +26,18 @@ author_profile: true
     list-style: none;
   }
 
-  .pub-line summary::-webkit-details-marker {
+  .pub-links summary::-webkit-details-marker {
     display: none;
   }
 
-  .abstract-text {
-    display: none;
+  .pub-links .abstract-text {
+    display: block;
     margin-top: 0.5em;
     max-width: 600px;
   }
 
-  /* 💥 this is the real trick: show abstract ONLY when details is open */
-  details[open] ~ .abstract-text {
-    display: block;
+  .pub-links a {
+    margin-left: 0.5em;
   }
 </style>
 
