@@ -5,6 +5,42 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+
+.pub-links {
+  white-space: nowrap;
+  font-family: sans-serif;
+}
+
+.pub-links details,
+details.pub-abstract {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+}
+
+/* style all summaries inside .pub-links to look like links */
+.pub-links summary,
+.pub-abstract summary {
+  display: inline;
+  cursor: pointer;
+  color: #52ADC8;
+  text-decoration: underline;
+  list-style: none;
+  white-space: nowrap;
+}
+
+/* remove triangle from Chrome/Safari and Firefox */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary {
+  list-style: none;
+}
+
+</style>
 <hr>
 
 {% if site.author.googlescholar %}
