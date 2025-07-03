@@ -11,18 +11,14 @@ author_profile: true
     margin-bottom: 1em;
   }
 
-  .pub-links-row {
+  .pub-links-line {
     display: inline-flex;
     align-items: center;
     gap: 0.75em;
     flex-wrap: wrap;
   }
 
-  .pub-links-row details {
-    display: inline-block;
-  }
-
-  .pub-links-row summary {
+  .pub-links-line summary {
     display: inline;
     cursor: pointer;
     color: #52ADC8;
@@ -30,19 +26,27 @@ author_profile: true
     list-style: none;
   }
 
-  .pub-links-row summary::-webkit-details-marker {
+  .pub-links-line summary::-webkit-details-marker {
     display: none;
   }
 
-  .pub-links details[open] .pub-abstract-text {
-    display: block;
+  /* remove default triangle & gray styling */
+  .pub-toggle {
+    all: unset;
+    cursor: pointer;
+    color: #52ADC8;
+    text-decoration: underline;
   }
 
-  .pub-abstract-text {
+  .pub-abstract {
     display: none;
     margin-top: 0.5em;
-    line-height: 1.4;
     max-width: 700px;
+    line-height: 1.4;
+  }
+
+  .pub-links[open] .pub-abstract {
+    display: block;
   }
 </style>
 
@@ -69,7 +73,18 @@ author_profile: true
         The extended language network: Language selective brain areas whose contributions to language remain to be discovered.<br>
         <span class="pub-venue"><i>bioRxiv.</i></span>
       </p>
-
+      
+      <details class="pub-links">
+        <div class="pub-links-line">
+          <summary class="pub-toggle">ABS</summary>
+          <a href="https://doi.org/10.1101/2025.04.02.646835" target="_blank">DOI</a>
+          <a href="https://www.biorxiv.org/content/10.1101/2025.04.02.646835v2.full.pdf" target="_blank">PDF</a>
+        </div>
+        <div class="pub-abstract">
+          This is the abstract text. It drops below ABS/DOI/PDF, which all stay together on one line.
+        </div>
+      </details>
+<!--
       <div class="pub-links">
         <details>
           <summary>ABS</summary>
@@ -82,6 +97,7 @@ author_profile: true
         <a href="https://doi.org/10.1101/2025.04.02.646835" target="_blank">DOI</a>
         <a href="https://www.biorxiv.org/content/10.1101/2025.04.02.646835v2.full.pdf" target="_blank">PDF</a>
       </div>
+-->
     </div>
   </li>
 
