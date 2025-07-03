@@ -31,7 +31,7 @@ Enjoy :)
 ---
 
 **Communities:**
-- [La Vida At Gordon College](https://lavidacenter.org)
+- My home away from science: [La Vida At Gordon College](https://lavidacenter.org)
 
 ---
 
@@ -61,8 +61,8 @@ Enjoy :)
 ---
 
 **Creatives:**
-- Independent design studio: [HOUSE OF DAKH DESIGN STUDIO](https://houseofdakh.com)
-- Data visualizist, [Cédric Scherer](https://www.cedricscherer.com)
+- The independent design studio, [HOUSEOFDAKH](https://houseofdakh.com)
+- Data visualist, [Cédric Scherer](https://www.cedricscherer.com)
 - My TALENTED friend and storyteller, Eden Harfield at [Eden Grace Creative](https://www.edengracecreative.com)
 
 ---
@@ -76,7 +76,7 @@ Enjoy :)
 - Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)
 - Jon Bellion's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
 - Classical composer [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
-- [Jennette McCurdy](https://www.jennettemccurdy.com)'s raw memoir, *I'm Glad My Mom Died*
+- The gripping memoir, *I'm Glad My Mom Died*, from [Jennette McCurdy](https://www.jennettemccurdy.com)
 
 ---
 
