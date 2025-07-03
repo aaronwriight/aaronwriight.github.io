@@ -7,19 +7,17 @@ author_profile: true
 
 <style>
   .pub-links {
-    white-space: nowrap;
     font-family: sans-serif;
   }
 
   .pub-links details {
-    display: inline-block;
+    display: block;           /* makes the whole block vertical */
     margin: 0;
     padding: 0;
-    vertical-align: top;
   }
 
   .pub-links summary {
-    display: inline;
+    display: inline;          /* keeps the ABS button inline with links */
     cursor: pointer;
     color: #52ADC8;
     text-decoration: underline;
@@ -31,7 +29,6 @@ author_profile: true
   }
 
   .pub-links .abstract-text {
-    display: block;
     margin-top: 0.5em;
     max-width: 600px;
   }
