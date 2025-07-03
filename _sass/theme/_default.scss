@@ -45,3 +45,13 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
 }
+
+/* global link styling */
+a {
+  color: #52ADC8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
