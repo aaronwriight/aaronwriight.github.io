@@ -31,6 +31,12 @@ details.pub-abstract {
   white-space: nowrap;
 }
 
+.pub-links-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
 /* remove triangle from Chrome/Safari and Firefox */
 summary::-webkit-details-marker {
   display: none;
@@ -69,7 +75,7 @@ summary {
         </span>
       </p>
       <p class="pub-links">
-        <span class="pub-meta">
+        <span class="pub-links-group">
           <details class="pub-abstract" style="display: inline;">
             <summary style="white-space: nowrap;">ABS</summary>
             <div class="abstract-text">
