@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "my research"
+title: "aaron wright"
 author_profile: true
 redirect_from: 
   - /research/
