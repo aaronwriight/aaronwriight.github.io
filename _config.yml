@@ -236,6 +236,14 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # _about
+  - scope:
+      path: ""
+      type: about
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _posts
   - scope:
       path: ""
