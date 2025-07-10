@@ -12,13 +12,14 @@ Post-Baccalaureate Research Scholar @ MIT BCS 🧠
 
 I’m a post-baccalaureate research assistant within MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu).
 
+<!--
 While I'm generally interested in all things cognitive neurolanguistics, my research follows two trails:
 
 - Bilingualism: How do speakers of multiple languages make se
 
 - Language and Emotion: What is the relationship between the languages we use and the emotions we experience?
 
-<!--
+
 [PURPOSE STATEMENT]
 
 - 1) SCOPE 
