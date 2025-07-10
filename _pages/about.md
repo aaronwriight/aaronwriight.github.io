@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "about me"
+title: "about"
 author_profile: true
 # redirect_from: 
 #  - /about/

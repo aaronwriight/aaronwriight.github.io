@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "aaron wright"
+title: "aaron wright" # title that appears in tab
 author_profile: true
 redirect_from: 
   - /research/
