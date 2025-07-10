@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "about me"
 author_profile: true
@@ -7,6 +8,7 @@ author_profile: true
 #  - /about.html
 ---
 ---
+
 To me, science is mentorship.
 
 I’ve been privileged to experience several wonderful scholars’ investments, and my scientific lens is as much a product of their wisdom and prompting as it is my own desire to mentor future scholars. You can read a little about where I’ve been below!
