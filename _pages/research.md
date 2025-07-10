@@ -3,7 +3,7 @@ permalink: /
 title: "aaron wright"
 author_profile: true
 redirect_from: 
-#  - /research/
+  - /research/
   - /research.html
 ---
 ---
