@@ -3,7 +3,7 @@ layout: archive
 title: "personal"
 permalink: /personal/
 author_profile: true
-#redirect_from:
+# redirect_from:
 #  - /personal
 #  - /personal.html
 ---
