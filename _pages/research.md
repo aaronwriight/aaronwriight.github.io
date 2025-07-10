@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 ---
-
+<!--
 Aaron Wright
 Post-Baccalaureate Research Scholar @ MIT BCS 🧠
 
@@ -19,7 +19,7 @@ While I'm generally interested in all things cognitive neurolanguistics, my rese
 
 - Language and Emotion: What is the relationship between the languages we use and the emotions we experience?
 
-<!--
+
 [PURPOSE STATEMENT]
 
 - 1) SCOPE 
