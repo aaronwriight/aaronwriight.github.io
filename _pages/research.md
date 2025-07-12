@@ -17,7 +17,7 @@ While I'm generally interested in all things cognitive neurolinguistics, my rese
 
 - ***Language and Emotion***: What is the relationship between the languages we use and the emotions we experience?
 
-
+<!--
 [PURPOSE STATEMENT]
 
 - 1) SCOPE 
