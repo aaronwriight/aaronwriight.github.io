@@ -8,18 +8,12 @@ redirect_from:
 ---
 ---
 
-<blockquote>Well, that is one of the things to find out sometime. Isn't it splendid
-to think of all the things there are to find out about? It just makes
-me feel glad to be alive--it's such an interesting world. It wouldn't be
-half so interesting if we know all about everything, would it? There'd
-be no scope for imagination then, would there? <i>Anne of Green Gables</i>, L. M. Montgomery </blockquote>
-
-<div style="margin-left: 1.5em;">Well, that is one of the things to find out sometime. Isn't it splendid
-to think of all the things there are to find out about? It just makes
-me feel glad to be alive--it's such an interesting world. It wouldn't be
-half so interesting if we know all about everything, would it? There'd
-be no scope for imagination then, would there?
-<div align="right"> - <i>Anne of Green Gables</i>, L. M. Montgomery</div></div>
+<div style="margin-left: 1.5em;">
+  <i>Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? It just makes me feel glad to be alive--it's such an interesting world. It wouldn't be half so interesting if we know all about everything, would it? There'd be no scope for imagination then, would there?<br>
+  <div align="right">
+    –- <b><i>Anne of Green Gables</i></b>, L. M. Montgomery
+  </div>
+</div>
 
 ---
 
