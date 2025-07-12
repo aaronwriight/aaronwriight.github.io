@@ -8,6 +8,14 @@ redirect_from:
 ---
 ---
 
+<blockquote>Well, that is one of the things to find out sometime. Isn't it splendid
+to think of all the things there are to find out about? It just makes
+me feel glad to be alive--it's such an interesting world. It wouldn't be
+half so interesting if we know all about everything, would it? There'd
+be no scope for imagination then, would there? <i>Anne of Green Gables</i>, L. M. Montgomery </blockquote>
+
+---
+
 Hi! :)
 
 I’m a post-baccalaureate research assistant within MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu).

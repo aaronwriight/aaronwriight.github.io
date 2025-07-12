@@ -30,8 +30,8 @@ main:
   - title: "contact"
     url: /contact/
 
-  - title: "mbtl" # mind behind the lens
-    url: /mbtl/
+#  - title: "mbtl" # mind behind the lens
+#    url: /mbtl/
 
   # - title: "photography"
   #   url: /personal/
