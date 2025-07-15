@@ -24,33 +24,20 @@ My research aims to tell the story of how the human brain processes and produces
 
 These interests have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu).
 
-While I’m generally involved in charting the neural footprints that language leaves upon the brain, my research diverges along two trails:
+While I’m generally involved in mapping out the neural footprints that language leaves upon the brain, my research diverges along two trails:
 
-- <i><b>Bilingualism</b> : How does the ability to comprehend and use multiple linguistic inventories change how the brain processes language altogether?</i><br>
+- <i><b>Bilingualism</b> : <p style="color: #52ADC8;">How does the ability to comprehend and use multiple linguistic inventories change how the brain processes language altogether?</p></i><br>
 <div style="margin-left: 2.25em;">
-Mounting evidence suggests that the phenomenon of bilingualism has cognitive benefits.
+Mounting evidence suggests that experience with two or more languages imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their inportance as both a scientific lens and framework for interpersonal flourishing.
 </div>
 
-- <i><b>Language and Emotion</b> : What is the relationship between the languages we use and the emotions we experience?</i><br>
+- <i><b>Language and Emotion</b> : <p style="color: #52ADC8;">What is the relationship between the languages we use and the emotions we experience?</p</i><br>
 <div style="margin-left: 2.25em;">
-Individuals differ in how they experience and communicate their feelings.
+Individuals differ in how they experience and express feelings –– and not without being susceptible to miscommunication. As a result, I want to ask whether the way in which individuals express their emotions via language a) reliably reflects the internal structure of these concepts and b) provides insight into how they comprehend others' expressions of emotion.
 </div>
 
-<!--Here, I want to ask whether these phenomena
+The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site.
 
+Otherwise –– if I'm not sciencing, I'm probably hiking.
 
-relates meaningfully to how
-
-conceptual terrain of one's emotion is reflected in 
-
-experiences are reflected in – and perhaps predicted by – 
-
-Using a mix of neuroimaging, behavioral, and computational methods, how the language(s) we use reflect and contribute to the representational structure of our emotions.
-
-
- want to know how our linguistic inventories engage with the conceptual representations giving rise to our various emotional experiences.
-
-
--->
-<br>
-(And if I'm not sciencing, I'm probably hiking.)
+Happy (<p style="color: #52ADC8;">neural</p>) trails!
