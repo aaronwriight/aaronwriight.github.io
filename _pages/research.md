@@ -27,11 +27,11 @@ These interests have brought me to MIT’s [Brain & Cognitive Sciences](https://
 While I’m generally involved in charting the neural footprints that language leaves upon the brain, my research diverges along two trails:
 
 - <i><b>Bilingualism</b> : How does the ability to comprehend and use multiple linguistic inventories change how the brain processes language altogether?</i>
----
+
 Mounting evidence suggests that the phenomenon of bilingualism has cognitive benefits.
 
 - <i><b>Language and Emotion</b> : What is the relationship between the languages we use and the emotions we experience?</i>
----
+
 Individuals differ in how they experience and communicate their feelings. 
 
 <!--Here, I want to ask whether these phenomena
