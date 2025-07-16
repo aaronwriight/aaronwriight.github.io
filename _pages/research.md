@@ -18,13 +18,11 @@ redirect_from:
 
 ---
 
-Hi ~
-
-My research aims to tell the story of how the human brain processes and produces the rich array of languages it encounters!
+Hi!  ~  My research aims to tell the story of how the human brain processes and produces the rich array of languages it encounters!
 
 These interests have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu).
 
-While I’m generally involved in mapping out the neural footprints that language leaves upon the brain, my research diverges along two trails:
+While I’m generally involved in mapping out the neural footprints that language leaves upon the human brain, my research diverges along two trails:
 
 - ***Bilingualism*** *:* <span style="color: #52ADC8;"><i>How does the ability to comprehend and use multiple languages change how the brain processes language altogether?</i></span>
 <div style="margin-left: 2.25em;">
