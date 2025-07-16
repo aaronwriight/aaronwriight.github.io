@@ -32,7 +32,7 @@ Enjoy :)
 
 **Communities:**
 - My home away from science: [La Vida At Gordon College](https://lavidacenter.org)
-- Championing inclusivity, presence, and creativity: [Compass](https://compasspath.org)
+- Nurturing inclusivity, presence, and creativity: [Compass](https://compasspath.org)
 
 ---
 
@@ -79,5 +79,5 @@ Enjoy :)
 - Classical composer, [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
 - The gripping memoir, *I'm Glad My Mom Died*, from [Jennette McCurdy](https://www.jennettemccurdy.com)
 
-
+<br>
 Ask me about them over coffee or on a hike sometime!
