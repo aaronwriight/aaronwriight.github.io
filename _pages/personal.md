@@ -9,13 +9,13 @@ author_profile: true
 ---
 ---
 
-I'm a sucker for a good story.
+I love a good story.
 
 
-I hold a variety of things in my heart, all of which, in one way or another, flavor my approach to cognitive science.
+I hold a variety of things in my heart –– all of which, in one way or another, flavor my approach to cognitive science.
 
 
-Chief among them are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my own story.
+Chief among them are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story.
 
 
 Everything below is laced with a lively blend of its own woe and wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings.
@@ -32,6 +32,7 @@ Enjoy :)
 
 **Communities:**
 - My home away from science: [La Vida At Gordon College](https://lavidacenter.org)
+- Championing inclusivity, presence, and creativity: [Compass](https://compasspath.org)
 
 ---
 
@@ -63,7 +64,7 @@ Enjoy :)
 **Creatives:**
 - The independent design studio, [HOUSEOFDAKH](https://houseofdakh.com)
 - Data visualist, [Cédric Scherer](https://www.cedricscherer.com)
-- My TALENTED friend and storyteller, Eden Harfield at [Eden Grace Creative](https://www.edengracecreative.com)
+- My TALENTED friend and storyteller, Eden Harfield, at [Eden Grace Creative](https://www.edengracecreative.com)
 
 ---
 
@@ -75,9 +76,8 @@ Enjoy :)
 **Other inspirations:**
 - Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)
 - Jon Bellion's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
-- Classical composer [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
+- Classical composer, [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
 - The gripping memoir, *I'm Glad My Mom Died*, from [Jennette McCurdy](https://www.jennettemccurdy.com)
 
----
 
 Ask me about them over coffee or on a hike sometime!
