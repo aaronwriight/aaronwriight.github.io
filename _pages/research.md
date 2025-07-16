@@ -8,16 +8,13 @@ redirect_from:
 ---
 ---
 
-<div style="max-width: 75%; margin: 0 auto; text-align: center; padding: 1em 0;">
+<div style="max-width: 50%; margin: 0 auto; text-align: center; padding: 0.5em 0;">
   <div>
     <i>
-      Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
-      It just makes me feel glad to be alive –– it's such an interesting world. 
-      It wouldn't be half so interesting if we know all about everything, would it? 
-      There'd be no scope for imagination then, would there?
+      Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? It just makes me feel glad to be alive –– it's such an interesting world. It wouldn't be half so interesting if we knew all about everything, would it? There'd be no scope for imagination then, would there?
     </i>
   </div>
-  <div style="text-align: right; margin-top: 0.75em;">
+  <div style="text-align: right; margin-top: 0.5em;">
     –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
   </div>
 </div>
