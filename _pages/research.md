@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "welcome" # title that appears in url tab
+title: "hi! ~" # title that appears in url tab
 author_profile: true
 redirect_from: 
   - /research/
@@ -17,8 +17,6 @@ redirect_from:
 </div>
 
 ---
-
-Hi!  ~
 
 My research aims to tell the story of how the human brain processes and produces the rich array of languages it encounters!
 
