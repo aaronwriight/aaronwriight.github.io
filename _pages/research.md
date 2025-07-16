@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hello!" # title that appears in url tab
+title: "hello! ~" # title that appears in url tab
 author_profile: true
 redirect_from: 
   - /research/
@@ -8,6 +8,19 @@ redirect_from:
 ---
 ---
 
+<div style="width: 90%; margin: 0 auto; text-align: center;">
+  <i>
+    Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
+    It just makes me feel glad to be alive –– it's such an interesting world. 
+    It wouldn't be half so interesting if we know all about everything, would it? 
+    There'd be no scope for imagination then, would there?
+  </i>
+  <div style="text-align: right; padding-right: 2em; margin-top: 0.5em;">
+    –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
+  </div>
+</div>
+
+<!--
 <div style="max-width: 50%; margin: 0 auto; text-align: center; padding: 0.5em 0;">
   <div>
     <i>
@@ -19,7 +32,7 @@ redirect_from:
   </div>
 </div>
 
-<!--
+
 <div style="text-align: center; margin: 0 auto; max-width: 75%;">
   <i>Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? It just makes me feel glad to be alive –– it's such an interesting world. It wouldn't be half so interesting if we know all about everything, would it? There'd be no scope for imagination then, would there?</i><br>
   <br>
@@ -28,6 +41,7 @@ redirect_from:
   </div>
 </div>
 -->
+
 
 ---
 
