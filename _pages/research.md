@@ -15,7 +15,7 @@ redirect_from:
     It wouldn't be half so interesting if we know all about everything, would it? 
     There'd be no scope for imagination then, would there?
   </i>
-  <div style="text-align: right; margin-top: 0.5em;">
+  <div style="text-align: right; padding-right: 2em; margin-top: 0.5em;">
     –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
   </div>
 </div>
