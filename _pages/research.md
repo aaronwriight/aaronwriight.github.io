@@ -8,6 +8,21 @@ redirect_from:
 ---
 ---
 
+<div style="max-width: 75%; margin: 0 auto; padding: 1em 0;">
+  <div style="text-align: center;">
+    <i>
+      Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
+      It just makes me feel glad to be alive –– it's such an interesting world. 
+      It wouldn't be half so interesting if we know all about everything, would it? 
+      There'd be no scope for imagination then, would there?
+    </i>
+  </div>
+  <div style="text-align: right; padding-top: 0.5em;">
+    –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
+  </div>
+</div>
+
+<!--
 <div style="text-align: center; margin: 0 auto; max-width: 75%;">
   <i>Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? It just makes me feel glad to be alive –– it's such an interesting world. It wouldn't be half so interesting if we know all about everything, would it? There'd be no scope for imagination then, would there?</i><br>
   <br>
@@ -15,6 +30,7 @@ redirect_from:
     –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
   </div>
 </div>
+-->
 
 ---
 
