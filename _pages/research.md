@@ -33,7 +33,7 @@ Mounting evidence suggests that experience with two or more linguistic inventori
 
 - ***Language and Emotion*** *:* <span style="color: #52ADC8;"><i>What is the relationship between the languages we use and the emotions we experience?</i></span>  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
-Individuals differ in how they experience and express feelings –– and not without being susceptible to miscommunication. As a result, I want to ask whether the way in which individuals express their emotions via language <b><i>a)</i></b>> reliably reflects the internal structure of these concepts and <b><i>b)</i></b> provides insight into how they comprehend others' expressions of emotion.
+Individuals differ in how they experience and express feelings –– and not without being susceptible to miscommunication. As a result, I want to ask whether the way in which individuals express their emotions via language <i><b>a</b>)</i> reliably reflects the internal structure of these concepts and <i><b>b</b>)</i> provides insight into how they comprehend others' expressions of emotion.
 </div>
 
 The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site.
