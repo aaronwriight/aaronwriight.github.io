@@ -5,7 +5,5 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to: /files/cv/WrightAaron_cv_july2025_current.pdf
 ---
----
-
-[I’m currently building this platform – more to come soon!]
