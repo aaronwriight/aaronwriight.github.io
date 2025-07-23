@@ -28,17 +28,17 @@ These interests have brought me to MIT’s [Brain & Cognitive Sciences](https://
 
 While I’m generally involved in mapping out the neural footprints that language leaves upon the human brain, my research diverges along three trails:
 
-- ***Bilingualism*** *|* <span style="color: #52ADC8;"><i>How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
+- ***Bilingualism*** *\|* <span style="color: #52ADC8;"><i>How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
 <div style="margin-left: 2.25em;">
 Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
 </div>
 
-- ***Language & Emotion*** *|* <span style="color: #52ADC8;"><i>What makes language emotional?</i></span>  
+- ***Language & Emotion*** *\|* <span style="color: #52ADC8;"><i>What makes language emotional?</i></span>  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 Neither the parts nor sum of language and emotion are straightforward. Individuals differ in how they interpret linguistic expressions of emotion, and their own depictions are hardly more consistent. Accordingly, I want to ask <i><b>i</b>)</i> how we begin to map emotion onto language, and <i><b>ii</b>)</i> what mechanisms underly our ability to update these mappings on-line and in emotional contexts.
 </div>
 
-- ***Culture & Language*** | <span style="color: #52ADC8;"><i>How do individual and cross-cultural differences influence language processing?</i></span>  
+- ***Culture & Language*** *\|* <span style="color: #52ADC8;"><i>How do individual and cross-cultural differences influence language processing?</i></span>  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by i><b>i</b>)</i> individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
 <!-- Are individual differences or cross-cultural pressures a stronger predictor of linguistic ability? -->
