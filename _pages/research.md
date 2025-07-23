@@ -20,45 +20,28 @@ redirect_from:
   </div>
 </div>
 
-<!--
-<div style="max-width: 50%; margin: 0 auto; text-align: center; padding: 0.5em 0;">
-  <div>
-    <i>
-      Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? It just makes me feel glad to be alive –– it's such an interesting world. It wouldn't be half so interesting if we knew all about everything, would it? There'd be no scope for imagination then, would there?
-    </i>
-  </div>
-  <div style="text-align: right; margin-top: 0.5em;">
-    –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
-  </div>
-</div>
-
-
-<div style="text-align: center; margin: 0 auto; max-width: 75%;">
-  <i>Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? It just makes me feel glad to be alive –– it's such an interesting world. It wouldn't be half so interesting if we know all about everything, would it? There'd be no scope for imagination then, would there?</i><br>
-  <br>
-  <div style="text-align: right; max-width: 75%; margin: 0 auto; padding-top: 0.5em;">
-    –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
-  </div>
-</div>
--->
-
-
 ---
 
 My research aims to tell the story of how the human brain processes and produces the rich array of languages it encounters!
 
 These interests have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu).
 
-While I’m generally involved in mapping out the neural footprints that language leaves upon the human brain, my research diverges along two trails:
+While I’m generally involved in mapping out the neural footprints that language leaves upon the human brain, my research diverges along three trails:
 
-- ***Bilingualism*** *:* <span style="color: #52ADC8;"><i>How does the ability to comprehend and use multiple languages change how the brain processes language altogether?</i></span>
+- ***Bilingualism*** *|* <span style="color: #52ADC8;"><i>How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
 <div style="margin-left: 2.25em;">
 Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
 </div>
 
-- ***Language and Emotion*** *:* <span style="color: #52ADC8;"><i>What is the relationship between the languages we use and the emotions we experience?</i></span>  
+- ***Language & Emotion*** *|* <span style="color: #52ADC8;"><i>What makes language emotional?</i></span>  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
-Individuals differ in how they experience and express feelings –– and not without being susceptible to miscommunication. As a result, I want to ask whether the way in which individuals express their emotions via language <i><b>a</b>)</i> reliably reflects the internal structure of these concepts and <i><b>b</b>)</i> provides insight into how they comprehend others' expressions of emotion.
+Neither the parts nor sum of language and emotion are straightforward. Individuals differ in how they interpret linguistic expressions of emotion, and their own depictions are hardly more consistent. Accordingly, I want to ask <i><b>i</b>)</i> how we begin to map emotion onto language, and <i><b>ii</b>)</i> what mechanisms underly our ability to update these mappings on-line and in emotional contexts.
+</div>
+
+- ***Culture & Language*** | <span style="color: #52ADC8;"><i>How do individual and cross-cultural differences influence language processing?</i></span>  
+<div style="margin-left: 2.25em; margin-bottom: 1em;">
+Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by i><b>i</b>)</i> individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
+<!-- Are individual differences or cross-cultural pressures a stronger predictor of linguistic ability? -->
 </div>
 
 The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site.
