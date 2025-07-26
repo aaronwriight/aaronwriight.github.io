@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "template.html",
+    "href": "template.html",
+    "title": "{{TITLE}}",
+    "section": "",
+    "text": "This week’s TidyTuesday focused on [DATASET_DESCRIPTION]. I explored [KEY_INSIGHTS] using {{LANGUAGE}} to [VISUALIZATION_APPROACH]."
+  },
+  {
+    "objectID": "template.html#overview",
+    "href": "template.html#overview",
+    "title": "{{TITLE}}",
+    "section": "",
+    "text": "This week’s TidyTuesday focused on [DATASET_DESCRIPTION]. I explored [KEY_INSIGHTS] using {{LANGUAGE}} to [VISUALIZATION_APPROACH]."
+  },
+  {
+    "objectID": "template.html#dataset",
+    "href": "template.html#dataset",
+    "title": "{{TITLE}}",
+    "section": "Dataset",
+    "text": "Dataset\n```{{LANGUAGE_CODE}}\n#| label: load-data\n#| message: false\n#| warning: false\n\n# Get data\nlibrary(tidytuesdayR)\ndat &lt;- tt_load(\"{{DATE}}\")\n\n# Load other required libraries\n{{LIBRARY_IMPORTS}}\n\n```\n\nData Structure\n```{{LANGUAGE_CODE}}\n#| label: explore-data\n\n# Examine the dataset\n{{DATA_EXPLORATION}}\n```"
+  },
+  {
+    "objectID": "template.html#analysis",
+    "href": "template.html#analysis",
+    "title": "{{TITLE}}",
+    "section": "Analysis",
+    "text": "Analysis\n\nData Preparation\n```{{LANGUAGE_CODE}}\n#| label: prep-data\n\n# Clean and prepare the data\n{{DATA_PREPARATION}}\n```"
+  },
+  {
+    "objectID": "template.html#visualization",
+    "href": "template.html#visualization",
+    "title": "{{TITLE}}",
+    "section": "Visualization",
+    "text": "Visualization\n```{{LANGUAGE_CODE}}\n#| label: main-plot\n#| fig-width: 12\n#| fig-height: 8\n#| warning: false\n\n# Create the main visualization\n{{MAIN_VISUALIZATION}}\n```"
+  },
+  {
+    "objectID": "template.html#technical-notes",
+    "href": "template.html#technical-notes",
+    "title": "{{TITLE}}",
+    "section": "Technical Notes",
+    "text": "Technical Notes\n\nData Source: TidyTuesday GitHub Repository\nAnalysis Date: {{DATE}}\nTools Used: {{TOOLS_USED}}\nKey Libraries: {{KEY_LIBRARIES}}"
+  },
+  {
+    "objectID": "template.html#viz",
+    "href": "template.html#viz",
+    "title": "{{TITLE}}",
+    "section": "Viz",
+    "text": "Viz"
+  },
+  {
+    "objectID": "template.html#next-steps",
+    "href": "template.html#next-steps",
+    "title": "{{TITLE}}",
+    "section": "Next Steps",
+    "text": "Next Steps\n\n[POTENTIAL_IMPROVEMENTS]\n[FUTURE_ANALYSIS_IDEAS]\n[DATA_QUALITY_NOTES]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "No visualizations found."
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html",
+    "title": "{{TITLE}}",
+    "section": "",
+    "text": "This week’s TidyTuesday focused on [DATASET_DESCRIPTION]. I explored [KEY_INSIGHTS] using {{LANGUAGE}} to [VISUALIZATION_APPROACH]."
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#overview",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#overview",
+    "title": "{{TITLE}}",
+    "section": "",
+    "text": "This week’s TidyTuesday focused on [DATASET_DESCRIPTION]. I explored [KEY_INSIGHTS] using {{LANGUAGE}} to [VISUALIZATION_APPROACH]."
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#dataset",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#dataset",
+    "title": "{{TITLE}}",
+    "section": "Dataset",
+    "text": "Dataset\n```{{LANGUAGE_CODE}}\n#| label: load-data\n#| message: false\n#| warning: false\n\n# Get data\nlibrary(tidytuesdayR)\ndat &lt;- tt_load(\"{{DATE}}\")\n\n# Load other required libraries\n{{LIBRARY_IMPORTS}}\n\n```\n\nData Structure\n```{{LANGUAGE_CODE}}\n#| label: explore-data\n\n# Examine the dataset\n{{DATA_EXPLORATION}}\n```"
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#analysis",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#analysis",
+    "title": "{{TITLE}}",
+    "section": "Analysis",
+    "text": "Analysis\n\nData Preparation\n```{{LANGUAGE_CODE}}\n#| label: prep-data\n\n# Clean and prepare the data\n{{DATA_PREPARATION}}\n```"
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#visualization",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#visualization",
+    "title": "{{TITLE}}",
+    "section": "Visualization",
+    "text": "Visualization\n```{{LANGUAGE_CODE}}\n#| label: main-plot\n#| fig-width: 12\n#| fig-height: 8\n#| warning: false\n\n# Create the main visualization\n{{MAIN_VISUALIZATION}}\n```"
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#technical-notes",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#technical-notes",
+    "title": "{{TITLE}}",
+    "section": "Technical Notes",
+    "text": "Technical Notes\n\nData Source: TidyTuesday GitHub Repository\nAnalysis Date: {{DATE}}\nTools Used: {{TOOLS_USED}}\nKey Libraries: {{KEY_LIBRARIES}}"
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#viz",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#viz",
+    "title": "{{TITLE}}",
+    "section": "Viz",
+    "text": "Viz"
+  },
+  {
+    "objectID": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#next-steps",
+    "href": "challenges/2025/2025_29_MTA_Permanent_Art_Catalog/2025_29_MTA_Permanent_Art_Catalogue.html#next-steps",
+    "title": "{{TITLE}}",
+    "section": "Next Steps",
+    "text": "Next Steps\n\n[POTENTIAL_IMPROVEMENTS]\n[FUTURE_ANALYSIS_IDEAS]\n[DATA_QUALITY_NOTES]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Project",
+    "section": "",
+    "text": "[I’m currently building this platform – more to come soon!]"
+  }
+]
