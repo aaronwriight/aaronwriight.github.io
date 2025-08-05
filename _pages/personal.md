@@ -30,82 +30,132 @@ Enjoy :)
 
 ---
 
-<details>
-  <summary><strong>Communities</strong></summary>
-
-- My home away from science: [La Vida At Gordon College](https://lavidacenter.org)  
+**Communities:**
+- My home away from science: [La Vida At Gordon College](https://lavidacenter.org)
 - Nurturing inclusivity, presence, and creativity: [Compass](https://compasspath.org)
 
+---
+
+**Artists & albums:**
+- [*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion
+- [*Everybody*](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk), Logic
+- [*Change of Scenery II*](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro), Quinn XCII
+- [*Brol La Suite*](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu), Angèle
+- [*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN
+- [*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle
+
+---
+
+**Films:**
+- La La Land
+- A Quiet Place
+- Good Will Hunting
+- Spirited Away
+
+---
+
+**Literature:**
+- *Anne of Green Gables*, Lucy Maud Montgomery
+- *The Haunting of Hill House*, Shirley Jackson
+- *A Girl of the Limberlost*, Gene Stratton-Porter
+
+---
+
+**Creatives:**
+- The independent design studio, [HOUSEOFDAKH](https://houseofdakh.com)
+- Data visualist, [Cédric Scherer](https://www.cedricscherer.com)
+- My TALENTED friend and storyteller, Eden Harfield, at [Eden Grace Creative](https://www.edengracecreative.com)
+
+---
+
+**Podcasts:**
+- Pocket-sized science with hand-picked experts: [Ologies with Alie Ward](https://www.alieward.com)
+
+---
+
+**Other inspirations:**
+- Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)
+- Jon Bellion's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
+- Classical composer, [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
+- The gripping memoir, *I'm Glad My Mom Died*, from [Jennette McCurdy](https://www.jennettemccurdy.com)
+
+<br>
+Ask me about them over coffee or on a hike sometime!
+
+
+<details>
+<summary><strong>Communities</strong></summary>
+
+- My home away from science: <a href="https://lavidacenter.org">La Vida At Gordon College</a>  
+- Nurturing inclusivity, presence, and creativity: <a href="https://compasspath.org">Compass</a>
+
 </details>
 
 ---
 
 <details>
-  <summary><strong>Artists & albums</strong></summary>
+<summary><strong>Artists & albums</strong></summary>
 
-- [*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion  
-- [*Everybody*](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk), Logic  
-- [*Change of Scenery II*](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro), Quinn XCII  
-- [*Brol La Suite*](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu), Angèle  
-- [*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN  
-- [*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle  
+- <a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion  
+- <a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"><em>Everybody</em></a>, Logic  
+- <a href="https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro"><em>Change of Scenery II</em></a>, Quinn XCII  
+- <a href="https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"><em>Brol La Suite</em></a>, Angèle  
+- <a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w"><em>Rainbow Mixtape</em></a>, COIN  
+- <a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"><em>True Love</em></a>, Crystal Gayle
 
 </details>
 
 ---
 
 <details>
-  <summary><strong>Films</strong></summary>
+<summary><strong>Films</strong></summary>
 
 - La La Land  
 - A Quiet Place  
 - Good Will Hunting  
-- Spirited Away  
+- Spirited Away
 
 </details>
 
 ---
 
 <details>
-  <summary><strong>Literature</strong></summary>
+<summary><strong>Literature</strong></summary>
 
-- *Anne of Green Gables*, Lucy Maud Montgomery  
-- *The Haunting of Hill House*, Shirley Jackson  
-- *A Girl of the Limberlost*, Gene Stratton-Porter  
-
-</details>
-
----
-
-<details>
-  <summary><strong>Creatives</strong></summary>
-
-- The independent design studio, [HOUSEOFDAKH](https://houseofdakh.com)  
-- Data visualist, [Cédric Scherer](https://www.cedricscherer.com)  
-- My TALENTED friend and storyteller, Eden Harfield, at [Eden Grace Creative](https://www.edengracecreative.com)  
+- <em>Anne of Green Gables</em>, Lucy Maud Montgomery  
+- <em>The Haunting of Hill House</em>, Shirley Jackson  
+- <em>A Girl of the Limberlost</em>, Gene Stratton-Porter
 
 </details>
 
 ---
 
 <details>
-  <summary><strong>Podcasts</strong></summary>
+<summary><strong>Creatives</strong></summary>
 
-- Pocket-sized science with hand-picked experts: [Ologies with Alie Ward](https://www.alieward.com)  
+- The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a>  
+- Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a>  
+- My TALENTED friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a>
 
 </details>
 
 ---
 
 <details>
-  <summary><strong>Other inspirations</strong></summary>
+<summary><strong>Podcasts</strong></summary>
 
-- Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)  
-- Jon Bellion's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)  
-- Classical composer, [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)  
-- The gripping memoir, *I'm Glad My Mom Died*, from [Jennette McCurdy](https://www.jennettemccurdy.com)  
+- Pocket-sized science with hand-picked experts: <a href="https://www.alieward.com">Ologies with Alie Ward</a>
 
 </details>
 
-<br>
-Ask me about them over coffee or on a hike sometime!
+---
+
+<details>
+<summary><strong>Other inspirations</strong></summary>
+
+- Landscape photography by <a href="https://www.frihead.ch">Mathilde Rietsch</a>  
+- Jon Bellion's <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a>  
+- Classical composer, <a href="https://www.christopherdenniscoleman.com">Christopher Dennis Coleman</a>  
+- The gripping memoir, <em>I'm Glad My Mom Died</em>, from <a href="https://www.jennettemccurdy.com">Jennette McCurdy</a>
+
+</details>
