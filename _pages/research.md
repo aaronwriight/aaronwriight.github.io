@@ -40,7 +40,7 @@ Neither the parts nor sum of language and emotion are straightforward. Individua
 
 - ***Culture & Language*** *\|* <span style="color: #52ADC8;"><i>How do individual and cross-cultural differences influence language processing?</i></span>  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
-Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by i><b>i</b>)</i> individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
+Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by <i><b>i</b>)</i> individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
 <!-- Are individual differences or cross-cultural pressures a stronger predictor of linguistic ability? -->
 </div>
 
