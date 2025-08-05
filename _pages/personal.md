@@ -30,61 +30,10 @@ Enjoy :)
 
 ---
 
-**Communities:**
-- My home away from science: [La Vida At Gordon College](https://lavidacenter.org)
-- Nurturing inclusivity, presence, and creativity: [Compass](https://compasspath.org)
-
----
-
-**Artists & albums:**
-- [*The Definition*](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC), Jon Bellion
-- [*Everybody*](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk), Logic
-- [*Change of Scenery II*](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro), Quinn XCII
-- [*Brol La Suite*](https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu), Angèle
-- [*Rainbow Mixtape*](https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w), COIN
-- [*True Love*](https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn), Crystal Gayle
-
----
-
-**Films:**
-- La La Land
-- A Quiet Place
-- Good Will Hunting
-- Spirited Away
-
----
-
-**Literature:**
-- *Anne of Green Gables*, Lucy Maud Montgomery
-- *The Haunting of Hill House*, Shirley Jackson
-- *A Girl of the Limberlost*, Gene Stratton-Porter
-
----
-
-**Creatives:**
-- The independent design studio, [HOUSEOFDAKH](https://houseofdakh.com)
-- Data visualist, [Cédric Scherer](https://www.cedricscherer.com)
-- My TALENTED friend and storyteller, Eden Harfield, at [Eden Grace Creative](https://www.edengracecreative.com)
-
----
-
-**Podcasts:**
-- Pocket-sized science with hand-picked experts: [Ologies with Alie Ward](https://www.alieward.com)
-
----
-
-**Other inspirations:**
-- Landscape photography by [Mathilde Rietsch](https://www.frihead.ch)
-- Jon Bellion's [Beautiful Mind Projects](https://www.beautifulmindprojects.com)
-- Classical composer, [Christopher Dennis Coleman](https://www.christopherdenniscoleman.com)
-- The gripping memoir, *I'm Glad My Mom Died*, from [Jennette McCurdy](https://www.jennettemccurdy.com)
-
-<br>
-Ask me about them over coffee or on a hike sometime!
-
-
 <details>
 <summary><strong>Communities</strong></summary>
+
+<br>
 
 - My home away from science: <a href="https://lavidacenter.org">La Vida At Gordon College</a>  
 - Nurturing inclusivity, presence, and creativity: <a href="https://compasspath.org">Compass</a>
@@ -95,6 +44,8 @@ Ask me about them over coffee or on a hike sometime!
 
 <details>
 <summary><strong>Artists & albums</strong></summary>
+
+<br>
 
 - <a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion  
 - <a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"><em>Everybody</em></a>, Logic  
@@ -110,6 +61,8 @@ Ask me about them over coffee or on a hike sometime!
 <details>
 <summary><strong>Films</strong></summary>
 
+<br>
+
 - La La Land  
 - A Quiet Place  
 - Good Will Hunting  
@@ -122,6 +75,8 @@ Ask me about them over coffee or on a hike sometime!
 <details>
 <summary><strong>Literature</strong></summary>
 
+<br>
+
 - <em>Anne of Green Gables</em>, Lucy Maud Montgomery  
 - <em>The Haunting of Hill House</em>, Shirley Jackson  
 - <em>A Girl of the Limberlost</em>, Gene Stratton-Porter
@@ -132,6 +87,8 @@ Ask me about them over coffee or on a hike sometime!
 
 <details>
 <summary><strong>Creatives</strong></summary>
+
+<br>
 
 - The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a>  
 - Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a>  
@@ -144,6 +101,8 @@ Ask me about them over coffee or on a hike sometime!
 <details>
 <summary><strong>Podcasts</strong></summary>
 
+<br>
+
 - Pocket-sized science with hand-picked experts: <a href="https://www.alieward.com">Ologies with Alie Ward</a>
 
 </details>
@@ -152,6 +111,8 @@ Ask me about them over coffee or on a hike sometime!
 
 <details>
 <summary><strong>Other inspirations</strong></summary>
+
+<br>
 
 - Landscape photography by <a href="https://www.frihead.ch">Mathilde Rietsch</a>  
 - Jon Bellion's <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a>  
