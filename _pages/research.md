@@ -6,7 +6,55 @@ redirect_from:
   - /research/
   - /research.html
 ---
----
+
+<style>
+  .pub-links {
+    display: flex;
+    gap: 0.5em;
+    font-family: sans-serif;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .pub-links details {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+
+  .pub-links summary {
+    display: inline;
+    cursor: pointer;
+    color: #52ADC8;
+    list-style: none;
+  }
+
+  .pub-links summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .pub-links details[open] > div {
+    position: static;
+    background: none;
+    border: none;
+    padding: 0.25em 0 0 0;
+    margin: 0;
+  }
+
+  .abstract-tab {
+    color: #52ADC8;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .abstract-tab:hover {
+    text-decoration: underline;
+  }
+
+  .abstract-text {
+    max-width: 600px;
+  }
+</style>
 
 <div style="width: 90%; margin: 0 auto; text-align: center;">
   <i>
@@ -51,56 +99,57 @@ Otherwise –– if I'm not sciencing, I'm probably hiking.
 Happy (neural) trails! :)
 
 
+
+<!-- SECTION TO UPDATE -->
+
 <ul>
 
-
   <li>
-  <div class="article-block">
+    <div class="pub-block">
       <details>
-          <summary>
-          <span class="abstract-tab">Bilingualism</span>
-          <span> and scholars that have captured my attention, challenged my convictions, shaped my understanding, and inspired my favorite discussions.</span>
-          </summary>
-          <div class="abstract-text" style="margin-left: 2.25em;">
-              <p>
-                  [TEXT HERE]
-              </p>
-          </div>
+        <summary>
+          <b>Bilingualism</b>
+          <span style="color: #52ADC8;"> | How does the ability to use multiple languages change how the brain processes language altogether?</span>
+        </summary>
+        <div class="abstract-text" style="margin-left: 2.25em;">
+          <p>
+            Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
+          </p>
+        </div>
       </details>
-  </div>
+    </div>
   </li>
 
   <li>
-  <div class="article-block">
+    <div class="pub-block">
       <details>
-          <summary>
-          <span class="abstract-tab">Language & emnotion</span>
-          <span> and scholars that have captured my attention, challenged my convictions, shaped my understanding, and inspired my favorite discussions.</span>
-          </summary>
-          <div class="abstract-text" style="margin-left: 2.25em;">
-              <p>
-                  [TEXT HERE]
-              </p>
-          </div>
+        <summary>
+          <b>Language & Emotion</b>
+          <span style="color: #52ADC8;"> | What makes language emotional?</span>
+        </summary>
+        <div class="abstract-text" style="margin-left: 2.25em;">
+          <p>
+            Neither the parts nor sum of language and emotion are straightforward. Individuals differ in how they interpret linguistic expressions of emotion, and their own depictions are hardly more consistent. Accordingly, I want to ask <i><b>i)</b></i> how we begin to map emotion onto language, and <i><b>ii)</b></i> what mechanisms underly our ability to update these mappings on-line and in emotional contexts.
+          </p>
+        </div>
       </details>
-  </div>
+    </div>
   </li>
 
   <li>
-  <div class="article-block">
+    <div class="pub-block">
       <details>
-          <summary>
-          <span class="abstract-tab">Language & culture</span>
-          <span> and scholars that have captured my attention, challenged my convictions, shaped my understanding, and inspired my favorite discussions.</span>
-          </summary>
-          <div class="abstract-text" style="margin-left: 2.25em;">
-              <p>
-                  [TEXT HERE]
-              </p>
-          </div>
+        <summary>
+          <b>Culture & Language</b>
+          <span style="color: #52ADC8;"> | How do individual and cross-cultural differences influence language processing?</span>
+        </summary>
+        <div class="abstract-text" style="margin-left: 2.25em;">
+          <p>
+            Differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by <i><b>i)</b></i> individuals' varying cultural backgrounds and <i><b>ii)</b></i> the cross-cultural contexts they navigate.
+          </p>
+        </div>
       </details>
-  </div>
+    </div>
   </li>
-  
 
 </ul>
