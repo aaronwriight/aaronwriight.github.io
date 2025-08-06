@@ -9,41 +9,59 @@ author_profile: true
 ---
 ---
 <style>
-  .personal-links {
-    display: flex;
-    gap: 1.5em;
-    align-items: flex-start;
-    font-family: sans-serif;
-    flex-wrap: wrap;
-    margin-bottom: 1em;
-  }
+.personal-links {
+  display: flex;
+  gap: 1.5em;
+  align-items: flex-start;
+  font-family: sans-serif;
+  flex-wrap: nowrap; /* keep all dropdowns in one line */
+  margin-bottom: 1em;
+}
 
-  .personal-links details {
-    display: block;
-  }
+.personal-links details {
+  position: relative; /* anchor for dropdown content */
+  width: auto;
+  display: inline-block;
+}
 
-  .personal-links summary {
-    display: inline-block;
-    color: #2AA198;
-    cursor: pointer;
-    text-decoration: none;
-    margin-bottom: 0.5em;
-  }
+.personal-links details > div {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  padding: 0.75em;
+  margin-top: 0;
+  min-width: 200px;
+  z-index: 10;
+  white-space: normal;
+}
 
-  .personal-links summary:hover {
-    text-decoration: underline;
-  }
+.personal-links summary {
+  list-style: none;
+  cursor: pointer;
+  color: #2AA198;
+  text-decoration: none;
+  user-select: none;
+  display: inline-block;
+  padding: 0.25em 0.5em;
+}
 
-  .personal-divider {
-    user-select: none;
-    display: inline-block;
-    margin: 0 0.25em;
-  }
+.personal-links summary:hover {
+  text-decoration: underline;
+}
 
-  summary::-webkit-details-marker,
-  summary::marker {
-    display: none;
-  }
+.personal-divider {
+  user-select: none;
+  display: inline-block;
+  margin: 0 0.25em;
+}
+
+summary::-webkit-details-marker,
+summary::marker {
+  display: none;
+}
 </style>
 
 I love a good story.
