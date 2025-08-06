@@ -47,7 +47,7 @@ redirect_from:
   }
 
   .abstract-tab {
-    color: #52ADC8;
+    color: #2AA198;
     text-decoration: none;
     cursor: pointer;
   }
