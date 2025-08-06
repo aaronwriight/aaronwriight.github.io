@@ -11,23 +11,18 @@ author_profile: true
 <style>
   .personal-links {
     display: flex;
-    gap: 1.5em;
-    align-items: flex-start;
+    gap: 0.5em;
+    align-items: center;
     font-family: sans-serif;
     flex-wrap: wrap;
     margin-bottom: 1em;
   }
 
-  .personal-links details {
-    display: block;
-  }
-
   .personal-links summary {
-    display: inline-block;
+    display: inline;
     color: #2AA198;
     cursor: pointer;
     text-decoration: none;
-    margin-bottom: 0.5em;
   }
 
   .personal-links summary:hover {
@@ -35,12 +30,21 @@ author_profile: true
   }
 
   .personal-divider {
+    cursor: text;
     user-select: none;
-    display: inline-block;
-    margin: 0 0.25em;
+    all: unset;
+    display: inline;
+    cursor: text;
   }
 
-  summary::-webkit-details-marker,
+  .personal-divider:hover {
+    cursor: text;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
   summary::marker {
     display: none;
   }
