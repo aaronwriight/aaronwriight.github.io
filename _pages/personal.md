@@ -60,8 +60,22 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 
 <div class="personal-links">
+
   <details>
     <summary>Art & Media</summary>
+    <span> </span>
+    <span class="personal-divider">|</span>
+    <a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC">The Definition</a>
+    <span class="personal-divider">|</span>
+    <a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk">Everybody</a>
+    <span class="personal-divider">|</span>
+    <a href="https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro">Change of Scenery II</a>
+    <span class="personal-divider">|</span>
+    <a href="https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu">Brol La Suite</a>
+    <span class="personal-divider">|</span>
+    <a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w">Rainbow Mixtape</a>
+    <span class="personal-divider">|</span>
+    <a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn">True Love</a>
     <div>
       <p><b>Artists & Albums</b></p>
       <ul>
@@ -99,6 +113,11 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
   <details>
     <summary>Communities</summary>
+    <span> </span>
+    <span class="personal-divider">|</span>
+    <a href="https://lavidacenter.org">La Vida At Gordon College</a>
+    <span class="personal-divider">|</span>
+    <a href="https://compasspath.org">Compass</a>
     <div>
       <p><b>Communities</b></p>
       <ul>
@@ -112,6 +131,13 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
   <details>
     <summary>Creative Initiatives</summary>
+    <span> </span>
+    <span class="personal-divider">|</span>
+    <a href="https://houseofdakh.com">HOUSEOFDAKH</a>
+    <span class="personal-divider">|</span>
+    <a href="https://www.cedricscherer.com">Cédric Scherer</a>
+    <span class="personal-divider">|</span>
+    <a href="https://www.edengracecreative.com">Eden Grace Creative</a>
     <div>
       <p><b>Creatives</b></p>
       <ul>
