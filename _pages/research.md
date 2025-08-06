@@ -30,11 +30,23 @@ redirect_from:
     list-style: none;
   }
 
+  summary {
+    cursor: pointer;
+  }
+
   .pub-links summary:hover {
     text-decoration: underline;
   }
 
   .pub-links summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary::marker {
     display: none;
   }
 
@@ -87,7 +99,8 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <span class="abstract-tab" style="color:#2AA198;"><i><b>Bilingualism</b></span><span style="color: black;"> | How does the ability to use multiple languages change how the brain processes language altogether?</span></i>
+          <span class="abstract-tab"><i><b>Bilingualism</b></i></span>
+          <span style="color: black;"><i> | How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
@@ -103,7 +116,8 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <span class="abstract-tab" style="color:#2AA198;"><i><b>Language & Emotion</b></span><span style="color: black;"> | What makes language emotional?</span></i>
+          <span class="abstract-tab"><i><b>Language & Emotion</b></i></span>
+          <span style="color: black;"><i> | What makes language emotional?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
@@ -119,7 +133,8 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <span class="abstract-tab" style="color:#2AA198;"><i><b>Culture & Language</b></span><span style="color: black;"> | How do individual and cross-cultural differences influence language processing?</span></i>
+          <span class="abstract-tab"><i><b>Culture & Language</b></i></span>
+          <span style="color: black;"><i> | How do individual and cross-cultural differences influence language processing?</i></span>
         </summary>
         <div class="abstract-text">
           <br>

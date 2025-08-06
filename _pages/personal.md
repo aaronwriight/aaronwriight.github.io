@@ -8,6 +8,19 @@ author_profile: true
 #  - /personal.html
 ---
 ---
+<style>
+  summary {
+      cursor: pointer;
+    }
+    
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary::marker {
+    display: none;
+  }
+</style>
 
 I love a good story.
 
