@@ -99,8 +99,7 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <span class="abstract-tab"><i><b>Bilingualism</b></i> |</span>
-          <span style="color: #2AA198;"><i> How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
+          <span style="color: #2AA198;" class="abstract-tab"><i> How does the ability to use multiple languages change how the brain processes language altogether?</i> <i>|</i> <b>Bilingualism</b></span>
         </summary>
         <div class="abstract-text">
           <br>
@@ -116,8 +115,7 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <span class="abstract-tab"><i><b>Language & Emotion</b></i> |</span>
-          <span style="color: #2AA198;"><i> What makes language emotional?</i></span>
+          <span style="color: #2AA198;" class="abstract-tab"><i> What makes language emotional?</i> <i>|</i> <b>Language & Emotion</b></span>
         </summary>
         <div class="abstract-text">
           <br>
@@ -133,8 +131,7 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <span class="abstract-tab"><i><b>Culture & Language</b></i> |</span>
-          <span style="color: #2AA198;"><i> How do individual and cross-cultural differences influence language processing?</i></span>
+          <span style="color: #2AA198;" class="abstract-tab"><i> How do individual and cross-cultural differences influence language processing?</i> <i>|</i> <b>Culture & Language</b></span>
         </summary>
         <div class="abstract-text">
           <br>

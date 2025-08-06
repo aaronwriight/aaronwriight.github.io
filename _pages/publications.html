@@ -46,6 +46,7 @@ author_profile: true
 
   .abstract-tab:hover {
     text-decoration: underline;
+    cursor: pointer;
   }
 
   .abstract-text {
@@ -54,8 +55,13 @@ author_profile: true
 
   .pub-divider {
     pointer-events: none;
-    cursor: text;
+    cursor: text !important;
     user-select: none;
+    color: black;
+  }
+
+  .pub-divider:hover {
+    cursor: text;
   }
 </style>
 
