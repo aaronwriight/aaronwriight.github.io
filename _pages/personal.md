@@ -11,8 +11,9 @@ author_profile: true
 <style>
   summary {
       cursor: pointer;
+      list-style: none;
     }
-    
+
   summary::-webkit-details-marker {
     display: none;
   }
