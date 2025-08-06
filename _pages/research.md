@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hello! ~" # title that appears in url tab
+title: "hello!" # title that appears in url tab
 author_profile: true
 redirect_from: 
   - /research/
