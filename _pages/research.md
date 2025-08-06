@@ -71,6 +71,10 @@ redirect_from:
   .abstract-text {
     max-width: 600px;
   }
+
+  .topic-label, .topic-divider {
+    cursor: text;
+  }
 </style>
 
 <div style="width: 90%; margin: 0 auto; text-align: center;">
@@ -99,7 +103,7 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <i><b>Bilingualism</b></i> <i>|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
+          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the ability to use multiple languages change how the brain processes language altogether?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
@@ -115,7 +119,7 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <i><b>Language & Emotion</b></i> <i>|</i> <span style="color: #2AA198;" class="abstract-tab"><i> What makes language emotional?</i></span>
+          <i><b class="topic-label">Language & Emotion</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> What makes language emotional?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
@@ -131,7 +135,7 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <i><b>Culture & Language</b></i> <i>|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How do individual and cross-cultural differences influence language processing?</i></span>
+          <i><b class="topic-label">Culture & Language</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How do individual and cross-cultural differences influence language processing?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
