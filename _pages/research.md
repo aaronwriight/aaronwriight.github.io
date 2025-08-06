@@ -6,8 +6,7 @@ redirect_from:
   - /research/
   - /research.html
 ---
-<hr>
-
+---
 <style>
   .pub-links {
     display: flex;
