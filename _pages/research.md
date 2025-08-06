@@ -49,3 +49,58 @@ The brain's functional landscape is yet largely and miraculously unexplored. You
 Otherwise –– if I'm not sciencing, I'm probably hiking.
 
 Happy (neural) trails! :)
+
+
+<ul>
+
+
+  <li>
+  <div class="article-block">
+      <details>
+          <summary>
+          <span class="abstract-tab">Bilingualism</span>
+          <span> and scholars that have captured my attention, challenged my convictions, shaped my understanding, and inspired my favorite discussions.</span>
+          </summary>
+          <div class="abstract-text" style="margin-left: 2.25em;">
+              <p>
+                  [TEXT HERE]
+              </p>
+          </div>
+      </details>
+  </div>
+  </li>
+
+  <li>
+  <div class="article-block">
+      <details>
+          <summary>
+          <span class="abstract-tab">Language & emnotion</span>
+          <span> and scholars that have captured my attention, challenged my convictions, shaped my understanding, and inspired my favorite discussions.</span>
+          </summary>
+          <div class="abstract-text" style="margin-left: 2.25em;">
+              <p>
+                  [TEXT HERE]
+              </p>
+          </div>
+      </details>
+  </div>
+  </li>
+
+  <li>
+  <div class="article-block">
+      <details>
+          <summary>
+          <span class="abstract-tab">Language & culture</span>
+          <span> and scholars that have captured my attention, challenged my convictions, shaped my understanding, and inspired my favorite discussions.</span>
+          </summary>
+          <div class="abstract-text" style="margin-left: 2.25em;">
+              <p>
+                  [TEXT HERE]
+              </p>
+          </div>
+      </details>
+  </div>
+  </li>
+  
+
+</ul>
