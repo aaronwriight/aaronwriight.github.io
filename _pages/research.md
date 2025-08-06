@@ -87,9 +87,10 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <i><b>Bilingualism</b><span style="color: black;"> | How does the ability to use multiple languages change how the brain processes language altogether?</span></i>
+          <span class="abstract-tab" style="color:#2AA198;"><i><b>Bilingualism</b></span><span style="color: black;"> | How does the ability to use multiple languages change how the brain processes language altogether?</span></i>
         </summary>
-        <div class="abstract-text" style="margin-left: 2.25em;">
+        <div class="abstract-text">
+          <br>
           <p>
             Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
           </p>
@@ -102,9 +103,10 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <i><b>Language & Emotion</b><span style="color: black;"> | What makes language emotional?</span></i>
+          <span class="abstract-tab" style="color:#2AA198;"><i><b>Language & Emotion</b></span><span style="color: black;"> | What makes language emotional?</span></i>
         </summary>
-        <div class="abstract-text" style="margin-left: 2.25em;">
+        <div class="abstract-text">
+          <br>
           <p>
             Neither the parts nor sum of language and emotion are straightforward. Individuals differ in how they interpret linguistic expressions of emotion, and their own depictions are hardly more consistent. Accordingly, I want to ask <i><b>i</b>)</i> how we begin to map emotion onto language, and <i><b>ii</b>)</i> what mechanisms underly our ability to update these mappings on-line and in emotional contexts.
           </p>
@@ -117,9 +119,10 @@ While I’m generally involved in mapping out the neural footprints that languag
     <div class="pub-block">
       <details>
         <summary>
-          <i><b>Culture & Language</b><span style="color: black;"> | How do individual and cross-cultural differences influence language processing?</span></i>
+          <span class="abstract-tab" style="color:#2AA198;"><i><b>Culture & Language</b></span><span style="color: black;"> | How do individual and cross-cultural differences influence language processing?</span></i>
         </summary>
-        <div class="abstract-text" style="margin-left: 2.25em;">
+        <div class="abstract-text">
+          <br>
           <p>
             Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by <i><b>i</b>)</i> individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
           </p>
