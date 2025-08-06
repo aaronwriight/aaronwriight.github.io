@@ -87,7 +87,7 @@ redirect_from:
 
 ---
 
-My research aims to tell the story of how the human brain processes and produces the rich array of languages it encounters!
+My research aims to tell the story of how the human brain processes and produces the rich array of languages it encounters.
 
 These interests have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu).
 
