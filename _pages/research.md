@@ -75,7 +75,6 @@ redirect_from:
     cursor: text;
   }
 </style>
-
 <div style="width: 90%; margin: 0 auto; text-align: center;">
   <i>
     Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 

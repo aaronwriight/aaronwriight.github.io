@@ -12,17 +12,38 @@ author_profile: true
   .personal-links {
     display: flex;
     gap: 0.5em;
-    align-items: center;
+    align-items: flex-start;
     font-family: sans-serif;
     flex-wrap: wrap;
     margin-bottom: 1em;
   }
 
+  .personal-links details {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+  }
+
+  .personal-links details > div {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 0.75em;
+    margin-top: 0.5em;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: max-content;
+    min-width: 250px;
+  }
+
   .personal-links summary {
-    display: inline;
+    display: inline-block;
     color: #2AA198;
     cursor: pointer;
     text-decoration: none;
+    list-style: none;
   }
 
   .personal-links summary:hover {
@@ -30,21 +51,11 @@ author_profile: true
   }
 
   .personal-divider {
-    cursor: text;
     user-select: none;
-    all: unset;
     display: inline;
-    cursor: text;
   }
 
-  .personal-divider:hover {
-    cursor: text;
-  }
-
-  summary::-webkit-details-marker {
-    display: none;
-  }
-
+  summary::-webkit-details-marker,
   summary::marker {
     display: none;
   }
@@ -130,3 +141,19 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
     </div>
   </details>
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const details = document.querySelectorAll(".personal-links details");
+
+    details.forEach((targetDetail) => {
+      targetDetail.addEventListener("toggle", () => {
+        if (targetDetail.open) {
+          details.forEach((detail) => {
+            if (detail !== targetDetail) detail.removeAttribute("open");
+          });
+        }
+      });
+    });
+  });
+</script>
