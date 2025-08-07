@@ -28,8 +28,6 @@ author_profile: true
   .dropdown-divider {
     cursor: text;
   }
-
-  .dropdown-toggle[data-tag].active-tag { text-decoration: underline; }
 </style>
 
 <b>One of the marks of a diligent scholar is the ability to engage with a variety of literature, appreciate its contributions, and yet exercise selectivity in adopting its perspectives.</b><br>
@@ -51,14 +49,14 @@ Below are several readings and resources I've found useful for navigating all th
             <p>
               <b>Legend</b> (click tabs to filter)<br>
               <hr>
-              {<span class="dropdown-toggle tag-filter" data-tag="language" style="color:#859901; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="language" style="color:#859901; cursor:pointer;">language</span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="emotion" style="color:#2AA198; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="emotion" style="color:#2AA198; cursor:pointer;">emotion</span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="fMRI" style="color:#6c71c4; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="fMRI" style="color:#6c71c4; cursor:pointer;">neuroimaging</span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">LLMs</span> & <span class="dropdown-toggle tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">ML</span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="behavioral" style="color:#d693c4; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="behavioral" style="color:#d693c4; cursor:pointer;">behavioral</span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">culture</span> |
-              {<span class="tag-filter" data-tag="favorites" style="cursor:pointer;"><b>›</b></span>} <span class="tag-filter" data-tag="favorites" style="cursor:pointer;"><b>favorites</b></span> |
-              {<span class="tag-filter" data-tag="all" style="cursor:pointer;">›</span>} <span class="tag-filter" data-tag="all" style="cursor:pointer;">all</span>
+              {<span class="tag-filter" data-tag="language" style="color:#859901; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="language" style="color:#859901; cursor:pointer;">language</span> |  
+              {<span class="tag-filter" data-tag="emotion" style="color:#2AA198; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="emotion" style="color:#2AA198; cursor:pointer;">emotion</span> |  
+              {<span class="tag-filter" data-tag="fMRI" style="color:#6c71c4; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="fMRI" style="color:#6c71c4; cursor:pointer;">neuroimaging</span> |  
+              {<span class="tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">LLMs</span> & <span class="tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">ML</span> |  
+              {<span class="tag-filter" data-tag="behavioral" style="color:#d693c4; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="behavioral" style="color:#d693c4; cursor:pointer;">behavioral</span> |  
+              {<span class="tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">culture</span> |  
+              {<span class="tag-filter" data-tag="favorites" style="cursor:pointer;"><b>›</b>} <b>favorites</b></span> |  
+              {<span class="tag-filter" data-tag="all" style="cursor:pointer;">›} all</span>
               <hr>
             </p>
         </div>
@@ -102,44 +100,24 @@ Below are several readings and resources I've found useful for navigating all th
               {<span style="color:#859901;">›</span><span style="color:#6c71c4;">›</span><span style="color:#e0519a;">›</span>}</li>
             </ul>
         </div>
-
         <script>
-          document.addEventListener("DOMContentLoaded", () => {
-            // select only toggles that represent tags (they have data-tag)
-            const toggles = document.querySelectorAll('.tag-filter[data-tag]');
-            const readings = document.querySelectorAll('.article-block li');
+          const filterButtons = document.querySelectorAll('.tag-filter');
+          const readings = document.querySelectorAll('.article-block li');
 
-            // hide all readings by default
-            readings.forEach(li => li.style.display = 'none');
+          filterButtons.forEach(btn => {
+            btn.addEventListener('click', () => {
+              const tag = btn.dataset.tag;
 
-            let activeTag = null;
+              readings.forEach(item => {
+                const isFavorite = item.querySelector('b') !== null;
 
-            toggles.forEach(t => {
-              t.addEventListener('click', () => {
-                const tag = t.dataset.tag;
-
-                // if clicking the same tag, turn everything off
-                if (activeTag === tag) {
-                  readings.forEach(li => li.style.display = 'none');
-                  activeTag = null;
-                  toggles.forEach(x => x.classList.remove('active-tag'));
-                  return;
+                if (tag === 'all') {
+                  item.style.display = '';
+                } else if (tag === 'favorites') {
+                  item.style.display = isFavorite ? '' : 'none';
+                } else {
+                  item.style.display = item.classList.contains(tag) ? '' : 'none';
                 }
-
-                // set active tag and update visual state
-                activeTag = tag;
-                toggles.forEach(x => x.classList.toggle('active-tag', x.dataset.tag === tag));
-
-                readings.forEach(li => {
-                  const isFavorite = li.querySelector('b') !== null;
-                  if (tag === 'all') {
-                    li.style.display = '';
-                  } else if (tag === 'favorites') {
-                    li.style.display = isFavorite ? '' : 'none';
-                  } else {
-                    li.style.display = li.classList.contains(tag) ? '' : 'none';
-                  }
-                });
               });
             });
           });
