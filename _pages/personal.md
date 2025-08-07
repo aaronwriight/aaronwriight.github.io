@@ -19,17 +19,12 @@ author_profile: true
     text-decoration: underline;
   }
 
-  .dropdown-divider {
-    cursor: text;
-    margin: 0 0.5em;
-    color: #888;
-    font-weight: 300;
-  }
 
   .dropdown-content {
     display: none;
     margin-left: 2.25em;
     margin-bottom: 1em;
+    text-align: left;
   }
 </style>
 
@@ -44,9 +39,9 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 <p>
   <span class="dropdown-toggle" data-target="art">Art & Media</span>
-  <span class="dropdown-divider">|</span>
+  | 
   <span class="dropdown-toggle" data-target="community">Communities</span>
-  <span class="dropdown-divider">|</span>
+  | 
   <span class="dropdown-toggle" data-target="creative">Creative Initiatives</span>
 </p>
 
@@ -75,30 +70,30 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
   </ul>
   <p><b>Podcasts</b></p>
   <ul>
-    <li><a href="https://www.alieward.com">Ologies with Alie Ward</a></li>
+    <li>Pocket-sized science with hand-picked experts: <a href="https://www.alieward.com">Ologies with Alie Ward</a></li>
   </ul>
 </div>
 
 <div id="community" class="dropdown-content">
   <ul>
-    <li><a href="https://lavidacenter.org">La Vida At Gordon College</a></li>
-    <li><a href="https://compasspath.org">Compass</a></li>
+    <li>My home away from science: <a href="https://lavidacenter.org">La Vida At Gordon College</a></li>
+    <li>Nurturing inclusivity, presence, and creativity: <a href="https://compasspath.org">Compass</a></li>
   </ul>
 </div>
 
 <div id="creative" class="dropdown-content">
   <ul>
-    <li><a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
-    <li><a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
-    <li><a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
-    <li><a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
+    <li>The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
+    <li>Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
+    <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
+    <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
   </ul>
   <p><b>Other Inspirations</b></p>
   <ul>
-    <li><a href="https://www.frihead.ch">Mathilde Rietsch</a></li>
-    <li><a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a></li>
-    <li><a href="https://www.christopherdenniscoleman.com">Christopher Dennis Coleman</a></li>
-    <li><em>I'm Glad My Mom Died</em>, <a href="https://www.jennettemccurdy.com">Jennette McCurdy</a></li>
+    <li>Landscape photography by <a href="https://www.frihead.ch">Mathilde Rietsch</a></li>
+    <li>Jon Bellion's <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a></li>
+    <li>Classical composer, <a href="https://www.christopherdenniscoleman.com">Christopher Dennis Coleman</a></li>
+    <li>The gripping memoir, <em>I'm Glad My Mom Died</em>, from <a href="https://www.jennettemccurdy.com">Jennette McCurdy</a></li>
   </ul>
 </div>
 
