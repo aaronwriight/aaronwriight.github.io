@@ -187,6 +187,21 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+  // ensure all dropdowns start closed
+  const dropdowns = document.querySelectorAll(".personal-links details");
+  dropdowns.forEach(details => {
+    details.open = false;
+
+    const summary = details.querySelector("summary");
+    summary.addEventListener("click", event => {
+      event.preventDefault();
+      const isOpen = details.open;
+      dropdowns.forEach(d => d.open = false); // close all
+      details.open = !isOpen; // toggle clicked one
+    });
+  });
+
+  // handle tab toggles
   const tabButtons = document.querySelectorAll(".tab-toggle");
   const tabContents = document.querySelectorAll(".tab-content");
 
@@ -197,19 +212,16 @@ document.addEventListener("DOMContentLoaded", () => {
       const isActive = btn.classList.contains("active");
 
       if (isActive) {
-        // deactivate current tab
         btn.classList.remove("active");
         activeContent.style.display = "none";
         activeContent.classList.remove("active");
       } else {
-        // clear all tabs
         tabButtons.forEach(b => b.classList.remove("active"));
         tabContents.forEach(c => {
           c.style.display = "none";
           c.classList.remove("active");
         });
 
-        // activate clicked tab
         btn.classList.add("active");
         activeContent.style.display = "block";
         activeContent.classList.add("active");
