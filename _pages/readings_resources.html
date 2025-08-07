@@ -12,10 +12,29 @@ author_profile: true
     color: #2AA198;
     cursor: pointer;
     text-decoration: none;
+    padding: 2px 4px;
+    margin: 0 4px;
+    border-radius: 4px;
+    font-weight: 500;
   }
 
   /* underline dropdown toggles on hover */
   .dropdown-toggle:hover {
+    text-decoration: underline;
+  }
+
+  /* tag-filter buttons styled to match dropdown-toggle */
+  .tag-filter {
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 2px 4px;
+    margin: 0 4px;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+
+  .tag-filter:hover {
     text-decoration: underline;
   }
 
@@ -101,23 +120,29 @@ Below are several readings and resources I've found useful for navigating all th
             </ul>
         </div>
         <script>
-          const filterButtons = document.querySelectorAll('.tag-filter');
-          const readings = document.querySelectorAll('.article-block li');
+          document.addEventListener("DOMContentLoaded", () => {
+            const buttons = document.querySelectorAll(".tag-filter");
+            const articles = document.querySelectorAll(".article-block li");
 
-          filterButtons.forEach(btn => {
-            btn.addEventListener('click', () => {
-              const tag = btn.dataset.tag;
+            // hide all articles by default
+            articles.forEach(article => article.style.display = "none");
 
-              readings.forEach(item => {
-                const isFavorite = item.querySelector('b') !== null;
+            buttons.forEach(button => {
+              button.addEventListener("click", () => {
+                const tag = button.dataset.tag;
 
-                if (tag === 'all') {
-                  item.style.display = '';
-                } else if (tag === 'favorites') {
-                  item.style.display = isFavorite ? '' : 'none';
-                } else {
-                  item.style.display = item.classList.contains(tag) ? '' : 'none';
+                // 'all' shows all; toggle restores hidden
+                if (tag === "all") {
+                  articles.forEach(article => article.style.display = "");
+                  return;
                 }
+
+                articles.forEach(article => {
+                  if (article.classList.contains(tag)) {
+                    const currentDisplay = article.style.display;
+                    article.style.display = currentDisplay === "none" ? "" : "none";
+                  }
+                });
               });
             });
           });
