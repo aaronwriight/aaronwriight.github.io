@@ -55,8 +55,8 @@ redirect_from:
     position: static;
     background: none;
     border: none;
-    padding: 0.25em 0 0 0;
-    margin: 0;
+    margin: 0.25em 0 0 0;
+    padding: 0;
   }
 
   .abstract-tab {
@@ -68,8 +68,17 @@ redirect_from:
     text-decoration: underline;
   }
 
-  .topic-label, .topic-divider {
+  .topic-label {
     cursor: text;
+  }
+
+  .topic-divider {
+    cursor: text;
+    user-select: none;
+    all: unset;
+    display: inline;
+    margin: 0 0.25em;
+    color: inherit;
   }
 </style>
 
@@ -129,9 +138,6 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
 The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.
 
 Happy (<i>neural</i>) trails! :)<br>
-<br>
-<br>
-<br>
 <br>
 
 <hr>
