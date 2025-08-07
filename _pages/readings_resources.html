@@ -7,17 +7,21 @@ author_profile: true
 <hr>
 
 <style>
-  .abstract-tab {
+  /* styling for clickable tabs to filter article categories */
+  .filter-tab {
     color: #2AA198;
     cursor: pointer;
     text-decoration: none;
   }
-  .abstract-tab:hover {
+  /* underline filter tab text on hover */
+  .filter-tab:hover {
     text-decoration: underline;
   }
-  summary span:not(.abstract-tab) {
+  /* disable pointer cursor for summary text except filter tabs */
+  summary span:not(.filter-tab) {
     cursor: text;
   }
+  /* disable pointer cursor for divider elements */
   .divider {
     cursor: text;
   }

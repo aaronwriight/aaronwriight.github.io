@@ -9,94 +9,108 @@ author_profile: true
 ---
 ---
 <style>
-.personal-links {
-  display: flex;
-  gap: 0.5em;
-  font-family: sans-serif;
-  margin-bottom: 1em;
-  flex-wrap: nowrap; /* keep all summaries on one line */
-}
+  /* container for personal links displayed as a single-line flexbox */
+  .personal-links {
+    display: flex;
+    gap: 0.5em;
+    font-family: sans-serif;
+    margin-bottom: 1em;
+    flex-wrap: nowrap; /* keep all summaries on one line */
+  }
 
-.personal-links summary {
-  color: #2AA198;
-  cursor: pointer;
-  text-decoration: none;
-  display: inline-block;
-  margin-bottom: 0.25em;
-  user-select: none;
-}
+  /* summary elements in personal links styled as clickable text */
+  .personal-links summary {
+    color: #2AA198;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.25em;
+    user-select: none;
+  }
 
-.personal-links summary:hover {
-  text-decoration: underline;
-}
+  /* underline summary text on hover */
+  .personal-links summary:hover {
+    text-decoration: underline;
+  }
 
-.personal-links details {
-  position: relative;
-}
+  /* position details relative to parent container */
+  .personal-links details {
+    position: relative;
+  }
 
-.personal-links details > div {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  z-index: 10;
-  margin-top: 0.25em;
-  width: max-content;
-  max-width: 800px;
-  background: white;
-  padding: 0.5em 1em;
-}
+  /* dropdown content inside details positioned absolutely below summary */
+  .personal-links details > div {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+    margin-top: 0.25em;
+    width: max-content;
+    max-width: 800px;
+    background: white;
+    padding: 0.5em 1em;
+  }
 
-.personal-divider {
-  user-select: none;
-  margin: 0 0.5em;
-  color: #888;
-}
+  /* divider styling for personal section */
+  .personal-divider {
+    user-select: none;
+    margin: 0 0.5em;
+    color: #888;
+  }
 
-summary::-webkit-details-marker,
-summary::marker {
-  display: none;
-}
+  /* hide default marker for summary elements */
+  summary::-webkit-details-marker,
+  summary::marker {
+    display: none;
+  }
 
-.personal-tabs {
-  font-family: sans-serif;
-}
+  /* container for tabbed sections with sans-serif font */
+  .personal-tabs {
+    font-family: sans-serif;
+  }
 
-.tab-buttons {
-  display: flex;
-  gap: 0.75em;
-  margin-bottom: 1em;
-}
+  /* tab button container with horizontal flex and spacing */
+  .tab-buttons {
+    display: flex;
+    gap: 0.75em;
+    margin-bottom: 1em;
+  }
 
-.tab-buttons span {
-  line-height: 1.5;
-  color: #888;
-}
+  /* separator text style for tab buttons */
+  .tab-buttons span {
+    line-height: 1.5;
+    color: #888;
+  }
 
-.tab-button {
-  cursor: pointer;
-  background: none;
-  border: none;
-  color: #2AA198;
-  font-weight: bold;
-  font-size: 1em;
-  padding: 0.25em 0.5em;
-  border-bottom: 2px solid transparent;
-  transition: border-color 0.3s ease;
-}
+  /* individual tab button styles */
+  .tab-button {
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: #2AA198;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 0.25em 0.5em;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.3s ease;
+  }
 
-.tab-button:hover {
-  border-color: #2AA198;
-}
+  /* underline tab button border on hover */
+  .tab-button:hover {
+    border-color: #2AA198;
+  }
 
-.tab-button.active {
-  border-color: #2AA198;
-  color: #1a746e;
-  font-weight: 700;
-}
+  /* active tab button styling */
+  .tab-button.active {
+    border-color: #2AA198;
+    color: #1a746e;
+    font-weight: 700;
+  }
 
-.tab-content {
-  line-height: 1.4;
-}
+  /* tab content text line height */
+  .tab-content {
+    line-height: 1.4;
+  }
 </style>
 
 <b>I <i>love</i> a good story.</b>

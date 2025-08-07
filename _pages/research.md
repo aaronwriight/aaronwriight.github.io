@@ -9,6 +9,7 @@ redirect_from:
 ---
 ---
 <style>
+  /* container for publication links displayed with flexible wrapping */
   .pub-links {
     display: flex;
     gap: 0.5em;
@@ -17,12 +18,14 @@ redirect_from:
     flex-wrap: wrap;
   }
 
+  /* details elements styled inline with no margin or padding */
   .pub-links details {
     display: inline-block;
     margin: 0;
     padding: 0;
   }
 
+  /* summary styled as inline clickable text, inheriting color */
   .pub-links summary {
     display: inline;
     cursor: pointer;
@@ -30,27 +33,29 @@ redirect_from:
     list-style: none;
   }
 
+  /* general summary styling to ensure pointer cursor and no list marker */
   summary {
     cursor: pointer;
     list-style: none;
   }
 
+  /* underline pub-links summary text on hover */
   .pub-links summary:hover {
     text-decoration: underline;
   }
 
+  /* hide default marker for pub-links summary elements */
   .pub-links summary::-webkit-details-marker {
     display: none;
   }
-  
-  summary::-webkit-details-marker {
-    display: none;
-  }
 
+  /* hide default marker for all summary elements */
+  summary::-webkit-details-marker,
   summary::marker {
     display: none;
   }
 
+  /* opened details' direct div styled with static positioning and no border/background */
   .pub-links details[open] > div {
     position: static;
     background: none;
@@ -59,19 +64,23 @@ redirect_from:
     padding: 0;
   }
 
+  /* styling for clickable abstract tabs */
   .abstract-tab {
     text-decoration: none;
     cursor: pointer;
   }
 
+  /* underline abstract tabs on hover */
   .abstract-tab:hover {
     text-decoration: underline;
   }
 
+  /* topic label text set to non-clickable cursor */
   .topic-label {
     cursor: text;
   }
 
+  /* styling for topic divider elements */
   .topic-divider {
     cursor: text;
     user-select: none;

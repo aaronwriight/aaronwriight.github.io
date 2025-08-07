@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <style>
+  /* container for publication links displayed with flexible wrapping */
   .pub-links {
     display: flex;
     gap: 0.5em;
@@ -14,21 +15,25 @@ author_profile: true
     flex-wrap: wrap;
   }
 
+  /* style details elements inline with no margin or padding */
   .pub-links details {
     display: inline-block;
     margin: 0;
     padding: 0;
   }
 
+  /* summary styled as inline text without list markers */
   .pub-links summary {
     display: inline;
     list-style: none;
   }
 
+  /* hide default marker for pub-links summary */
   .pub-links summary::-webkit-details-marker {
     display: none;
   }
 
+  /* opened details' direct div styled with static positioning and no border/background */
   .pub-links details[open] > div {
     position: static;
     background: none;
@@ -37,27 +42,32 @@ author_profile: true
     margin: 0;
   }
 
+  /* styling for abstract tab clickable text */
   .abstract-tab {
     color: #2AA198;
     text-decoration: none;
     cursor: text;
   }
 
+  /* underline abstract tab on hover and make cursor pointer */
   .abstract-tab:hover {
     text-decoration: underline;
     cursor: pointer;
   }
 
+  /* container for abstract text with max width */
   .abstract-text {
     max-width: 600px;
   }
 
+  /* divider styling used between publication links */
   .pub-divider {
     cursor: text;
     user-select: none;
     display: inline;
   }
 
+  /* keep cursor text style on pub-divider hover */
   .pub-divider:hover {
     cursor: text;
   }
