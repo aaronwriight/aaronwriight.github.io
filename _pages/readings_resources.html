@@ -207,33 +207,35 @@ Below are several readings and resources I've found useful for navigating all th
         <script>
           document.addEventListener("DOMContentLoaded", () => {
             const filters = document.querySelectorAll(".tag-filter");
+            const tagContents = document.querySelectorAll(".tag-content");
+            const allListItems = document.querySelectorAll(".tag-content li");
             let lastTag = null;
 
             filters.forEach(filter => {
-              filter.addEventListener("click", () => {
+              filter.addEventListener("click", (e) => {
+                e.stopPropagation();
                 const tag = filter.dataset.tag;
-                const contents = document.querySelectorAll(".tag-content");
 
-                // clear all if same tag clicked again
+                // if same tag is clicked again, reset everything
                 if (tag === lastTag) {
-                  contents.forEach(c => c.style.display = "none");
-                  document.querySelectorAll("li").forEach(li => li.style.display = "none");
+                  tagContents.forEach(c => c.style.display = "none");
+                  allListItems.forEach(li => li.style.display = "none");
                   lastTag = null;
                   return;
                 }
 
-                contents.forEach(c => c.style.display = "none");
-                document.querySelectorAll("li").forEach(li => li.style.display = "none");
+                // clear everything
+                tagContents.forEach(c => c.style.display = "none");
+                allListItems.forEach(li => li.style.display = "none");
 
                 if (tag === "all") {
-                  contents.forEach(c => c.style.display = "block");
-                  document.querySelectorAll("li").forEach(li => li.style.display = "list-item");
+                  tagContents.forEach(c => c.style.display = "block");
+                  allListItems.forEach(li => li.style.display = "list-item");
                 } else if (tag === "favorites") {
-                  contents.forEach(c => c.style.display = "block");
-                  const favs = document.querySelectorAll("li b");
-                  favs.forEach(fav => {
-                    const li = fav.closest("li");
-                    if (li) li.style.display = "list-item";
+                  tagContents.forEach(c => c.style.display = "block");
+                  document.querySelectorAll("li").forEach(li => {
+                    const hasBold = li.querySelector("b");
+                    li.style.display = hasBold ? "list-item" : "none";
                   });
                 } else {
                   const target = document.getElementById(tag);
