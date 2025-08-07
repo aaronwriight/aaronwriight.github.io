@@ -11,18 +11,25 @@ author_profile: true
 <style>
   .personal-links {
     display: flex;
-    gap: 0.5em;
-    align-items: center;
+    justify-content: space-between;
+    gap: 1em;
+    align-items: flex-start;
     font-family: sans-serif;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     margin-bottom: 1em;
   }
 
+  .personal-links details {
+    position: relative;
+    flex: 1;
+  }
+
   .personal-links summary {
-    display: inline;
+    display: block;
     color: #2AA198;
     cursor: pointer;
     text-decoration: none;
+    text-align: center;
   }
 
   .personal-links summary:hover {
@@ -49,24 +56,22 @@ author_profile: true
     display: none;
   }
 
-  .personal-links details {
-    position: relative;
-  }
-
   .personal-links details[open] > div {
-    margin-top: 0.5em;
-  }
-
-  .personal-links {
-    position: relative;
-    flex-wrap: nowrap;
+    position: absolute;
+    top: 2em;
+    left: 0;
+    width: max-content;
+    min-width: 200px;
+    background: none;
+    padding: 0.5em 0;
+    border: none;
   }
 </style>
 
 <b>I <i>love</i> a good story.</b>
 
 
-I hold a variety of things in my heart –– all of which, in one way or another, flavor my approach to cognitive science. Chief among these inspirations are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story. Everything below is laced with a lively blend of its own wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings. If not through my own musings, I hope that what I've stumbled upon finds a place in your story.
+I hold a variety of things in my heart –– all of which, in one way or another, have lent to my story and flavored my approach to cognitive science. Chief among these inspirations are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story. Everything below is laced with a lively blend of its own wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings. If not through my own musings, I hope that what I've stumbled upon finds a place in your story.
 
 
 Here are a few (<i>several</i>) of my favorite things . . . in no particular order. Ask me about them over coffee or on a hike sometime! :)
