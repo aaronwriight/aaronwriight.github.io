@@ -187,17 +187,21 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  // ensure all dropdowns start closed
+  // allow toggling of dropdowns
   const dropdowns = document.querySelectorAll(".personal-links details");
   dropdowns.forEach(details => {
-    details.open = false;
-
     const summary = details.querySelector("summary");
     summary.addEventListener("click", event => {
       event.preventDefault();
-      const isOpen = details.open;
-      dropdowns.forEach(d => d.open = false); // close all
-      details.open = !isOpen; // toggle clicked one
+      const isOpen = details.hasAttribute("open");
+
+      // close all other dropdowns
+      dropdowns.forEach(d => d.removeAttribute("open"));
+
+      // toggle current one
+      if (!isOpen) {
+        details.setAttribute("open", "");
+      }
     });
   });
 
