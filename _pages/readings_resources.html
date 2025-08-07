@@ -57,8 +57,8 @@ Below are several readings and resources I've found useful for navigating all th
               {<span class="dropdown-toggle tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">LLMs</span> & <span class="dropdown-toggle tag-filter" data-tag="LLMs" style="color:#5f5f87; cursor:pointer;">ML</span> |
               {<span class="dropdown-toggle tag-filter" data-tag="behavioral" style="color:#d693c4; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="behavioral" style="color:#d693c4; cursor:pointer;">behavioral</span> |
               {<span class="dropdown-toggle tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">culture</span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="favorites" style="cursor:pointer;"><b>›</b></span>} <span class="dropdown-toggle tag-filter" data-tag="favorites" style="cursor:pointer;"><b>favorites</b></span> |
-              {<span class="dropdown-toggle tag-filter" data-tag="all" style="cursor:pointer;">›</span>} <span class="dropdown-toggle tag-filter" data-tag="all" style="cursor:pointer;">all</span>
+              {<span class="tag-filter" data-tag="favorites" style="cursor:pointer;"><b>›</b></span>} <span class="tag-filter" data-tag="favorites" style="cursor:pointer;"><b>favorites</b></span> |
+              {<span class="tag-filter" data-tag="all" style="cursor:pointer;">›</span>} <span class="tag-filter" data-tag="all" style="cursor:pointer;">all</span>
               <hr>
             </p>
         </div>
@@ -102,47 +102,48 @@ Below are several readings and resources I've found useful for navigating all th
               {<span style="color:#859901;">›</span><span style="color:#6c71c4;">›</span><span style="color:#e0519a;">›</span>}</li>
             </ul>
         </div>
+
         <script>
-  document.addEventListener("DOMContentLoaded", () => {
-    // select only toggles that represent tags (they have data-tag)
-    const toggles = document.querySelectorAll('.dropdown-toggle[data-tag]');
-    const readings = document.querySelectorAll('.article-block li');
+          document.addEventListener("DOMContentLoaded", () => {
+            // select only toggles that represent tags (they have data-tag)
+            const toggles = document.querySelectorAll('.tag-filter[data-tag]');
+            const readings = document.querySelectorAll('.article-block li');
 
-    // hide all readings by default
-    readings.forEach(li => li.style.display = 'none');
+            // hide all readings by default
+            readings.forEach(li => li.style.display = 'none');
 
-    let activeTag = null;
+            let activeTag = null;
 
-    toggles.forEach(t => {
-      t.addEventListener('click', () => {
-        const tag = t.dataset.tag;
+            toggles.forEach(t => {
+              t.addEventListener('click', () => {
+                const tag = t.dataset.tag;
 
-        // if clicking the same tag, turn everything off
-        if (activeTag === tag) {
-          readings.forEach(li => li.style.display = 'none');
-          activeTag = null;
-          toggles.forEach(x => x.classList.remove('active-tag'));
-          return;
-        }
+                // if clicking the same tag, turn everything off
+                if (activeTag === tag) {
+                  readings.forEach(li => li.style.display = 'none');
+                  activeTag = null;
+                  toggles.forEach(x => x.classList.remove('active-tag'));
+                  return;
+                }
 
-        // set active tag and update visual state
-        activeTag = tag;
-        toggles.forEach(x => x.classList.toggle('active-tag', x.dataset.tag === tag));
+                // set active tag and update visual state
+                activeTag = tag;
+                toggles.forEach(x => x.classList.toggle('active-tag', x.dataset.tag === tag));
 
-        readings.forEach(li => {
-          const isFavorite = li.querySelector('b') !== null;
-          if (tag === 'all') {
-            li.style.display = '';
-          } else if (tag === 'favorites') {
-            li.style.display = isFavorite ? '' : 'none';
-          } else {
-            li.style.display = li.classList.contains(tag) ? '' : 'none';
-          }
-        });
-      });
-    });
-  });
-  </script>
+                readings.forEach(li => {
+                  const isFavorite = li.querySelector('b') !== null;
+                  if (tag === 'all') {
+                    li.style.display = '';
+                  } else if (tag === 'favorites') {
+                    li.style.display = isFavorite ? '' : 'none';
+                  } else {
+                    li.style.display = li.classList.contains(tag) ? '' : 'none';
+                  }
+                });
+              });
+            });
+          });
+        </script>
     </details>
 </div>
 
