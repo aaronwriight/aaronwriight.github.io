@@ -14,9 +14,8 @@ author_profile: true
   gap: 0.5em;
   align-items: flex-start;
   font-family: sans-serif;
+  flex-wrap: wrap;
   margin-bottom: 1em;
-  position: relative;
-  flex-wrap: nowrap;
 }
 
 .personal-links details {
@@ -27,9 +26,9 @@ author_profile: true
   color: #2AA198;
   cursor: pointer;
   text-decoration: none;
-  display: inline-block;
-  text-align: center;
-  white-space: nowrap;
+  display: inline;
+  text-align: left;
+  margin-bottom: 0.25em;
 }
 
 .personal-links summary:hover {
@@ -37,15 +36,7 @@ author_profile: true
 }
 
 .personal-links details > div {
-  position: absolute;
-  top: 1.5em;
-  left: 0;
-  background: white;
-  padding: 0.5em 1em;
-  max-width: 600px;
-  z-index: 10;
-  border-radius: 4px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  margin-top: 0.5em;
   text-align: left;
 }
 
