@@ -8,151 +8,53 @@ author_profile: true
 #  - /personal.html
 ---
 ---
-<style>
-/* Container layout */
-.dropdown-menu-row {
-  display: flex;
-  gap: 0.5em;
-  align-items: flex-start;
-  font-family: sans-serif;
-  margin-bottom: 1em;
-  position: relative;
-  flex-wrap: nowrap;
-}
-
-.dropdown-menu-row details {
-  position: relative;
-}
-
-/* Summary styling */
-.dropdown-menu-row summary {
-  color: #2AA198;
-  cursor: pointer;
-  text-decoration: none;
-  display: inline-block;
-  text-align: center;
-  white-space: nowrap;
-}
-
-.dropdown-menu-row summary:hover {
-  text-decoration: underline;
-}
-
-/* Dropdown content box */
-.dropdown-menu-row details > div {
-  position: absolute;
-  top: 1.5em;
-  left: 0;
-  background: white;
-  padding: 0.5em 1em;
-  max-width: 600px;
-  z-index: 10;
-  border-radius: 4px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-  text-align: left;
-}
-
-/* Divider styling */
-.dropdown-divider {
-  user-select: none;
-  display: inline;
-  margin: 0 0.5em;
-  color: #888;
-  font-weight: 300;
-}
-
-/* Hide default details marker */
-summary::-webkit-details-marker,
-summary::marker {
-  display: none;
-}
-</style>
-
 <b>I <i>love</i> a good story.</b>
 
 
 I hold a variety of things in my heart –– all of which, in one way or another, have lent to my story and flavored my approach to cognitive science. Chief among these inspirations are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story. Everything below is laced with a lively blend of its own wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings. If not through my own musings, I hope that what I've stumbled upon finds a place in your story.
 
 
-Here are a few (<i>several</i>) of my favorite things . . . in no particular order. Ask me about them over coffee or on a hike sometime! :)
+Here are a few (<i>several</i>) of my favorite things . . . in no particular order.
 
-
-<div class="dropdown-menu-row">
-  <details>
-    <summary>Art & Media</summary>
-    <div>
-      <p><b>Artists & Albums</b></p>
-      <ul>
-        <li><a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion</li>
-        <li><a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"><em>Everybody</em></a>, Logic</li>
-        <li><a href="https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro"><em>Change of Scenery II</em></a>, Quinn XCII</li>
-        <li><a href="https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"><em>Brol La Suite</em></a>, Angèle</li>
-        <li><a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w"><em>Rainbow Mixtape</em></a>, COIN</li>
-        <li><a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"><em>True Love</em></a>, Crystal Gayle</li>
-      </ul>
-      <p><b>Films</b></p>
-      <ul>
-        <li>La La Land</li>
-        <li>A Quiet Place</li>
-        <li>Good Will Hunting</li>
-        <li>Spirited Away</li>
-      </ul>
-      <p><b>Literature</b></p>
-      <ul>
-        <li><em>Anne of Green Gables</em>, Lucy Maud Montgomery</li>
-        <li><em>The Haunting of Hill House</em>, Shirley Jackson</li>
-        <li><em>A Girl of the Limberlost</em>, Gene Stratton-Porter</li>
-      </ul>
-      <p><b>Podcasts</b></p>
-      <ul>
-        <li>Pocket-sized science with hand-picked experts: <a href="https://www.alieward.com">Ologies with Alie Ward</a></li>
-      </ul>
-    </div>
-  </details>
-  <span class="dropdown-divider"> | </span>
-  <details>
-    <summary>Communities</summary>
-    <div>
-      <p><b>Communities</b></p>
-      <ul>
-        <li>My home away from science: <a href="https://lavidacenter.org">La Vida At Gordon College</a></li>
-        <li>Nurturing inclusivity, presence, and creativity: <a href="https://compasspath.org">Compass</a></li>
-      </ul>
-    </div>
-  </details>
-  <span class="dropdown-divider"> | </span>
-  <details>
-    <summary>Creative Initiatives</summary>
-    <div>
-      <p><b>Creatives</b></p>
-      <ul>
-        <li>The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
-        <li>Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
-        <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
-        <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
-      </ul>
-      <p><b>Other Inspirations</b></p>
-      <ul>
-        <li>Landscape photography by <a href="https://www.frihead.ch">Mathilde Rietsch</a></li>
-        <li>Jon Bellion's <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a></li>
-        <li>Classical composer, <a href="https://www.christopherdenniscoleman.com">Christopher Dennis Coleman</a></li>
-        <li>The gripping memoir, <em>I'm Glad My Mom Died</em>, from <a href="https://www.jennettemccurdy.com">Jennette McCurdy</a></li>
-      </ul>
-    </div>
-  </details>
-</div>
+<div class="article-block">
+  <div class="abstract-text" style="margin-left: 0;">
+    <p>
+      <b>Filter by type</b><br>
+      <hr>
+      {<span class="tag-filter" data-tag="art" style="color:#2AA198; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="art" style="color:#2AA198; cursor:pointer;">art & media</span> |
+      {<span class="tag-filter" data-tag="community" style="color:#268BD2; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="community" style="color:#268BD2; cursor:pointer;">communities</span> |
+      {<span class="tag-filter" data-tag="creative" style="color:#D33682; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="creative" style="color:#D33682; cursor:pointer;">creative initiatives</span> |
+      {<span class="tag-filter" data-tag="all" style="cursor:pointer;">›</span>} all
+      <hr>
+    </p>
+  </div>
+  <ul>
+    <li class="art"><b>Music:</b> <em>The Definition</em> (Jon Bellion), <em>Everybody</em> (Logic), <em>Change of Scenery II</em> (Quinn XCII), <em>Brol La Suite</em> (Angèle), <em>Rainbow Mixtape</em> (COIN), <em>True Love</em> (Crystal Gayle)</li>
+    <li class="art"><b>Films:</b> La La Land, A Quiet Place, Good Will Hunting, Spirited Away</li>
+    <li class="art"><b>Literature:</b> Anne of Green Gables, The Haunting of Hill House, A Girl of the Limberlost</li>
+    <li class="art"><b>Podcast:</b> <a href="https://www.alieward.com">Ologies with Alie Ward</a></li>
+    <li class="community"><b>Communities:</b> <a href="https://lavidacenter.org">La Vida</a>, <a href="https://compasspath.org">Compass</a></li>
+    <li class="creative"><b>Creatives:</b> <a href="https://houseofdakh.com">HOUSEOFDAKH</a>, <a href="https://www.cedricscherer.com">Cédric Scherer</a>, <a href="https://www.edengracecreative.com">Eden Grace Creative</a>, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
+    <li class="creative"><b>Other Inspirations:</b> <a href="https://www.frihead.ch">Mathilde Rietsch</a>, <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a>, <a href="https://www.christopherdenniscoleman.com">Christopher Dennis Coleman</a>, <em>I'm Glad My Mom Died</em> by <a href="https://www.jennettemccurdy.com">Jennette McCurdy</a></li>
+  </ul>
 </div>
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const dropdowns = document.querySelectorAll(".dropdown-menu-row details");
-    dropdowns.forEach((target) => {
-      target.addEventListener("toggle", () => {
-        if (target.open) {
-          dropdowns.forEach((el) => {
-            if (el !== target) el.removeAttribute("open");
-          });
-        }
+    const filterButtons = document.querySelectorAll('.tag-filter');
+    const items = document.querySelectorAll('.article-block li');
+
+    filterButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tag = btn.dataset.tag;
+
+        items.forEach(item => {
+          if (tag === 'all') {
+            item.style.display = '';
+          } else {
+            item.style.display = item.classList.contains(tag) ? '' : 'none';
+          }
+        });
       });
     });
   });
