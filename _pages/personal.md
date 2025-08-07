@@ -35,14 +35,12 @@ author_profile: true
 }
 
 .personal-links details > div {
-  position: absolute;
-  top: 100%;
-  left: 0;
+  position: static;
   margin-top: 0.25em;
   text-align: left;
   background: none;
   padding: 0;
-  min-width: 100%;
+  width: 100%;
   max-width: 800px;
 }
 
