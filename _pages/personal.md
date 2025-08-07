@@ -17,10 +17,6 @@ author_profile: true
   flex-wrap: nowrap;
 }
 
-.personal-links details {
-  position: relative;
-}
-
 .personal-links summary {
   color: #2AA198;
   cursor: pointer;
@@ -34,14 +30,16 @@ author_profile: true
   text-decoration: underline;
 }
 
+.personal-links details {
+  position: relative;
+}
+
 .personal-links details > div {
   position: absolute;
   top: 100%;
   left: 0;
+  z-index: 10;
   margin-top: 0.25em;
-  text-align: left;
-  background: none;
-  padding: 0;
   width: max-content;
   max-width: 800px;
 }
@@ -101,7 +99,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
-  <span class="personal-divider"> | </span>
+  <span class="personal-divider">|</span>
   <details>
     <summary>Communities</summary>
     <div>
@@ -112,7 +110,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
-  <span class="personal-divider"> | </span>
+  <span class="personal-divider">|</span>
   <details>
     <summary>Creative Initiatives</summary>
     <div>
@@ -148,4 +146,3 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
     });
   });
 </script>
-<div style="height: 3rem;"></div>
