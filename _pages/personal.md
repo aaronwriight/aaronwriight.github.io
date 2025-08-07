@@ -105,12 +105,14 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 <div class="personal-tabs">
   <div class="tab-buttons">
-    <button class="tab-button active" data-tab="art-media">Art & Media</button>
+    <button class="tab-button" data-tab="art-media">Art & Media</button>
+    <span class="personal-divider">|</span>
     <button class="tab-button" data-tab="communities">Communities</button>
+    <span class="personal-divider">|</span>
     <button class="tab-button" data-tab="creative-initiatives">Creative Initiatives</button>
   </div>
 
-  <div class="tab-content active" id="art-media">
+  <div class="tab-content" id="art-media" style="display:none;">
     <p><b>Artists & Albums</b></p>
     <ul>
       <li><a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion</li>
@@ -172,16 +174,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
   tabButtons.forEach(btn => {
     btn.addEventListener("click", () => {
+      const tabId = btn.dataset.tab;
+      const activeContent = document.getElementById(tabId);
+      const isAlreadyActive = btn.classList.contains("active");
+
+      // remove active from all
       tabButtons.forEach(b => b.classList.remove("active"));
       tabContents.forEach(c => {
         c.style.display = "none";
         c.classList.remove("active");
       });
 
-      btn.classList.add("active");
-      const tabId = btn.dataset.tab;
-      const activeContent = document.getElementById(tabId);
-      if (activeContent) {
+      // if not already active, activate it
+      if (!isAlreadyActive && activeContent) {
+        btn.classList.add("active");
         activeContent.style.display = "block";
         activeContent.classList.add("active");
       }
