@@ -16,6 +16,7 @@ author_profile: true
   font-family: sans-serif;
   margin-bottom: 1em;
   flex-wrap: wrap;
+  position: relative;
 }
 
 .personal-links details {
@@ -36,9 +37,13 @@ author_profile: true
 }
 
 .personal-links details > div {
-  position: static;
-  margin-top: 0.5em;
+  position: absolute;
+  top: 2em;
+  left: 0;
+  background: white;
+  padding: 0.5em 0;
   max-width: 600px;
+  z-index: 1;
   text-align: left;
 }
 

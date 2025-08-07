@@ -75,7 +75,7 @@ redirect_from:
 
 <b>I study how the human brain processes language.</b>
 
-My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to map out the neural footprints of language, my research diverges along three trails:
+My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to map out the neural footprints of language, my interests diverge along three pathways:
 
 <ul>
 
@@ -128,9 +128,10 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
 
 The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.
 
-Happy (<i>neural</i>) trails! :)
+Happy (<i>neural</i>) trails! :)<br>
+<br>
 
----
+<hr>
 <div style="margin: 0 auto; text-align: center;">
   <i>
     Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
