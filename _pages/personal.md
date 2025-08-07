@@ -192,20 +192,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const dropdowns = document.querySelectorAll(".personal-links details");
   dropdowns.forEach(details => {
     const summary = details.querySelector("summary");
-
-    summary.addEventListener("click", function(event) {
+    summary.addEventListener("click", event => {
+      event.preventDefault();
       const isOpen = details.hasAttribute("open");
 
-      // close all dropdowns
+      // close all other dropdowns
       dropdowns.forEach(d => d.removeAttribute("open"));
 
-      // toggle the clicked one only if it was closed
+      // toggle current one
       if (!isOpen) {
         details.setAttribute("open", "");
       }
-
-      // prevent default only if manually managing state
-      event.preventDefault();
     });
   });
 
