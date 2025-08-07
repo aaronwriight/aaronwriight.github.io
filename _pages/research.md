@@ -142,3 +142,16 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
 The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.
 
 Happy (<i>neural</i>) trails! :)
+
+
+<div style="margin: 0 auto; text-align: center;">
+  <i>
+    Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
+    It just makes me feel glad to be alive –– it's such an interesting world. 
+    It wouldn't be half so interesting if we know all about everything, would it? 
+    There'd be no scope for imagination then, would there?
+  </i>
+  <div style="text-align: right; padding-right: 5em; margin-top: 0.5em;">
+    –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
+  </div>
+</div>
