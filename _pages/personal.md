@@ -14,16 +14,16 @@ author_profile: true
   gap: 0.5em;
   font-family: sans-serif;
   margin-bottom: 1em;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap; /* keep all summaries on one line */
 }
 
 .personal-links summary {
   color: #2AA198;
   cursor: pointer;
   text-decoration: none;
-  display: inline;
-  text-align: left;
+  display: inline-block;
   margin-bottom: 0.25em;
+  user-select: none;
 }
 
 .personal-links summary:hover {
@@ -42,14 +42,17 @@ author_profile: true
   margin-top: 0.25em;
   width: max-content;
   max-width: 800px;
+  background: white;
+  border: 1px solid #ccc;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+  padding: 0.5em 1em;
+  border-radius: 4px;
 }
 
 .personal-divider {
-  cursor: text;
   user-select: none;
-  all: unset;
-  display: inline;
   margin: 0 0.5em;
+  color: #888;
 }
 
 summary::-webkit-details-marker,
