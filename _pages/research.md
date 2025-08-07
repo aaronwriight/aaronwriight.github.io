@@ -86,7 +86,7 @@ redirect_from:
 
 ---
 
-I study how the human brain processes language.
+<b>I study how the human brain processes language.</b>
 
 My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to map out the neural footprints of language, my research diverges along three trails:
 
