@@ -48,7 +48,7 @@ Below are several readings and resources I've found useful for navigating all th
         <div class="abstract-text" style="margin-left: 2.25em;">
             <p>
               <b>Legend</b> (click tabs to filter)<br>
-              <hr>
+              
               {<span class="tag-filter" data-tag="language" style="color:#859901; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="language" style="color:#859901; cursor:pointer;">language</span> |  
               {<span class="tag-filter" data-tag="emotion" style="color:#2AA198; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="emotion" style="color:#2AA198; cursor:pointer;">emotion</span> |  
               {<span class="tag-filter" data-tag="fMRI" style="color:#6c71c4; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="fMRI" style="color:#6c71c4; cursor:pointer;">neuroimaging</span> |  
@@ -57,7 +57,7 @@ Below are several readings and resources I've found useful for navigating all th
               {<span class="tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">›</span>} <span class="tag-filter" data-tag="culture" style="color:#f4a825; cursor:pointer;">culture</span> |  
               {<span class="tag-filter" data-tag="favorites" style="cursor:pointer;"><b>›</b>} <b>favorites</b></span> |  
               {<span class="tag-filter" data-tag="all" style="cursor:pointer;">›} all</span>
-              <hr>
+              
             </p>
         </div>
         <div>
@@ -101,41 +101,45 @@ Below are several readings and resources I've found useful for navigating all th
             </ul>
         </div>
         <script>
-          document.addEventListener("DOMContentLoaded", () => {
-            const buttons = document.querySelectorAll(".tag-filter");
-            const readings = document.querySelectorAll(".article-block li");
+    document.addEventListener("DOMContentLoaded", () => {
+      const buttons = document.querySelectorAll(".tag-filter");
+      const readings = document.querySelectorAll(".article-block li");
 
-            // set all items to hidden by default
+      // hide all items on load
+      readings.forEach(item => item.style.display = "none");
+
+      let activeTag = null;
+
+      buttons.forEach(button => {
+        button.addEventListener("click", () => {
+          const tag = button.dataset.tag;
+
+          if (activeTag === tag) {
+            // clicking the same tag again turns everything off
             readings.forEach(item => item.style.display = "none");
+            activeTag = null;
+            return;
+          }
 
-            buttons.forEach(button => {
-              button.addEventListener("click", () => {
-                const tag = button.dataset.tag;
-                const isVisible = Array.from(readings).some(item =>
-                  item.classList.contains(tag) && item.style.display !== "none"
-                );
+          activeTag = tag;
 
-                // hide all first
-                readings.forEach(item => item.style.display = "none");
+          readings.forEach(item => {
+            const isFavorite = item.querySelector('b') !== null;
 
-                // toggle visibility only if not already visible
-                if (!isVisible) {
-                  readings.forEach(item => {
-                    const isFavorite = item.querySelector('b') !== null;
-
-                    if (tag === "all") {
-                      item.style.display = "";
-                    } else if (tag === "favorites") {
-                      item.style.display = isFavorite ? "" : "none";
-                    } else if (item.classList.contains(tag)) {
-                      item.style.display = "";
-                    }
-                  });
-                }
-              });
-            });
+            if (tag === "all") {
+              item.style.display = "";
+            } else if (tag === "favorites") {
+              item.style.display = isFavorite ? "" : "none";
+            } else if (item.classList.contains(tag)) {
+              item.style.display = "";
+            } else {
+              item.style.display = "none";
+            }
           });
-        </script>
+        });
+      });
+    });
+  </script>
     </details>
 </div>
 
