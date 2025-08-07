@@ -67,6 +67,11 @@ summary::marker {
   margin-bottom: 1em;
 }
 
+.tab-buttons span {
+  line-height: 1.5;
+  color: #888;
+}
+
 .tab-button {
   cursor: pointer;
   background: none;
@@ -174,16 +179,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
   tabButtons.forEach(btn => {
     btn.addEventListener("click", () => {
+      const tabId = btn.dataset.tab;
+      const activeContent = document.getElementById(tabId);
+      const isActive = btn.classList.contains("active");
+
+      // clear all tabs
       tabButtons.forEach(b => b.classList.remove("active"));
       tabContents.forEach(c => {
         c.style.display = "none";
         c.classList.remove("active");
       });
 
-      btn.classList.add("active");
-      const tabId = btn.dataset.tab;
-      const activeContent = document.getElementById(tabId);
-      if (activeContent) {
+      // only activate if it wasn't already active
+      if (!isActive && activeContent) {
+        btn.classList.add("active");
         activeContent.style.display = "block";
         activeContent.classList.add("active");
       }
