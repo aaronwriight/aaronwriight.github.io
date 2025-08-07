@@ -15,6 +15,7 @@ author_profile: true
   font-family: sans-serif;
   margin-bottom: 1em;
   flex-wrap: nowrap;
+  position: relative;
 }
 
 .personal-links details {
