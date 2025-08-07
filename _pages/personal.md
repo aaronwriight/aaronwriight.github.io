@@ -50,10 +50,10 @@ author_profile: true
   }
 </style>
 
-I love a good story.
+<b>I <i>love</i> a good story.</b>
 
 
-I hold a variety of things in my heart –– all of which, in one way or another, flavor my approach to cognitive science. Chief among them are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story. Everything below is laced with a lively blend of its own woe and wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings. If not carried in from my own musings, I hope that what I've stumbled upon finds a place in your story.
+I hold a variety of things in my heart –– all of which, in one way or another, flavor my approach to cognitive science. Chief among these inspirations are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story. Everything below is laced with a lively blend of its own wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings. If not through my own musings, I hope that what I've stumbled upon finds a place in your story.
 
 
 Here are a few (<i>several</i>) of my favorite things . . . in no particular order. Ask me about them over coffee or on a hike sometime! :)
@@ -118,7 +118,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
         <li>The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
         <li>Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
         <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
-        <li>Mesmerizing paintings and sketches done by my friend <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
+        <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
       </ul>
 
       <p><b>Other Inspirations</b></p>
