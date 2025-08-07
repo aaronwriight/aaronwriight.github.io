@@ -111,6 +111,7 @@ author_profile: true
     line-height: 1.4;
   }
 </style>
+---
 
 <b>I <i>love</i> a good story.</b>
 
@@ -191,17 +192,20 @@ document.addEventListener("DOMContentLoaded", () => {
   const dropdowns = document.querySelectorAll(".personal-links details");
   dropdowns.forEach(details => {
     const summary = details.querySelector("summary");
-    summary.addEventListener("click", event => {
-      event.preventDefault();
+
+    summary.addEventListener("click", function(event) {
       const isOpen = details.hasAttribute("open");
 
-      // close all other dropdowns
+      // close all dropdowns
       dropdowns.forEach(d => d.removeAttribute("open"));
 
-      // toggle current one
+      // toggle the clicked one only if it was closed
       if (!isOpen) {
         details.setAttribute("open", "");
       }
+
+      // prevent default only if manually managing state
+      event.preventDefault();
     });
   });
 
