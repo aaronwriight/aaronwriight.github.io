@@ -12,14 +12,15 @@ author_profile: true
 .personal-links {
   display: flex;
   gap: 0.5em;
-  align-items: baseline;
+  align-items: flex-start;
   font-family: sans-serif;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   margin-bottom: 1em;
 }
 
 .personal-links details {
-  position: relative;
+  flex: 1;
+  min-width: 200px;
 }
 
 .personal-links summary {
@@ -38,7 +39,6 @@ author_profile: true
 .personal-links details > div {
   margin-top: 0.5em;
   text-align: left;
-  width: 100%;
 }
 
 .personal-divider {
@@ -47,7 +47,6 @@ author_profile: true
   all: unset;
   display: inline;
   margin: 0 0.5em;
-  cursor: text;
 }
 
 summary::-webkit-details-marker,
