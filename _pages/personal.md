@@ -117,7 +117,8 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       <ul>
         <li>The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
         <li>Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
-        <li>My TALENTED friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
+        <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
+        <li>Mesmerizing paintings and sketches done by my friend <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
       </ul>
 
       <p><b>Other Inspirations</b></p>

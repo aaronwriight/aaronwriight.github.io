@@ -75,7 +75,7 @@ redirect_from:
     cursor: text;
   }
 </style>
-<div style="max-width: 1000px; margin: 0 auto; text-align: center;">
+<div style="margin: 0 auto; text-align: center;">
   <i>
     Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
     It just makes me feel glad to be alive –– it's such an interesting world. 
@@ -99,7 +99,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How do we processes multiple languages?</i></span>
+          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the ability to use multiple languages impact language processing?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
