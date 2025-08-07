@@ -9,7 +9,8 @@ author_profile: true
 ---
 ---
 <style>
-.personal-links {
+/* Container layout */
+.dropdown-menu-row {
   display: flex;
   gap: 0.5em;
   align-items: flex-start;
@@ -19,11 +20,12 @@ author_profile: true
   flex-wrap: nowrap;
 }
 
-.personal-links details {
+.dropdown-menu-row details {
   position: relative;
 }
 
-.personal-links summary {
+/* Summary styling */
+.dropdown-menu-row summary {
   color: #2AA198;
   cursor: pointer;
   text-decoration: none;
@@ -32,11 +34,12 @@ author_profile: true
   white-space: nowrap;
 }
 
-.personal-links summary:hover {
+.dropdown-menu-row summary:hover {
   text-decoration: underline;
 }
 
-.personal-links details > div {
+/* Dropdown content box */
+.dropdown-menu-row details > div {
   position: absolute;
   top: 1.5em;
   left: 0;
@@ -49,7 +52,8 @@ author_profile: true
   text-align: left;
 }
 
-.personal-divider {
+/* Divider styling */
+.dropdown-divider {
   user-select: none;
   display: inline;
   margin: 0 0.5em;
@@ -57,6 +61,7 @@ author_profile: true
   font-weight: 300;
 }
 
+/* Hide default details marker */
 summary::-webkit-details-marker,
 summary::marker {
   display: none;
@@ -72,7 +77,7 @@ I hold a variety of things in my heart –– all of which, in one way or anothe
 Here are a few (<i>several</i>) of my favorite things . . . in no particular order. Ask me about them over coffee or on a hike sometime! :)
 
 
-<div class="personal-links">
+<div class="dropdown-menu-row">
   <details>
     <summary>Art & Media</summary>
     <div>
@@ -104,7 +109,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
-  <span class="personal-divider"> | </span>
+  <span class="dropdown-divider"> | </span>
   <details>
     <summary>Communities</summary>
     <div>
@@ -115,7 +120,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
-  <span class="personal-divider"> | </span>
+  <span class="dropdown-divider"> | </span>
   <details>
     <summary>Creative Initiatives</summary>
     <div>
@@ -140,7 +145,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const dropdowns = document.querySelectorAll(".personal-links details");
+    const dropdowns = document.querySelectorAll(".dropdown-menu-row details");
     dropdowns.forEach((target) => {
       target.addEventListener("toggle", () => {
         if (target.open) {
