@@ -96,10 +96,9 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the brain process and produce multiple languages?</i></span>
+          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the ability to use multiple languages change how the brain processes language?</i></span>
         </summary>
         <div class="abstract-text">
-          <br>
           <p>
           Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
           </p>
@@ -115,7 +114,6 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
           <i><b class="topic-label">Language & Emotion</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> What makes language emotional?</i></span>
         </summary>
         <div class="abstract-text">
-          <br>
           <p>
           Neither the parts nor sum of language and emotion are straightforward. Individuals differ in how they interpret linguistic expressions of emotion, and their own expressions are hardly more consistent. Accordingly, I want to ask <i><b>i</b>)</i> how we map emotion onto language, and <i><b>ii</b>)</i> what mechanisms underly our ability to update these mappings on-line and in emotional contexts.
           </p>
@@ -131,7 +129,6 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
           <i><b class="topic-label">Language & Culture</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> What role does culture play in language processing?</i></span>
         </summary>
         <div class="abstract-text">
-          <br>
           <p>
           Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by <i><b>i</b>)</i> differences in individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
           </p>
