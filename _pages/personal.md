@@ -15,13 +15,10 @@ author_profile: true
   font-family: sans-serif;
   margin-bottom: 1em;
   flex-wrap: nowrap;
-  position: relative;
 }
 
 .personal-links details {
   position: relative;
-  flex-shrink: 0;
-  width: auto;
 }
 
 .personal-links summary {
@@ -38,12 +35,15 @@ author_profile: true
 }
 
 .personal-links details > div {
-  display: block;
-  margin-top: 0.5em;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.25em;
   text-align: left;
   background: none;
   padding: 0;
-  max-width: 100%;
+  width: max-content;
+  max-width: 800px;
 }
 
 .personal-divider {
