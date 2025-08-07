@@ -12,7 +12,7 @@ author_profile: true
 .personal-links {
   display: flex;
   gap: 0.5em;
-  align-items: flex-start;
+  align-items: baseline;
   font-family: sans-serif;
   flex-wrap: wrap;
   margin-bottom: 1em;
@@ -38,14 +38,16 @@ author_profile: true
 .personal-links details > div {
   margin-top: 0.5em;
   text-align: left;
+  width: 100%;
 }
 
 .personal-divider {
+  cursor: text;
   user-select: none;
+  all: unset;
   display: inline;
   margin: 0 0.5em;
-  color: #888;
-  font-weight: 300;
+  cursor: text;
 }
 
 summary::-webkit-details-marker,
@@ -126,7 +128,6 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
-</div>
 </div>
 
 <script>

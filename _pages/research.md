@@ -138,7 +138,6 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
 The brain's functional landscape is yet largely and miraculously unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.
 
 Happy (<i>neural</i>) trails! :)<br>
-<br>
 
 <hr>
 <div style="margin: 0 auto; text-align: center;">
