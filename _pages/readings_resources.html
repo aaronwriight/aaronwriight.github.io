@@ -7,22 +7,25 @@ author_profile: true
 <hr>
 
 <style>
-  /* styling for clickable tabs to filter article categories */
-  .filter-tab {
+  /* clickable tab for toggling abstract/resource dropdowns */
+  .dropdown-toggle {
     color: #2AA198;
     cursor: pointer;
     text-decoration: none;
   }
-  /* underline filter tab text on hover */
-  .filter-tab:hover {
+
+  /* underline dropdown toggles on hover */
+  .dropdown-toggle:hover {
     text-decoration: underline;
   }
-  /* disable pointer cursor for summary text except filter tabs */
-  summary span:not(.filter-tab) {
+
+  /* disable pointer cursor for unclickable text inside summary */
+  summary span:not(.dropdown-toggle) {
     cursor: text;
   }
-  /* disable pointer cursor for divider elements */
-  .divider {
+
+  /* styling for dividers between dropdown sections */
+  .dropdown-divider {
     cursor: text;
   }
 </style>
@@ -39,7 +42,7 @@ Below are several readings and resources I've found useful for navigating all th
 <div class="article-block">
     <details>
         <summary style="list-style: none;">
-        <span class="abstract-tab">Articles and scholars</span>
+        <span class="dropdown-toggle">Articles and scholars</span>
         <span> that have captured my attention, challenged my scientific convictions, shaped my understanding, and inspired my favorite discussions.</span>
         </summary>
         <div class="abstract-text" style="margin-left: 2.25em;">
@@ -130,7 +133,7 @@ Below are several readings and resources I've found useful for navigating all th
 <div class="article-block">
   <details>
     <summary style="list-style: none; cursor: pointer;">
-      <span class="abstract-tab">A collection of useful materials</span>
+      <span class="dropdown-toggle">A collection of useful materials</span>
       <span> I've run into during my time in science, intended to help facilitate research, coding, and scientific exploration in various domains.</span>
     </summary>
     <div class="abstract-text" style="margin-left: 2.25em;">

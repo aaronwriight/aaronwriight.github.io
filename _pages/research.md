@@ -7,10 +7,9 @@ redirect_from:
   - /research/
   - /research.html
 ---
----
 <style>
-  /* container for publication links displayed with flexible wrapping */
-  .pub-links {
+  /* container for linked research topic blurbs */
+  .topic-links {
     display: flex;
     gap: 0.5em;
     font-family: sans-serif;
@@ -18,45 +17,41 @@ redirect_from:
     flex-wrap: wrap;
   }
 
-  /* details elements styled inline with no margin or padding */
-  .pub-links details {
+  /* inline formatting for individual dropdown containers */
+  .topic-links details {
     display: inline-block;
     margin: 0;
     padding: 0;
   }
 
-  /* summary styled as inline clickable text, inheriting color */
-  .pub-links summary {
+  /* clickable summary text for dropdown toggles */
+  .topic-links summary {
     display: inline;
     cursor: pointer;
     color: inherit;
     list-style: none;
   }
 
-  /* general summary styling to ensure pointer cursor and no list marker */
+  /* apply pointer cursor and remove default marker globally */
   summary {
     cursor: pointer;
     list-style: none;
   }
 
-  /* underline pub-links summary text on hover */
-  .pub-links summary:hover {
+  /* underline effect on hover for summary in topic links */
+  .topic-links summary:hover {
     text-decoration: underline;
   }
 
-  /* hide default marker for pub-links summary elements */
-  .pub-links summary::-webkit-details-marker {
-    display: none;
-  }
-
-  /* hide default marker for all summary elements */
+  /* hide dropdown marker in all browsers */
+  .topic-links summary::-webkit-details-marker,
   summary::-webkit-details-marker,
   summary::marker {
     display: none;
   }
 
-  /* opened details' direct div styled with static positioning and no border/background */
-  .pub-links details[open] > div {
+  /* style open details content block inside topic links */
+  .topic-links details[open] > div {
     position: static;
     background: none;
     border: none;
@@ -64,24 +59,25 @@ redirect_from:
     padding: 0;
   }
 
-  /* styling for clickable abstract tabs */
-  .abstract-tab {
+  /* inline toggle link for each research topic */
+  .topic-toggle {
     text-decoration: none;
     cursor: pointer;
+    color: #2AA198;
   }
 
-  /* underline abstract tabs on hover */
-  .abstract-tab:hover {
+  /* underline toggle on hover */
+  .topic-toggle:hover {
     text-decoration: underline;
   }
 
-  /* topic label text set to non-clickable cursor */
+  /* non-clickable topic name style */
   .topic-label {
     cursor: text;
   }
 
-  /* styling for topic divider elements */
-  .topic-divider {
+  /* visual divider between topic label and description */
+  .topic-separator {
     cursor: text;
     user-select: none;
     all: unset;
@@ -101,7 +97,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the ability to use multiple languages change how the brain processes language?</i></span>
+          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How does the ability to use multiple languages change how the brain processes language?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
@@ -116,7 +112,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Language & Emotion</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> What makes language emotional?</i></span>
+          <i><b class="topic-label">Language & Emotion</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> What makes language emotional?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
@@ -131,7 +127,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Language & Culture</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> What role does culture play in language processing?</i></span>
+          <i><b class="topic-label">Language & Culture</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> What role does culture play in language processing?</i></span>
         </summary>
         <div class="abstract-text">
           <p>

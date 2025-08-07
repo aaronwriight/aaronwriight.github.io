@@ -7,18 +7,17 @@ author_profile: true
 #  - /personal
 #  - /personal.html
 ---
----
 <style>
-  /* container for personal links displayed as a single-line flexbox */
+  /* container for the horizontal list of expandable links */
   .personal-links {
     display: flex;
     gap: 0.5em;
     font-family: sans-serif;
     margin-bottom: 1em;
-    flex-wrap: nowrap; /* keep all summaries on one line */
+    flex-wrap: nowrap; /* keep summaries on a single line */
   }
 
-  /* summary elements in personal links styled as clickable text */
+  /* style for each summary element acting as a clickable label */
   .personal-links summary {
     color: #2AA198;
     cursor: pointer;
@@ -28,17 +27,17 @@ author_profile: true
     user-select: none;
   }
 
-  /* underline summary text on hover */
+  /* underline effect on hover for link summaries */
   .personal-links summary:hover {
     text-decoration: underline;
   }
 
-  /* position details relative to parent container */
+  /* position relative for each expandable section container */
   .personal-links details {
     position: relative;
   }
 
-  /* dropdown content inside details positioned absolutely below summary */
+  /* absolute positioning for dropdown content inside each details */
   .personal-links details > div {
     position: absolute;
     top: 100%;
@@ -51,39 +50,39 @@ author_profile: true
     padding: 0.5em 1em;
   }
 
-  /* divider styling for personal section */
+  /* visual divider between personal links */
   .personal-divider {
     user-select: none;
     margin: 0 0.5em;
     color: #888;
   }
 
-  /* hide default marker for summary elements */
+  /* hide default dropdown marker on summaries */
   summary::-webkit-details-marker,
   summary::marker {
     display: none;
   }
 
-  /* container for tabbed sections with sans-serif font */
+  /* container for tabbed content sections */
   .personal-tabs {
     font-family: sans-serif;
   }
 
-  /* tab button container with horizontal flex and spacing */
-  .tab-buttons {
+  /* container for row of tab toggle buttons */
+  .tab-button-row {
     display: flex;
     gap: 0.75em;
     margin-bottom: 1em;
   }
 
-  /* separator text style for tab buttons */
-  .tab-buttons span {
+  /* visual separator between tab buttons */
+  .tab-button-row span {
     line-height: 1.5;
     color: #888;
   }
 
-  /* individual tab button styles */
-  .tab-button {
+  /* base style for each tab toggle button */
+  .tab-toggle {
     cursor: pointer;
     background: none;
     border: none;
@@ -95,19 +94,19 @@ author_profile: true
     transition: border-color 0.3s ease;
   }
 
-  /* underline tab button border on hover */
-  .tab-button:hover {
+  /* underline effect for hover state of tab toggle */
+  .tab-toggle:hover {
     border-color: #2AA198;
   }
 
-  /* active tab button styling */
-  .tab-button.active {
+  /* active tab toggle state */
+  .tab-toggle.active {
     border-color: #2AA198;
     color: #1a746e;
     font-weight: 700;
   }
 
-  /* tab content text line height */
+  /* style for container holding tab content */
   .tab-content {
     line-height: 1.4;
   }
@@ -123,12 +122,12 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 
 <div class="personal-tabs">
-  <div class="tab-buttons">
-    <button class="tab-button" data-tab="art-media">Art & Media</button>
+  <div class="tab-button-row">
+    <button class="tab-toggle" data-tab="art-media">Art & Media</button>
     <span>|</span>
-    <button class="tab-button" data-tab="communities">Communities</button>
+    <button class="tab-toggle" data-tab="communities">Communities</button>
     <span>|</span>
-    <button class="tab-button" data-tab="creative-initiatives">Creative Initiatives</button>
+    <button class="tab-toggle" data-tab="creative-initiatives">Creative Initiatives</button>
   </div>
 
   <div class="tab-content" id="art-media" style="display:none;">
@@ -188,7 +187,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const tabButtons = document.querySelectorAll(".tab-button");
+  const tabButtons = document.querySelectorAll(".tab-toggle");
   const tabContents = document.querySelectorAll(".tab-content");
 
   tabButtons.forEach(btn => {
