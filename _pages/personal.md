@@ -36,13 +36,18 @@ author_profile: true
 }
 
 .personal-links details > div {
-  position: absolute;
-  top: 2em;
-  left: 0;
-  background: white;
-  padding: 0.5em 0;
-  max-width: 500px;
-  z-index: 1;
+  position: static;
+  margin-top: 0.5em;
+  max-width: 600px;
+  text-align: left;
+}
+
+.personal-divider {
+  user-select: none;
+  all: unset;
+  display: inline;
+  margin: 0 0.5em;
+  cursor: text;
 }
 
 summary::-webkit-details-marker,
@@ -92,6 +97,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
+  <span class="personal-divider"> | </span>
   <details>
     <summary>Communities</summary>
     <div>
@@ -102,6 +108,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
       </ul>
     </div>
   </details>
+  <span class="personal-divider"> | </span>
   <details>
     <summary>Creative Initiatives</summary>
     <div>
