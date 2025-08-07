@@ -12,39 +12,52 @@ author_profile: true
 .personal-links {
   display: flex;
   gap: 0.5em;
-  align-items: center;
+  align-items: flex-start;
   font-family: sans-serif;
-  flex-wrap: wrap;
   margin-bottom: 1em;
+  position: relative;
+  flex-wrap: nowrap;
+}
+
+.personal-links details {
+  position: relative;
 }
 
 .personal-links summary {
-  display: inline;
   color: #2AA198;
   cursor: pointer;
   text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .personal-links summary:hover {
   text-decoration: underline;
 }
 
+.personal-links details > div {
+  position: absolute;
+  top: 1.5em;
+  left: 0;
+  background: white;
+  padding: 0.5em 1em;
+  max-width: 600px;
+  z-index: 10;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  text-align: left;
+}
+
 .personal-divider {
-  cursor: text;
   user-select: none;
-  all: unset;
   display: inline;
-  cursor: text;
+  margin: 0 0.5em;
+  color: #888;
+  font-weight: 300;
 }
 
-.personal-divider:hover {
-  cursor: text;
-}
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
+summary::-webkit-details-marker,
 summary::marker {
   display: none;
 }
@@ -123,3 +136,19 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
     </div>
   </details>
 </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const dropdowns = document.querySelectorAll(".personal-links details");
+    dropdowns.forEach((target) => {
+      target.addEventListener("toggle", () => {
+        if (target.open) {
+          dropdowns.forEach((el) => {
+            if (el !== target) el.removeAttribute("open");
+          });
+        }
+      });
+    });
+  });
+</script>

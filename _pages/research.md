@@ -134,6 +134,7 @@ Happy (<i>neural</i>) trails! :)<br>
 <br>
 <br>
 
+<hr>
 <div style="margin: 0 auto; text-align: center;">
   <i>
     Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
