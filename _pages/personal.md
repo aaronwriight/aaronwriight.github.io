@@ -50,7 +50,7 @@ author_profile: true
   }
 </style>
 
-I <i>love</i> a good story.
+<b>I <i>love</i> a good story.</b>
 
 
 I hold a variety of things in my heart –– all of which, in one way or another, flavor my approach to cognitive science. Chief among these inspirations are the great outdoors and music, and yet no singular peak – terrestrial or acoustic – is independent in its contribution to my story. Everything below is laced with a lively blend of its own wonder, a compilation that perpetuates my present curiosities and has carved lessons into my past wanderings. If not through my own musings, I hope that what I've stumbled upon finds a place in your story.
