@@ -75,6 +75,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 </div>
 
 <div id="community" class="dropdown-content">
+  <p><b>Communities</b></p>
   <ul>
     <li>My home away from science: <a href="https://lavidacenter.org">La Vida At Gordon College</a></li>
     <li>Nurturing inclusivity, presence, and creativity: <a href="https://compasspath.org">Compass</a></li>
@@ -82,6 +83,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
 </div>
 
 <div id="creative" class="dropdown-content">
+  <p><b>Creatives</b></p>
   <ul>
     <li>The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
     <li>Data visualist, <a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
