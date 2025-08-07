@@ -20,6 +20,8 @@ author_profile: true
 
 .personal-links details {
   position: relative;
+  flex-shrink: 0;
+  width: auto;
 }
 
 .personal-links summary {
@@ -41,8 +43,7 @@ author_profile: true
   text-align: left;
   background: none;
   padding: 0;
-  width: 100%;
-  max-width: 800px;
+  max-width: 100%;
 }
 
 .personal-divider {
