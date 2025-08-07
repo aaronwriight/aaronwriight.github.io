@@ -54,14 +54,7 @@ author_profile: true
   }
 
   .personal-links details[open] > div {
-    position: absolute;
-    left: 0;
-    top: 100%;
-    background: white;
-    padding: 1em;
-    border: 1px solid #ccc;
-    z-index: 1;
-    width: 100%;
+    margin-top: 0.5em;
   }
 
   .personal-links {
