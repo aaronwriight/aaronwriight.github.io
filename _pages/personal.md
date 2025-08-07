@@ -183,15 +183,20 @@ document.addEventListener("DOMContentLoaded", () => {
       const activeContent = document.getElementById(tabId);
       const isActive = btn.classList.contains("active");
 
-      // clear all tabs
-      tabButtons.forEach(b => b.classList.remove("active"));
-      tabContents.forEach(c => {
-        c.style.display = "none";
-        c.classList.remove("active");
-      });
+      if (isActive) {
+        // deactivate current tab
+        btn.classList.remove("active");
+        activeContent.style.display = "none";
+        activeContent.classList.remove("active");
+      } else {
+        // clear all tabs
+        tabButtons.forEach(b => b.classList.remove("active"));
+        tabContents.forEach(c => {
+          c.style.display = "none";
+          c.classList.remove("active");
+        });
 
-      // only activate if it wasn't already active
-      if (!isActive && activeContent) {
+        // activate clicked tab
         btn.classList.add("active");
         activeContent.style.display = "block";
         activeContent.classList.add("active");
