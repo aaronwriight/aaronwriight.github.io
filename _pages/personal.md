@@ -10,11 +10,10 @@ author_profile: true
 ---
 <style>
 .personal-links {
-  display: flex;
+  display: inline-flex;
   gap: 0.5em;
   align-items: flex-start;
   font-family: sans-serif;
-  flex-wrap: nowrap;
   margin-bottom: 1em;
 }
 
@@ -39,6 +38,7 @@ author_profile: true
 .personal-links details > div {
   margin-top: 0.5em;
   text-align: left;
+  max-width: 100%;
 }
 
 .personal-divider {
