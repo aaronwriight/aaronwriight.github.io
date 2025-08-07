@@ -48,6 +48,26 @@ author_profile: true
   summary::marker {
     display: none;
   }
+
+  .personal-links details {
+    position: relative;
+  }
+
+  .personal-links details[open] > div {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    background: white;
+    padding: 1em;
+    border: 1px solid #ccc;
+    z-index: 1;
+    width: 100%;
+  }
+
+  .personal-links {
+    position: relative;
+    flex-wrap: nowrap;
+  }
 </style>
 
 <b>I <i>love</i> a good story.</b>
