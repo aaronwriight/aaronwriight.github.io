@@ -206,30 +206,28 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // handle tab toggles
+  // handle tab toggles as filters with null default
   const tabButtons = document.querySelectorAll(".tab-toggle");
   const tabContents = document.querySelectorAll(".tab-content");
 
   tabButtons.forEach(btn => {
     btn.addEventListener("click", () => {
       const tabId = btn.dataset.tab;
-      const activeContent = document.getElementById(tabId);
+      const content = document.getElementById(tabId);
       const isActive = btn.classList.contains("active");
 
       if (isActive) {
+        // turn off active state and hide content
         btn.classList.remove("active");
-        activeContent.style.display = "none";
-        activeContent.classList.remove("active");
+        content.style.display = "none";
       } else {
+        // reset all buttons and content
         tabButtons.forEach(b => b.classList.remove("active"));
-        tabContents.forEach(c => {
-          c.style.display = "none";
-          c.classList.remove("active");
-        });
+        tabContents.forEach(c => c.style.display = "none");
 
+        // activate current
         btn.classList.add("active");
-        activeContent.style.display = "block";
-        activeContent.classList.add("active");
+        content.style.display = "block";
       }
     });
   });
