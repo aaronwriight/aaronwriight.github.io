@@ -9,7 +9,7 @@ author_profile: true
 ---
 ---
 
-<b>To me, science is mentorship</b>.
+To me, science is <b>mentorship</b>.
 
 I’ve been privileged to experience several wonderful scholars’ investments, and my scientific lens is as much a product of their wisdom and prompting as it is my own desire to mentor future scholars. You can read a little about where I’ve journeyed and my takeways from those seasons (in reverse-ish chronology) below!
 

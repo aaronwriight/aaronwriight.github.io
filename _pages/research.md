@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "hello!" # title that appears in url tab
 author_profile: true
@@ -71,23 +72,21 @@ redirect_from:
     cursor: text;
   }
 </style>
-<!--<div style="margin: 0 auto; text-align: center;">-->
-<div>
+<div style="margin: 0 auto; text-align: center;">
   <i>
     Well, that is one of the things to find out sometime. Isn't it splendid to think of all the things there are to find out about? 
     It just makes me feel glad to be alive –– it's such an interesting world. 
     It wouldn't be half so interesting if we know all about everything, would it? 
     There'd be no scope for imagination then, would there?
   </i>
-  <!--<div style="text-align: right; padding-right: 5em; margin-top: 0.5em;">-->
-  <div>
+  <div style="text-align: right; padding-right: 5em; margin-top: 0.5em;">
     –– <i><b>Anne of Green Gables</b>, L. M. Montgomery</i>
   </div>
 </div>
 
 ---
 
-<b>I study how the human brain processes language.<b>
+I study how the human brain processes language.
 
 My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to map out the neural footprints of language, my research diverges along three trails:
 
@@ -97,7 +96,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the brain process and produce multiple language?</i></span>
+          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-divider">|</i> <span style="color: #2AA198;" class="abstract-tab"><i> How does the brain process and produce multiple languages?</i></span>
         </summary>
         <div class="abstract-text">
           <br>
