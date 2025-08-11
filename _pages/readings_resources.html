@@ -112,21 +112,29 @@ Below are several readings and resources I've found useful for navigating all th
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("DOMContentLoaded", () => {
     const toggles = document.querySelectorAll(".dropdown-toggle");
+  
     toggles.forEach(toggle => {
       toggle.addEventListener("click", () => {
-        const targetId = toggle.dataset.target;
-        const target = document.getElementById(targetId);
-        const isVisible = target.style.display === "block";
-        document.querySelectorAll(".dropdown-content").forEach(div => div.style.display = "none");
-        if (!isVisible) {
-          target.style.display = "block";
+        const targetClass = toggle.dataset.target;
+  
+        if (targetClass) {
+          // Hide all dropdowns if toggling a full section (like "articles")
+          if (!targetClass.includes(' ')) {
+            document.querySelectorAll(".dropdown-content").forEach(div => div.style.display = "none");
+          }
+  
+          // Show matching dropdown-content elements by class
+          document.querySelectorAll(`.dropdown-content.${targetClass.split(' ').join('.')}`)
+            .forEach(div => {
+              div.style.display = (div.style.display === "block") ? "none" : "block";
+            });
         }
       });
     });
   });
-</script>
+  </script>
 
 <br>
 <b>Resources</b>
