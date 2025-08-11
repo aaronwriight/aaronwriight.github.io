@@ -101,7 +101,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and computational techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
+          Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and other techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
           </p>
         </div>
       </details>
