@@ -54,6 +54,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
     <li><a href="https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"><em>Brol La Suite</em></a>, Angèle</li>
     <li><a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w"><em>Rainbow Mixtape</em></a>, COIN</li>
     <li><a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"><em>True Love</em></a>, Crystal Gayle</li>
+    <li><a href="https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"><em>From The Valley</em></a>, Ilsey</li>
   </ul>
   <p><b>Films</b></p>
   <ul>
