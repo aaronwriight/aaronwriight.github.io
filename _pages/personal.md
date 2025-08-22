@@ -95,6 +95,7 @@ Here are a few (<i>several</i>) of my favorite things . . . in no particular ord
   <p><b>Other Inspirations</b></p>
   <ul>
     <li>Landscape photography by <a href="https://www.frihead.ch">Mathilde Rietsch</a></li>
+    <li>Thomas Brasington's <i>stunning</i> photographic journal, <a href="https://www.thepostchaise.com">The Post Chaise</a></li>
     <li>Jon Bellion's <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a></li>
     <li>Classical composer, <a href="https://www.christopherdenniscoleman.com">Christopher Dennis Coleman</a></li>
     <li>The gripping memoir, <em>I'm Glad My Mom Died</em>, from <a href="https://www.jennettemccurdy.com">Jennette McCurdy</a></li>
