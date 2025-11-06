@@ -89,7 +89,36 @@ redirect_from:
 ---
 <b>I study how the human brain processes language.</b>
 
-My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to map out the neural footprints of language, my interests diverge along three trails:
+My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to chart the footprints of language cognition, my interests follow two primary trails:
+
+  <li>
+    <div class="pub-block">
+      <details>
+        <summary>
+          <i><b class="topic-label">(Mis)communication)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> What makes language emotional?</i></span>
+        </summary>
+        <div class="abstract-text">
+          <p>
+          Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, wwhy, and how meanings may get distorted or lost during linguistic communication.
+            <li>
+              <details>
+                <summary>
+                Reactivity: Often, miscommunication – especially misinterpretations at higher stakers – are \<\insert any number of emotional adjectives\>\ is easily recognizable and deeply felt. An interesting sub-question, then, is why failures of communication elicit such strong reactions between speakers. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
+                </summary>
+              </details>
+            </li>
+            <li>
+              <details>
+                <summary>
+                Repair: In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
+                </summary>
+              </details>
+            </li>
+          </p>
+        </div>
+      </details>
+    </div>
+  </li>
 
 <ul>
 
@@ -97,41 +126,11 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How does the ability to use multiple languages change how the brain processes language?</i></span>
+          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How does the ability to use multiple languages change how the brain processes language?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
-          Mounting evidence suggests that experience with two or more linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging, behavioral, and other techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing.
-          </p>
-        </div>
-      </details>
-    </div>
-  </li>
-
-  <li>
-    <div class="pub-block">
-      <details>
-        <summary>
-          <i><b class="topic-label">Language & Emotion</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> What makes language emotional?</i></span>
-        </summary>
-        <div class="abstract-text">
-          <p>
-          Neither the parts nor sum of language and emotion are straightforward. Individuals differ in how they interpret linguistic expressions of emotion, and their own expressions are hardly more consistent. Accordingly, I want to ask <i><b>i</b>)</i> how we map emotion onto language, and <i><b>ii</b>)</i> what mechanisms underly our ability to update these mappings on-line and in emotional contexts.
-          </p>
-        </div>
-      </details>
-    </div>
-  </li>
-
-  <li>
-    <div class="pub-block">
-      <details>
-        <summary>
-          <i><b class="topic-label">Language & Culture</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> What role does culture play in language processing?</i></span>
-        </summary>
-        <div class="abstract-text">
-          <p>
-          Along a similar vein, differences in linguistic abilities and preferences are influenced by culture. Here I aim to understand the constraints imposed upon language processing by <i><b>i</b>)</i> differences in individuals' varying cultural backgrounds and <i><b>ii</b>)</i> the cross-cultural contexts they navigate.
+          Mounting evidence suggests that experience with multiple linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging and behavioral techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing. Similarly, linguistic habits are influenced by culture and reflected in language use. Here I aim to understand <i><b>i</b>)</i> how individuals' various cultural backgrounds inform their production and comprehension of language, as well as <i><b>ii</b>)</i> how they differ in their internal representations of linguistic content.
           </p>
         </div>
       </details>
