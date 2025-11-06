@@ -17,6 +17,15 @@ redirect_from:
     flex-wrap: wrap;
   }
 
+  /* container for linked research topic blurbs */
+  .sub-topic-links {
+    display: flex;
+    gap: 0.5em;
+    font-family: sans-serif;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
   /* inline formatting for individual dropdown containers */
   .topic-links details {
     display: inline-block;
@@ -24,8 +33,23 @@ redirect_from:
     padding: 0;
   }
 
+  /* inline formatting for individual dropdown containers */
+  .sub-topic-links details {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+
   /* clickable summary text for dropdown toggles */
   .topic-links summary {
+    display: inline;
+    cursor: pointer;
+    color: inherit;
+    list-style: none;
+  }
+
+  /* clickable summary text for dropdown toggles */
+  .sub-topic-links summary {
     display: inline;
     cursor: pointer;
     color: inherit;
@@ -43,6 +67,11 @@ redirect_from:
     text-decoration: underline;
   }
 
+  /* underline effect on hover for summary in topic links */
+  .sub-topic-links summary:hover {
+    text-decoration: underline;
+  }
+
   /* hide dropdown marker in all browsers */
   .topic-links summary::-webkit-details-marker,
   summary::-webkit-details-marker,
@@ -50,8 +79,24 @@ redirect_from:
     display: none;
   }
 
+  /* hide dropdown marker in all browsers */
+  .sub-topic-links summary::-webkit-details-marker,
+  summary::-webkit-details-marker,
+  summary::marker {
+    display: none;
+  }
+
   /* style open details content block inside topic links */
   .topic-links details[open] > div {
+    position: static;
+    background: none;
+    border: none;
+    margin: 0.25em 0 0 0;
+    padding: 0;
+  }
+
+  /* style open details content block inside topic links */
+  .sub-topic-links details[open] > div {
     position: static;
     background: none;
     border: none;
@@ -67,13 +112,32 @@ redirect_from:
     white-space: nowrap;
   }
 
+  /* inline toggle link for each research topic */
+  .sub-topic-toggle {
+    text-decoration: none;
+    cursor: pointer;
+    color: #2AA198;
+    white-space: nowrap;
+  }
+
   /* underline toggle on hover */
   .topic-toggle:hover {
     text-decoration: underline;
   }
 
+  /* underline toggle on hover */
+  .sub-topic-toggle:hover {
+    text-decoration: underline;
+  }
+
   /* non-clickable topic name style */
   .topic-label {
+    cursor: text;
+    white-space: nowrap;
+  }
+
+  /* non-clickable topic name style */
+  .sub-topic-label {
     cursor: text;
     white-space: nowrap;
   }
@@ -153,7 +217,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How do diverse linguistic backgrounds influence language cognition and communication?</i></span>
+          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How does linguistic experience influence language cognition and communication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
