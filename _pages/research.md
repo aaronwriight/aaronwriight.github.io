@@ -92,6 +92,8 @@ redirect_from:
 
 My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to chart the footprints of language cognition, my interests follow two primary trails:
 
+<ul>
+
   <li>
     <div class="pub-block">
       <details>
