@@ -85,6 +85,7 @@ redirect_from:
     margin: 0 0.25em;
     color: inherit;
   }
+  
 </style>
 ---
 <b>I study how the human brain processes language.</b>
@@ -95,38 +96,48 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">(Mis)communication)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> What makes language emotional?</i></span>
+          <i><b class="topic-label">(Mis)communication)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> When, why, and how do we misunderstand each other during linguistic communication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
           Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, wwhy, and how meanings may get distorted or lost during linguistic communication.
-            <li>
-              <details>
-                <summary>
-                Reactivity: Often, miscommunication – especially misinterpretations at higher stakers – are \<\insert any number of emotional adjectives\>\ is easily recognizable and deeply felt. An interesting sub-question, then, is why failures of communication elicit such strong reactions between speakers. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
-                </summary>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>
-                Repair: In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
-                </summary>
-              </details>
-            </li>
+            <ul>
+              <li>
+                <details>
+                  <summary>
+                    <i><b class="topic-label">Reactivity)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
+                  </summary>               
+                  <div class="abstract-text">
+                    <p>
+                    Reactivity: Often, miscommunication – especially misinterpretations at higher stakers – are >insert any number of emotional adjectives< is easily recognizable and deeply felt. An interesting sub-question, then, is why these failures of communication manifest in such vibrant ways. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
+                    </p>
+                  </div>
+                </details>
+              </li>
+              <li>
+                <details>
+                  <summary>
+                    <i><b class="topic-label">Repair)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
+                  </summary>
+                  <div class="abstract-text">
+                    <p>
+                    Repair: In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
+                    </p>
+                  </div>
+                </details>
+              </li>
+            </ul>
           </p>
         </div>
       </details>
     </div>
   </li>
 
-<ul>
-
   <li>
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How does the ability to use multiple languages change how the brain processes language?</i></span>
+          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How do diverse linguistic backgrounds influence language cognition and communication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
