@@ -85,6 +85,16 @@ redirect_from:
     margin: 0 0.25em;
     color: inherit;
   }
+
+  /* visual divider between sub-topic label and description */
+  .sub-topic-separator {
+    cursor: text;
+    user-select: none;
+    all: unset;
+    display: inline;
+    margin: 0 0.25em;
+    color: inherit;
+  }
   
 </style>
 ---
@@ -102,12 +112,12 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, wwhy, and how meanings may get distorted or lost during linguistic communication.
+          Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, why, and how meanings may get distorted or lost during linguistic communication.
             <ul>
               <li>
                 <details>
                   <summary>
-                    <i><b class="topic-label">Reactivity)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
+                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
                   </summary>               
                   <div class="abstract-text">
                     <p>
@@ -119,7 +129,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
               <li>
                 <details>
                   <summary>
-                    <i><b class="topic-label">Repair)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
+                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
                   </summary>
                   <div class="abstract-text">
                     <p>
