@@ -64,6 +64,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #2AA198;
+    white-space: nowrap;
   }
 
   /* underline toggle on hover */
@@ -74,6 +75,7 @@ redirect_from:
   /* non-clickable topic name style */
   .topic-label {
     cursor: text;
+    white-space: nowrap;
   }
 
   /* visual divider between topic label and description */
@@ -84,6 +86,7 @@ redirect_from:
     display: inline;
     margin: 0 0.25em;
     color: inherit;
+    white-space: nowrap;
   }
 
   /* visual divider between sub-topic label and description */
@@ -94,6 +97,7 @@ redirect_from:
     display: inline;
     margin: 0 0.25em;
     color: inherit;
+    white-space: nowrap;
   }
   
 </style>
@@ -108,7 +112,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">(Mis)communication)</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> When, why, and how do we misunderstand each other during linguistic communication?</i></span>
+          <i><b class="topic-label">(Mis)communication</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> When, why, and how do we misunderstand each other during linguistic communication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
@@ -121,7 +125,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   </summary>               
                   <div class="abstract-text">
                     <p>
-                    Reactivity: Often, miscommunication – especially misinterpretations at higher stakers – are >insert any number of emotional adjectives< is easily recognizable and deeply felt. An interesting sub-question, then, is why these failures of communication manifest in such vibrant ways. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
+                    Often, miscommunication – especially misinterpretations at higher stakers – is easily recognizable and deeply felt. An interesting sub-question, then, is why these failures of communication manifest in such vibrant ways. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
                     </p>
                   </div>
                 </details>
@@ -133,7 +137,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   </summary>
                   <div class="abstract-text">
                     <p>
-                    Repair: In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
+                    In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
                     </p>
                   </div>
                 </details>
