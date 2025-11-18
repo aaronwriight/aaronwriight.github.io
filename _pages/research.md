@@ -168,7 +168,7 @@ redirect_from:
 ---
 <b>I study how the human brain processes language.</b>
 
-My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly intends to chart the footprints of language cognition, my interests follow two primary trails:
+My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition, my interests follow two primary trails:
 
 <ul>
 
@@ -182,6 +182,18 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
           <p>
           Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, why, and how meanings may get distorted or lost during linguistic communication.
             <ul>
+            <li>
+                <details>
+                  <summary>
+                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
+                  </summary>
+                  <div class="abstract-text">
+                    <p>
+                    In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
+                    </p>
+                  </div>
+                </details>
+              </li>
               <li>
                 <details>
                   <summary>
@@ -190,18 +202,6 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   <div class="abstract-text">
                     <p>
                     Often, miscommunication – especially misinterpretations at higher stakers – is easily recognizable and deeply felt. An interesting sub-question, then, is why these failures of communication manifest in such vibrant ways. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
-                    </p>
-                  </div>
-                </details>
-              </li>
-              <li>
-                <details>
-                  <summary>
-                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
-                  </summary>
-                  <div class="abstract-text">
-                    <p>
-                    In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
                     </p>
                   </div>
                 </details>
