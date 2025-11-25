@@ -166,7 +166,7 @@ redirect_from:
   
 </style>
 ---
-<b>I study how the human brain processes language.</b>
+<b>I study how the human brain processes language and supports communication.</b>
 
 My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition, my interests follow two primary trails:
 
@@ -185,7 +185,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
             <li>
                 <details>
                   <summary>
-                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
+                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic-toggle"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
                   </summary>
                   <div class="abstract-text">
                     <p>
@@ -197,7 +197,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
               <li>
                 <details>
                   <summary>
-                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
+                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic-toggle"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
                   </summary>               
                   <div class="abstract-text">
                     <p>
