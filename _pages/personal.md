@@ -40,12 +40,12 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
   | 
   <span class="dropdown-toggle" data-target="community">Communities</span>
   | 
-  <span class="dropdown-toggle" data-target="creative">Creative Initiatives</span>
+  <span class="dropdown-toggle" data-target="creative">Creative Initiatives & Inspirations</span>
 </p>
 
 <div id="art" class="dropdown-content">
   <p><b>Artists & Albums</b></p>
-  <a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion • <a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"><em>Everybody</em></a>, Logic • <a href="https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro"><em>Change of Scenery II</em></a>, Quinn XCII • <a href="https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"><em>Brol La Suite</em></a>, Angèle • <a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w"><em>Rainbow Mixtape</em></a>, COIN • <a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"><em>True Love</em></a>, Crystal Gayle • <a href="https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"><em>From The Valley</em></a>, Ilsey • <a href="https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"><em>Songs For The Canyon></em></a>, John Vincent III
+  <a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion • <a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"><em>Everybody</em></a>, Logic • <a href="https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro"><em>Change of Scenery II</em></a>, Quinn XCII • <a href="https://open.spotify.com/album/2UrPmvaX5X76LIzE6Cfiqu"><em>Brol La Suite</em></a>, Angèle • <a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w"><em>Rainbow Mixtape</em></a>, COIN • <a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"><em>True Love</em></a>, Crystal Gayle • <a href="https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"><em>From The Valley</em></a>, Ilsey • <a href="https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"><em>Songs For The Canyon</em></a>, John Vincent III
     <!-- <li><a href="https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC"><em>The Definition</em></a>, Jon Bellion</li>
     <li><a href="https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk"><em>Everybody</em></a>, Logic</li>
     <li><a href="https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro"><em>Change of Scenery II</em></a>, Quinn XCII</li>
@@ -53,19 +53,14 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
     <li><a href="https://open.spotify.com/album/42SAgjuUp25kQT9I04ph1w"><em>Rainbow Mixtape</em></a>, COIN</li>
     <li><a href="https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"><em>True Love</em></a>, Crystal Gayle</li>
     <li><a href="https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"><em>From The Valley</em></a>, Ilsey</li>
-    <li><a href="https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"><em>Songs For The Canyon></em></a>, John Vincent III<li> -->
-  <p><b>Films</b></p>
+    <li><a href="https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"><em>Songs For The Canyon</em></a>, John Vincent III<li> -->
+  <p><b>Film</b></p>
   <ul>
-    <li>La La Land</li>
-    <li>A Quiet Place</li>
-    <li>Good Will Hunting</li>
-    <li>Spirited Away</li>
+    <li>La La Land</li> • <li>A Quiet Place</li> • <li>Good Will Hunting</li> • <li>Spirited Away</li> •
   </ul>
   <p><b>Literature</b></p>
   <ul>
-    <li><em>Anne of Green Gables</em>, Lucy Maud Montgomery</li>
-    <li><em>The Haunting of Hill House</em>, Shirley Jackson</li>
-    <li><em>A Girl of the Limberlost</em>, Gene Stratton-Porter</li>
+    <li><em>Anne of Green Gables</em>, Lucy Maud Montgomery</li> • <li><em>The Haunting of Hill House</em>, Shirley Jackson</li> • <li><em>A Girl of the Limberlost</em>, Gene Stratton-Porter</li> •
   </ul>
   <p><b>Podcasts</b></p>
   <ul>
@@ -82,7 +77,7 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
 </div>
 
 <div id="creative" class="dropdown-content">
-  <p><b>Creatives/b></p>
+  <p><b>Creatives Connections</b></p>
   <ul>
     <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
     <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
