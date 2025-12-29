@@ -56,11 +56,11 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
     <li><a href="https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"><em>Songs For The Canyon</em></a>, John Vincent III<li> -->
   <p><b>Film</b></p>
   <ul>
-    <li>La La Land</li> • <li>A Quiet Place</li> • <li>Good Will Hunting</li> • <li>Spirited Away</li> •
+    La La Land • A Quiet Place • Good Will Hunting • Spirited Away
   </ul>
   <p><b>Literature</b></p>
   <ul>
-    <li><em>Anne of Green Gables</em>, Lucy Maud Montgomery</li> • <li><em>The Haunting of Hill House</em>, Shirley Jackson</li> • <li><em>A Girl of the Limberlost</em>, Gene Stratton-Porter</li> •
+    <em>Anne of Green Gables</em>, Lucy Maud Montgomery • <em>The Haunting of Hill House</em>, Shirley Jackson • <em>A Girl of the Limberlost</em>, Gene Stratton-Porter
   </ul>
   <p><b>Podcasts</b></p>
   <ul>
@@ -81,8 +81,8 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
   <ul>
     <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
     <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
-    <li><a href="https://www.etsy.com/shop/PhebeSunriseStudio">Phebe Sunrise Studio, a Maine-inspired print shop by Kennebunk, ME based artist (and my long-time friend) <a href="https://www.instagram.com/phebegrant.art/">Phebe Grant</a></li>
-    <li>A carousel of creative services, inspiration, and encouragement by my friend<a href="https://www.melissazaldivar.com">Melissa Zaldivar Sawyer</a></li>
+    <li><a href="https://www.etsy.com/shop/PhebeSunriseStudio">Phebe Sunrise Studio</a>, a Maine-inspired print shop by Kennebunk, ME based artist (and my long-time friend) <a href="https://www.instagram.com/phebegrant.art/">Phebe Grant</a></li>
+    <li>A carousel of creative services, inspiration, and encouragement by my friend <a href="https://www.melissazaldivar.com">Melissa Zaldivar Sawyer</a></li>
   </ul>
   <p><b>Inspirations</b></p>
   <ul>
