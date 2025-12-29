@@ -82,16 +82,18 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
 </div>
 
 <div id="creative" class="dropdown-content">
-  <p><b>Creatives</b></p>
+  <p><b>Creatives/b></p>
+  <ul>
+    <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
+    <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
+    <li><a href="https://www.etsy.com/shop/PhebeSunriseStudio">Phebe Sunrise Studio, a Maine-inspired print shop by Kennebunk, ME based artist (and my long-time friend) <a href="https://www.instagram.com/phebegrant.art/">Phebe Grant</a></li>
+    <li>A carousel of creative services, inspiration, and encouragement by my friend<a href="https://www.melissazaldivar.com">Melissa Zaldivar Sawyer</a></li>
+  </ul>
+  <p><b>Inspirations</b></p>
   <ul>
     <li>The independent design studio, <a href="https://houseofdakh.com">HOUSEOFDAKH</a></li>
     <li>Data Visualization & Information Design by <a href="https://www.cedricscherer.com">Cédric Scherer</a></li>
     <li>Transforming data into understanding: <a href="https://nrennie.rbind.io">Nicola Rennie</a></li>
-    <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
-    <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
-  </ul>
-  <p><b>Other Inspirations</b></p>
-  <ul>
     <li>Landscape photography by <a href="https://www.frihead.ch">Mathilde Rietsch</a></li>
     <li>Thomas Brasington's <i>stunning</i> photographic journal, <a href="https://www.thepostchaise.com">The Post Chaise</a></li>
     <li>Jon Bellion's <a href="https://www.beautifulmindprojects.com">Beautiful Mind Projects</a></li>
