@@ -81,8 +81,8 @@ Here are a few (<i>several</i>) of my favorite things, in no particular order. I
   <ul>
     <li>My <i>talented</i> friend and storyteller, Eden Harfield, at <a href="https://www.edengracecreative.com">Eden Grace Creative</a></li>
     <li>Mesmerizing paintings and sketches done by my friend, <a href="https://www.instagram.com/jameswellborn.art/">James Wellborn</a></li>
-    <li><a href="https://www.etsy.com/shop/PhebeSunriseStudio">Phebe Sunrise Studio</a>, a Maine-inspired print shop by Kennebunk, ME based artist (and my long-time friend) <a href="https://www.instagram.com/phebegrant.art/">Phebe Grant</a></li>
-    <li>A carousel of creative services, inspiration, and encouragement by my friend <a href="https://www.melissazaldivar.com">Melissa Zaldivar Sawyer</a></li>
+    <li><a href="https://www.etsy.com/shop/PhebeSunriseStudio">Phebe Sunrise Studio</a>, a Maine-inspired print shop by Kennebunk, ME-based artist (and long-time friend), <a href="https://www.instagram.com/phebegrant.art/">Phebe Grant</a></li>
+    <li>A carousel of creative services, inspiration, and encouragement by my friend, <a href="https://www.melissazaldivar.com">Melissa Zaldivar Sawyer</a></li>
   </ul>
   <p><b>Inspirations</b></p>
   <ul>
