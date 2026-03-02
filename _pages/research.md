@@ -108,7 +108,7 @@ redirect_from:
   .topic-toggle {
     text-decoration: none;
     cursor: pointer;
-    color: #2AA198;
+    color: #859901;
     white-space: nowrap;
   }
 
@@ -116,7 +116,7 @@ redirect_from:
   .sub-topic-toggle {
     text-decoration: none;
     cursor: pointer;
-    color: #2AA198;
+    color: #859901;
     white-space: nowrap;
   }
 
@@ -176,7 +176,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">(Mis)communication</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> When, why, and how do we misunderstand each other during linguistic communication?</i></span>
+          <i><b class="topic-label">(Mis)communication</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> When, why, and how do we misunderstand each other during linguistic communication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
@@ -185,7 +185,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
             <li>
                 <details>
                   <summary>
-                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic-toggle"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
+                    <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
                   </summary>
                   <div class="abstract-text">
                     <p>
@@ -197,7 +197,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
               <li>
                 <details>
                   <summary>
-                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #2AA198;" class="sub-topic-toggle"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
+                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
                   </summary>               
                   <div class="abstract-text">
                     <p>
@@ -217,7 +217,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #2AA198;" class="topic-toggle"><i> How does linguistic experience influence language cognition and communication?</i></span>
+          <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How does linguistic experience influence language cognition and communication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
