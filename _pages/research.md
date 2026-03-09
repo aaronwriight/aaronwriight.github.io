@@ -10,7 +10,7 @@ redirect_from:
 <style>
 
   .layout--archive .page {
-  max-width: 1200px;
+  max-width: 1400px;
   }
 
   /* container for linked research topic blurbs */
@@ -193,10 +193,9 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          Conversation is not only an exchange of information—it is also a process of interpreting and responding to other minds. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expression. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response.
+          Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a ccognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
+          <br>
           My work asks how these emotional and mental-state representations are constructed during dialogue and how they shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
-
-Conversation is one of the most natural, yet complex behaviors humans engage in. When two people talk, they are not merely exchanging words; they are coordinating attention, negotiating meaning, inferring intentions, and updating beliefs about each other in real time. Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals. Listeners constantly make inferences about what speakers mean, how they feel, and why they chose a particular phrasing. At the same time, speakers monitor their partner’s reactions and adjust their language accordingly. This dynamic feedback loop allows conversation to unfold smoothly (most of the time), despite the fact that meaning is rarely stated explicitly. Misunderstandings still occur, but they are often repaired quickly through clarification, repetition, or reformulation. In this way, conversation is not just a vehicle for communication, but a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
           <ul>
             <li>
                 <details>
@@ -207,6 +206,9 @@ Conversation is one of the most natural, yet complex behaviors humans engage in.
                     <p>
                     In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
                     When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Speakers may clarify, rephrase, repeat, or explicitly negotiate meaning until both participants align on a shared interpretation. These repair sequences reveal the strategies people use to track their partner’s understanding and to update their own assumptions about what has been communicated. By studying repair behavior, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during conversation.
+
+Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals.
+
 
 Miscommunication rarely goes unnoticed. Breakdowns in understanding—especially in socially or emotionally meaningful contexts—often evoke strong reactions such as surprise, frustration, or amusement. These responses reveal how speakers interpret the intentions behind an utterance and how they evaluate the success or failure of a communicative exchange.
 
@@ -233,7 +235,7 @@ I am interested in how these emotional reactions arise during conversation, how 
           Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, why, and how meanings may get distorted or lost during linguistic communication.
 
 Conversation works remarkably well given how little meaning is stated explicitly. Speakers rely heavily on context, shared assumptions, and inference, which means that misunderstandings are an inevitable feature of communication. Rather than being rare failures, these moments provide a powerful window into how people represent meaning and track each other’s understanding during dialogue.
-
+Misunderstandings still occur, but they are often repaired quickly through clarification, repetition, or reformulation. In this way, conversation is not just a vehicle for communication, but a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
 I study when and why miscommunication arises, how listeners detect that something has gone wrong, and how speakers and listeners collaboratively restore shared meaning. By examining these breakdowns—and the strategies people use to resolve them—we can better understand the cognitive mechanisms that normally allow conversation to proceed so smoothly.
             <ul>
             <li>
