@@ -109,7 +109,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* inline toggle link for each research topic */
@@ -117,7 +117,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* underline toggle on hover */
@@ -163,6 +163,14 @@ redirect_from:
     color: inherit;
     white-space: nowrap;
   }
+
+  /* keep topic label and rq on the same line */
+  .pub-block summary {
+    display: flex;
+    align-items: baseline;
+    gap: 0.35em;
+    flex-wrap: nowrap;
+  }
   
 </style>
 ---
@@ -206,7 +214,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">(Mis)communication</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> Why do we miscommunicate, and how do we anticipate, identify, and repair miscommunication?</i></span>
+          <i><b class="topic-label">Miscommunication</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> Why do we miscommunicate, and how do we anticipate, identify, and repair miscommunication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
