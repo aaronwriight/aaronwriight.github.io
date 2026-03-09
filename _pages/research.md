@@ -114,7 +114,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* inline toggle link for each research topic */
@@ -122,7 +122,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* underline toggle on hover */
@@ -138,13 +138,13 @@ redirect_from:
   /* non-clickable topic name style */
   .topic-label {
     cursor: text;
-    /* white-space: nowrap; */
+    white-space: nowrap;
   }
 
   /* non-clickable topic name style */
   .sub-topic-label {
     cursor: text;
-    /* white-space: nowrap; */
+    white-space: nowrap;
   }
 
   /* visual divider between topic label and description */
