@@ -174,6 +174,7 @@ redirect_from:
 
   /* keep topic label and rq on the same line */
   .pub-block summary {
+    width: 100%;
     display: flex;
     align-items: baseline;
     gap: 0.35em;
