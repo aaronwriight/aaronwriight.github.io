@@ -114,7 +114,7 @@ redirect_from:
 
   /* inline toggle link for each research topic */
   .topic-toggle {
-    width: 90%;
+    width: 120%;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
@@ -123,7 +123,7 @@ redirect_from:
 
   /* inline toggle link for each research topic */
   .sub-topic-toggle {
-    width: 90%;
+    width: 120%;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
