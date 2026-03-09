@@ -9,11 +9,14 @@ redirect_from:
 ---
 <style>
   .page__content {
-  max-width: 1600px;
+    max-width: 1800px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    line-height: 1.7;
   }
 
   .layout--archive .page {
-  max-width: 1600px;
+    max-width: 1800px;
   }
 
   /* container for linked research topic blurbs */
@@ -179,7 +182,26 @@ redirect_from:
     gap: 0.35em;
     /* flex-wrap: nowrap; */
   }
-  
+
+  .pub-block {
+    margin-bottom: 1.6rem;
+  }
+
+  .pub-block details > div {
+    margin-top: 0.5rem;
+  }
+
+  ul {
+    margin-left: 1.4rem;
+  }
+
+  li {
+    margin-bottom: 0.8rem;
+  }
+
+  .abstract-text {
+    margin-top: 0.4rem;
+  }
 </style>
 ---
 <b>I study the <span style="color: #859901;"><i>social mind in dialogue</i></span>: how the human brain processes <span style="color: #859901;"><i>language</i></span> and structures <span style="color: #859901;"><i>conversation</i></span>.</b>
@@ -196,7 +218,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          { Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning. My work asks how these emotional and mental-state representations are constructed during dialogue and how mechanisms like (mis)alignment shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time. }
+          Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning. My work asks how these emotional and mental-state representations are constructed during dialogue and how mechanisms like (mis)alignment shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
           <ul>
             <li>
                 <details>
@@ -205,7 +227,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   </summary>
                   <div class="abstract-text">
                     <p>
-                    { Conversation contains several unique cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions, etc. — that carry information about emotional states and social goals. Strategic use of these cues — especially in socially or emotionally meaningful contexts — often evokes salient emotional experiences like surprise, frustration, or amusement. These reactions are informative with respect to, e.g., how speakers interpret the intentions behind an utterance. I am interested in how these emotional experiences arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of conversation. }
+                    Conversation contains several unique cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions, etc. — that carry information about emotional states and social goals. Strategic use of these cues — especially in socially or emotionally meaningful contexts — often evokes salient emotional experiences like surprise, frustration, or amusement. These reactions are informative with respect to, e.g., how speakers interpret the intentions behind an utterance. I am interested in how these emotional experiences arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of conversation.
                     </p>
                   </div>
                 </details>
@@ -225,7 +247,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          { Conversation works remarkably well given how little meaning is stated explicitly. Speakers rely heavily on context, shared assumptions, and inference, rendering misinterpretation an inevitable feature of communication. Rather than being explicit failures, these moments are a powerful window how people represent meaning and track each other's understanding in dialogue. I use neuroimaging and computational methods to investage when and why miscommunication arises, how speakers and listeners detect that something has been lost in translation, and how they collaboratively restore shared meaning. By examining these breakdowns – and the strategies people use to resolve them – we can better understand the cognitive mechanisms that normally facilitate seamless conversation. }
+          Conversation works remarkably well given how little meaning is stated explicitly. Speakers rely heavily on context, shared assumptions, and inference, rendering misinterpretation an inevitable feature of communication. Rather than being explicit failures, these moments are a powerful window how people represent meaning and track each other's understanding in dialogue. I use neuroimaging and computational methods to investage when and why miscommunication arises, how speakers and listeners detect that something has been lost in translation, and how they collaboratively restore shared meaning. By examining these breakdowns – and the strategies people use to resolve them – we can better understand the cognitive mechanisms that normally facilitate seamless conversation.
             <ul>
             <li>
                 <details>
@@ -234,7 +256,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   </summary>
                   <div class="abstract-text">
                     <p>
-                    { In dialogue, we routinely correct ourselves and others. Misunderstandings may occur, but they are often repaired through clarification, repetition, or reformulation. These repair sequences reveal the strategies people use to track listeners' understanding, as well as update their own assumptions about what has been communicated. By studying repair behavior, I hope to gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, emotions, and intentions during conversation. }
+                    In dialogue, we routinely correct ourselves and others. Misunderstandings may occur, but they are often repaired through clarification, repetition, or reformulation. These repair sequences reveal the strategies people use to track listeners' understanding, as well as update their own assumptions about what has been communicated. By studying repair behavior, I hope to gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, emotions, and intentions during conversation.
                     </p>
                   </div>
                 </details>
@@ -254,7 +276,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          { Language experience shapes how people think, communicate, and interpret the world around them. Individuals with command of multiple languages — bilinguals, multilinguals, and polyglots – or with different cultural backgrounds often develop distinct representations that are reflected in language production and comprehension. Further evidence suggests that these idiosyncracies impose both structural and functional changes upon the brain, providing an important window into how linguistic and sociocultural experiences shape the cognitive systems that support communication. Using a combination of neuroimaging and behavioral methods, I study how these differences shape the brain and mind, and ultimately help us discern which aspects of human language are foundational, versus flexible. }
+          Language experience shapes how people think, communicate, and interpret the world around them. Individuals with command of multiple languages — bilinguals, multilinguals, and polyglots – or with different cultural backgrounds often develop distinct representations that are reflected in language production and comprehension. Further evidence suggests that these idiosyncracies impose both structural and functional changes upon the brain, providing an important window into how linguistic and sociocultural experiences shape the cognitive systems that support communication. Using a combination of neuroimaging and behavioral methods, I study how these differences shape the brain and mind, and ultimately help us discern which aspects of human language are foundational, versus flexible.
           </p>
         </div>
       </details>
@@ -265,7 +287,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
 
 The brain's functional landscape is yet largely unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.
 
-Happy (<i>neural</i>) trails! :)<br>
+Happy (<span style="color: #859901;"><i>neural</i></span>) trails! :)<br>
 
 <hr>
 <div style="margin: 0 auto; text-align: center;">
