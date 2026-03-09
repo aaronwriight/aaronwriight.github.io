@@ -176,11 +176,26 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Emotion & affect in conversation</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How do we represent other minds and emotional states during conversation, and how do those representations guide the unfolding dialogue?</i></span>
+          <i><b class="topic-label">Emotion & affect in conversation</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How do we represent other mental and emotional states during conversation, and how do these representations guide conversational behavior?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
           Conversation is one of the most natural, yet complex behaviors humans engage in. When two people talk, they are not merely exchanging words; they are coordinating attention, negotiating meaning, inferring intentions, and updating beliefs about each other in real time. Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals. Listeners constantly make inferences about what speakers mean, how they feel, and why they chose a particular phrasing. At the same time, speakers monitor their partner’s reactions and adjust their language accordingly. This dynamic feedback loop allows conversation to unfold smoothly (most of the time), despite the fact that meaning is rarely stated explicitly. Misunderstandings still occur, but they are often repaired quickly through clarification, repetition, or reformulation. In this way, conversation is not just a vehicle for communication, but a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
+          <ul>
+            <li>
+                <details>
+                  <summary>
+                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
+                  </summary>
+                  <div class="abstract-text">
+                    <p>
+                    In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
+                    When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Speakers may clarify, rephrase, repeat, or explicitly negotiate meaning until both participants align on a shared interpretation. These repair sequences reveal the strategies people use to track their partner’s understanding and to update their own assumptions about what has been communicated. By studying repair behavior, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during conversation.
+                    </p>
+                  </div>
+                </details>
+              </li>
+            </ul>
           </p>
         </div>
       </details>
@@ -191,7 +206,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">(Mis)communication</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> When, why, and how do we misunderstand each other during linguistic communication?</i></span>
+          <i><b class="topic-label">(Mis)communication</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> Why do we miscommunicate, and how do we anticipate, identify, and repair miscommunication?</i></span>
         </summary>
         <div class="abstract-text">
           <p>
@@ -205,18 +220,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   <div class="abstract-text">
                     <p>
                     In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
-                    </p>
-                  </div>
-                </details>
-              </li>
-              <li>
-                <details>
-                  <summary>
-                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
-                  </summary>               
-                  <div class="abstract-text">
-                    <p>
-                    Often, miscommunication – especially misinterpretations at higher stakers – is easily recognizable and deeply felt. An interesting sub-question, then, is why these failures of communication manifest in such vibrant ways. Necessarily, we must first understand the source of misinterpretations. I hope to extend my research in this direction.
+                    When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Speakers may clarify, rephrase, repeat, or explicitly negotiate meaning until both participants align on a shared interpretation. These repair sequences reveal the strategies people use to track their partner’s understanding and to update their own assumptions about what has been communicated. By studying repair behavior, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during conversation.
                     </p>
                   </div>
                 </details>
