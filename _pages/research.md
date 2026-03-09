@@ -114,18 +114,20 @@ redirect_from:
 
   /* inline toggle link for each research topic */
   .topic-toggle {
+    width: 80%;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap;
+    /* white-space: nowrap; */ /* green text on questions*/ 
   }
 
   /* inline toggle link for each research topic */
   .sub-topic-toggle {
+    width: 80%;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* underline toggle on hover */
@@ -147,7 +149,7 @@ redirect_from:
   /* non-clickable topic name style */
   .sub-topic-label {
     cursor: text;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* visual divider between topic label and description */
@@ -178,7 +180,14 @@ redirect_from:
     display: flex;
     align-items: baseline;
     gap: 0.35em;
-    flex-wrap: nowrap;
+    /* flex-wrap: nowrap; */
+  }
+
+  /* styling for abstract tab clickable text */
+  .topic-text {
+    max-width: 1200px;
+    text-decoration: none;
+    cursor: text;
   }
   
 </style>
@@ -195,7 +204,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         <summary>
           <i><b class="topic-label">Emotion & affect in conversation</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How do we represent other mental and emotional states during conversation, and how do these representations guide conversational behavior?</i></span>
         </summary>
-        <div class="abstract-text">
+        <div class="topic-text">
           <p>
           Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning. My work asks how these emotional and mental-state representations are constructed during dialogue and how mechanisms like (mis)alignment shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
           <ul>
@@ -204,7 +213,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   <summary>
                     <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> Why does communication elicit strong reactions between speakers?</i></span>
                   </summary>
-                  <div class="abstract-text">
+                  <div class="topic-text">
                     <p>
                     Conversation contains several unique cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions, etc. — that carry information about emotional states and social goals. Strategic use of these cues — especially in socially or emotionally meaningful contexts — often evokes salient emotional experiences like surprise, frustration, or amusement. These reactions are informative with respect to, e.g., how speakers interpret the intentions behind an utterance. I am interested in how these emotional experiences arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of conversation.
                     </p>
@@ -224,7 +233,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         <summary>
           <i><b class="topic-label">Miscommunication</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> Why do we miscommunicate, and how do we anticipate, identify, and repair miscommunication?</i></span>
         </summary>
-        <div class="abstract-text">
+        <div class="topic-text">
           <p>
           Conversation works remarkably well given how little meaning is stated explicitly. Speakers rely heavily on context, shared assumptions, and inference, rendering misinterpretation an inevitable feature of communication. Rather than being explicit failures, these moments are a powerful window how people represent meaning and track each other's understanding in dialogue. I use neuroimaging and computational methods to investage when and why miscommunication arises, how speakers and listeners detect that something has been lost in translation, and how they collaboratively restore shared meaning. By examining these breakdowns – and the strategies people use to resolve them – we can better understand the cognitive mechanisms that normally facilitate seamless conversation.
             <ul>
@@ -233,7 +242,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   <summary>
                     <i><b class="sub-topic-label">Repair</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> How do we anticipate and resolve miscommunication during linguistic communication?</i></span>
                   </summary>
-                  <div class="abstract-text">
+                  <div class="topic-text">
                     <p>
                     In dialogue, we routinely correct ourselves and others. Misunderstandings may occur, but they are often repaired through clarification, repetition, or reformulation. These repair sequences reveal the strategies people use to track listeners' understanding, as well as update their own assumptions about what has been communicated. By studying repair behavior, I hope to gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, emotions, and intentions during conversation.
                     </p>
@@ -253,7 +262,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         <summary>
           <i><b class="topic-label">Culture & bilingualism</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How does linguistic experience influence language cognition and communication?</i></span>
         </summary>
-        <div class="abstract-text">
+        <div class="topic-text">
           <p>
           Language experience shapes how people think, communicate, and interpret the world around them. Individuals with command of multiple languages — bilinguals, multilinguals, and polyglots – or with different cultural backgrounds often develop distinct representations that are reflected in language production and comprehension. Further evidence suggests that these idiosyncracies impose both structural and functional changes upon the brain, providing an important window into how linguistic and sociocultural experiences shape the cognitive systems that support communication. Using a combination of neuroimaging and behavioral methods, I study how these differences shape the brain and mind, and ultimately help us discern which aspects of human language are foundational, versus flexible.
           </p>
