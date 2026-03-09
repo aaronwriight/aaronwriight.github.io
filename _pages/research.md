@@ -202,7 +202,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
     <div class="pub-block">
       <details>
         <summary>
-          <i><b class="topic-label">Emotion & affect in conversation</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How do we represent other mental and emotional states during conversation, and how do these representations guide conversational behavior?</i></span>
+          <i><b class="topic-label">Emotion & affect in conversation</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How do we represent others' mental and emotional states during conversation, and how do these representations guide conversational behavior?</i></span>
         </summary>
         <div class="topic-text">
           <p>
