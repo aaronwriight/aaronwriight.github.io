@@ -8,6 +8,11 @@ redirect_from:
   - /research.html
 ---
 <style>
+
+  .layout--archive .page {
+  max-width: 1150px;
+  }
+
   /* container for linked research topic blurbs */
   .topic-links {
     display: flex;
@@ -133,13 +138,13 @@ redirect_from:
   /* non-clickable topic name style */
   .topic-label {
     cursor: text;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* non-clickable topic name style */
   .sub-topic-label {
     cursor: text;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* visual divider between topic label and description */
@@ -188,6 +193,8 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
+          Conversation is not only an exchange of information—it is also a process of interpreting and responding to other minds. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expression. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response.
+          My work asks how these emotional and mental-state representations are constructed during dialogue and how they shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
           Conversation is one of the most natural, yet complex behaviors humans engage in. When two people talk, they are not merely exchanging words; they are coordinating attention, negotiating meaning, inferring intentions, and updating beliefs about each other in real time. Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals. Listeners constantly make inferences about what speakers mean, how they feel, and why they chose a particular phrasing. At the same time, speakers monitor their partner’s reactions and adjust their language accordingly. This dynamic feedback loop allows conversation to unfold smoothly (most of the time), despite the fact that meaning is rarely stated explicitly. Misunderstandings still occur, but they are often repaired quickly through clarification, repetition, or reformulation. In this way, conversation is not just a vehicle for communication, but a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
           <ul>
             <li>
@@ -199,6 +206,9 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                     <p>
                     In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
                     When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Speakers may clarify, rephrase, repeat, or explicitly negotiate meaning until both participants align on a shared interpretation. These repair sequences reveal the strategies people use to track their partner’s understanding and to update their own assumptions about what has been communicated. By studying repair behavior, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during conversation.
+                    Miscommunication rarely goes unnoticed. Breakdowns in understanding—especially in socially or emotionally meaningful contexts—often evoke strong reactions such as surprise, frustration, or amusement. These responses reveal how speakers interpret the intentions behind an utterance and how they evaluate the success or failure of a communicative exchange.
+
+I am interested in how these emotional reactions arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of the interaction.
                     </p>
                   </div>
                 </details>
@@ -219,6 +229,8 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         <div class="abstract-text">
           <p>
           Misinterpretation is not a flaw, but a natural feature, of conversation. In day-to-day conversation, we readily assume we have arrived at a shared meaning between speakers, but often we have no more than approximately understood one another, instead maintaining quite distinct representations of the shared information. I use neuroimaging and computational methods to investage when, why, and how meanings may get distorted or lost during linguistic communication.
+          Conversation works remarkably well given how little meaning is stated explicitly. Speakers rely heavily on context, shared assumptions, and inference, which means that misunderstandings are an inevitable feature of communication. Rather than being rare failures, these moments provide a powerful window into how people represent meaning and track each other’s understanding during dialogue.
+          I study when and why miscommunication arises, how listeners detect that something has gone wrong, and how speakers and listeners collaboratively restore shared meaning. By examining these breakdowns—and the strategies people use to resolve them—we can better understand the cognitive mechanisms that normally allow conversation to proceed so smoothly.
             <ul>
             <li>
                 <details>
@@ -229,6 +241,8 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                     <p>
                     In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
                     When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Speakers may clarify, rephrase, repeat, or explicitly negotiate meaning until both participants align on a shared interpretation. These repair sequences reveal the strategies people use to track their partner’s understanding and to update their own assumptions about what has been communicated. By studying repair behavior, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during conversation.
+                    When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Participants may clarify, repeat, reformulate, or explicitly negotiate meaning until both sides arrive at a shared interpretation. These repair sequences reveal the strategies speakers use to monitor their partner’s understanding and to update their own assumptions about what has been communicated.
+By studying how people repair breakdowns in conversation, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during dialogue.
                     </p>
                   </div>
                 </details>
@@ -249,6 +263,9 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         <div class="abstract-text">
           <p>
           Mounting evidence suggests that experience with multiple linguistic inventories imposes structural and functional changes upon the brain. Using a mix of neuroimaging and behavioral techniques, I aim not only to understand these changes, but also to convey their importance as both a scientific lens and framework for interpersonal flourishing. Similarly, linguistic habits are influenced by culture and reflected in language use. Here I aim to understand <i><b>i</b>)</i> how individuals' various cultural backgrounds inform their production and comprehension of language, as well as <i><b>ii</b>)</i> how they differ in their internal representations of linguistic content.
+        Language experience shapes how people think, communicate, and interpret the world around them. Individuals who grow up with multiple languages—or within different cultural environments—often develop distinct patterns of language use and interpretation. These differences provide an important window into how linguistic experience shapes the cognitive systems that support communication.
+
+Using a combination of neuroimaging and behavioral methods, I study how bilingualism and cultural background influence language processing and conversational behavior. By examining how different linguistic experiences shape the brain and mind, I hope to better understand both the flexibility and the shared foundations of human language.
           </p>
         </div>
       </details>
