@@ -9,11 +9,11 @@ redirect_from:
 ---
 <style>
   .page__content {
-  max-width: 1400px;
+  max-width: 1600px;
   }
 
   .layout--archive .page {
-  max-width: 1400px;
+  max-width: 1600px;
   }
 
   /* container for linked research topic blurbs */
@@ -198,18 +198,18 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
           <p>
           Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a ccognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.<br>
           <br>
-          My work asks how these emotional and mental-state representations are constructed during dialogue and how they shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
+          My work asks how these emotional and mental-state representations are constructed during dialogue and how mechanisms like (mis)alignment shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
           <ul>
             <li>
                 <details>
                   <summary>
-                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> Why does miscommunication elicit strong reactions between speakers and comprehenders?</i></span>
+                    <i><b class="sub-topic-label">Reactivity</b></i> <i class="sub-topic-separator">|</i> <span style="color: #859901;" class="sub-topic-toggle"><i> Why doea (mis)communication elicit strong reactions between speakers and comprehenders?</i></span>
                   </summary>
                   <div class="abstract-text">
                     <p>
-                    Language 
+                    Conversation contains several unique cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions, etc. — that carry information about emotional states and social goals.
 
-                    Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals.
+                    understanding—especially in socially or emotionally meaningful contexts—often evoke strong reactions such as surprise, frustration, or amusement. These responses reveal how speakers interpret the intentions behind an utterance and how they evaluate the success or failure of a communicative exchange.
 
                     I am interested in how these emotional reactions arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of conversation.
 
