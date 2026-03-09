@@ -8,10 +8,10 @@ redirect_from:
   - /research.html
 ---
 <style>
-  .page {
+  .page__content {
   max-width: 1400px;
   }
-  
+
   .layout--archive .page {
   max-width: 1400px;
   }
