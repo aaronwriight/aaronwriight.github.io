@@ -114,8 +114,8 @@ redirect_from:
 
   /* inline toggle link for each research topic */
   .topic-toggle {
-    max-width: 200%;
-    width: 120%;
+    max-width: 250%;
+    width: 150%;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
@@ -124,8 +124,8 @@ redirect_from:
 
   /* inline toggle link for each research topic */
   .sub-topic-toggle {
-    max-width: 200%;
-    width: 120%;
+    max-width: 250%;
+    width: 150%;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
