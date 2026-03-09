@@ -109,7 +109,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    /* white-space: nowrap; */
+    white-space: nowrap;
   }
 
   /* inline toggle link for each research topic */
@@ -117,7 +117,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    /* white-space: nowrap; */
+    white-space: nowrap;
   }
 
   /* underline toggle on hover */
