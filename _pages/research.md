@@ -182,7 +182,7 @@ redirect_from:
   
 </style>
 ---
-<b>I study the <span style="color: #859901;">social mind in dialogue</span>: how the human brain processes <span style="color: #859901;">language</span> and structures <span style="color: #859901;">conversation</span>.</b>
+<b>I study the <span style="color: #859901;"><i>social mind in dialogue</i></span>: how the human brain processes <span style="color: #859901;"><i>language</i></span> and structures <span style="color: #859901;"><i>conversation</i></span>.</b>
 
 My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition in conversation, my interests follow a few primary trails:
 
