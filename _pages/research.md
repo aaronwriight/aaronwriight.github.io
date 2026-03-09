@@ -8,7 +8,10 @@ redirect_from:
   - /research.html
 ---
 <style>
-
+  .page {
+  max-width: 1400px;
+  }
+  
   .layout--archive .page {
   max-width: 1400px;
   }
@@ -193,7 +196,7 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
         </summary>
         <div class="abstract-text">
           <p>
-          Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a ccognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
+          Conversation is one of the most natural, yet complex behaviors humans engage in. As people speak, they continuously signal attitudes, intentions, and emotional states through cues such as prosody, pauses, word choice, and facial expressions. Listeners use these signals to infer what a speaker feels or intends, while speakers monitor their partner’s reactions and adjust their language in response. This dynamic feedback loop allows conversation to unfold smoothly (most of the time...), making conversation a ccognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.<br>
           <br>
           My work asks how these emotional and mental-state representations are constructed during dialogue and how they shape the unfolding interaction between speakers. By studying the signals people produce and the inferences listeners draw from them, I aim to better understand how conversation allows individuals to coordinate their emotional and social understanding in real time.
           <ul>
@@ -204,15 +207,17 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
                   </summary>
                   <div class="abstract-text">
                     <p>
-                    In dialogue, we correct ourselves and others. This process of interactive repair is informative with respect to how we theorize about the content of speakers' minds. I am interested in what corrective strategies suggest about an intuitive theory of mind in spoken conversation.
-                    When speakers detect a misunderstanding, conversations often shift into a brief period of repair. Speakers may clarify, rephrase, repeat, or explicitly negotiate meaning until both participants align on a shared interpretation. These repair sequences reveal the strategies people use to track their partner’s understanding and to update their own assumptions about what has been communicated. By studying repair behavior, we can gain insight into the implicit models speakers maintain of each other’s knowledge, beliefs, and intentions during conversation.
+                    Language 
 
-Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals.
+                    Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals.
+
+                    I am interested in how these emotional reactions arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of conversation.
+
 
 
 Miscommunication rarely goes unnoticed. Breakdowns in understanding—especially in socially or emotionally meaningful contexts—often evoke strong reactions such as surprise, frustration, or amusement. These responses reveal how speakers interpret the intentions behind an utterance and how they evaluate the success or failure of a communicative exchange.
 
-I am interested in how these emotional reactions arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of the interaction.
+I am interested in how these emotional reactions arise during conversation, how they are expressed through language and behavior, and how they influence the subsequent course of conversation.
                     </p>
                   </div>
                 </details>
