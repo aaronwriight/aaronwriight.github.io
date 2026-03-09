@@ -166,11 +166,26 @@ redirect_from:
   
 </style>
 ---
-<b>I study the <span style="color: #859901;">social mind in conversation</span>: how the human brain processes <span style="color: #859901;">language</span> and structures <span style="color: #859901;">communication</span>.</b>
+<b>I study the <span style="color: #859901;">social mind in dialogue</span>: how the human brain processes <span style="color: #859901;">language</span> and structures <span style="color: #859901;">conversation</span>.</b>
 
-My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition, my interests follow a few primary trails:
+My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition in conversation, my interests follow a few primary trails:
 
 <ul>
+
+  <li>
+    <div class="pub-block">
+      <details>
+        <summary>
+          <i><b class="topic-label">Emotion & affect in conversation</b></i> <i class="topic-separator">|</i> <span style="color: #859901;" class="topic-toggle"><i> How do we represent other minds and emotional states during conversation, and how do those representations guide the unfolding dialogue?</i></span>
+        </summary>
+        <div class="abstract-text">
+          <p>
+          Conversation is one of the most natural, yet complex behaviors humans engage in. When two people talk, they are not merely exchanging words; they are coordinating attention, negotiating meaning, inferring intentions, and updating beliefs about each other in real time. Small cues – tone of voice (~prosody), pauses and silences, distinct and surprising word choices, facial expressions... — carry information about emotional states and social goals. Listeners constantly make inferences about what speakers mean, how they feel, and why they chose a particular phrasing. At the same time, speakers monitor their partner’s reactions and adjust their language accordingly. This dynamic feedback loop allows conversation to unfold smoothly (most of the time), despite the fact that meaning is rarely stated explicitly. Misunderstandings still occur, but they are often repaired quickly through clarification, repetition, or reformulation. In this way, conversation is not just a vehicle for communication, but a cognitive collaboration in which people navigate dnyamically evolving mental representations to construct shared meaning.
+          </p>
+        </div>
+      </details>
+    </div>
+  </li>
 
   <li>
     <div class="pub-block">
