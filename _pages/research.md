@@ -174,9 +174,9 @@ redirect_from:
   
 </style>
 ---
-<b>I study the <span style="color: #859901;">social mind in dialogue</span>: how the human brain processes <span style="color: #859901;">language</span> and structures <span style="color: #859901;">conversation</span>.</b>
+<b class="topic-label">I study the <span style="color: #859901;">social mind in dialogue</span>: how the human brain processes <span style="color: #859901;">language</span> and structures <span style="color: #859901;">conversation</span>.</b>
 
-My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition in conversation, my interests follow a few primary trails:
+<p class="topic-label"> My interests and experiences have brought me to MIT’s [Brain & Cognitive Sciences](https://bcs.mit.edu) department and the [McGovern Institute for Brain Research](https://mcgovern.mit.edu), where I work with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) and an incredible team of language scientists at [EvLab](https://www.evlab.mit.edu). While my research broadly aims to chart the footprints of language cognition in conversation, my interests follow a few primary trails:</p>
 
 <ul>
 
@@ -257,9 +257,9 @@ My interests and experiences have brought me to MIT’s [Brain & Cognitive Scien
 
 </ul>
 
-The brain's functional landscape is yet largely unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.
+<p class="topic-label">The brain's functional landscape is yet largely unexplored. You can read more about what I and my delightful collaborators have discovered in pursuit of these questions, where I've been along the way, and what other curiosities occupy my brain as you explore the terrain of this site. Otherwise –– if I'm not doing science, I'm probably hiking.</p>
 
-Happy (<i>neural</i>) trails! :)<br>
+<p class="topic-label">Happy (<i>neural</i>) trails! :)</p><br>
 
 <hr>
 <div style="margin: 0 auto; text-align: center;">
