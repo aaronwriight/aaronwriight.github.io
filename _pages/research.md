@@ -114,18 +114,16 @@ redirect_from:
 
   /* inline toggle link for each research topic */
   .topic-toggle {
-    max-width: 250%;
-    width: 150%;
+    max-width: 1800px;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    /* white-space: nowrap; */ /* green text on questions*/ 
+    white-space: nowrap; green text on questions 
   }
 
   /* inline toggle link for each research topic */
   .sub-topic-toggle {
-    max-width: 250%;
-    width: 150%;
+    max-width: 1800px;
     text-decoration: none;
     cursor: pointer;
     color: #859901;
@@ -162,7 +160,7 @@ redirect_from:
     display: inline;
     margin: 0 0.25em;
     color: inherit;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* visual divider between sub-topic label and description */
@@ -173,7 +171,7 @@ redirect_from:
     display: inline;
     margin: 0 0.25em;
     color: inherit;
-    white-space: nowrap;
+    /* white-space: nowrap; */
   }
 
   /* keep topic label and rq on the same line */
@@ -187,7 +185,7 @@ redirect_from:
 
   /* styling for abstract tab clickable text */
   .topic-text {
-    max-width: 1200px;
+    max-width: 1800px;
     text-decoration: none;
     cursor: text;
   }
