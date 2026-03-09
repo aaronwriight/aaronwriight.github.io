@@ -9,14 +9,11 @@ redirect_from:
 ---
 <style>
   .page__content {
-    max-width: 1800px;
-    padding-left: 3rem;
-    padding-right: 3rem;
-    line-height: 1.7;
+  max-width: 1600px;
   }
 
   .layout--archive .page {
-    max-width: 1800px;
+  max-width: 1600px;
   }
 
   /* container for linked research topic blurbs */
@@ -120,7 +117,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    /* white-space: nowrap; */
+    white-space: nowrap;
   }
 
   /* inline toggle link for each research topic */
@@ -128,7 +125,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    /* white-space: nowrap; */
+    white-space: nowrap;
   }
 
   /* underline toggle on hover */
@@ -180,28 +177,9 @@ redirect_from:
     display: flex;
     align-items: baseline;
     gap: 0.35em;
-    /* flex-wrap: nowrap; */
+    flex-wrap: nowrap;
   }
-
-  .pub-block {
-    margin-bottom: 1.6rem;
-  }
-
-  .pub-block details > div {
-    margin-top: 0.5rem;
-  }
-
-  ul {
-    margin-left: 1.4rem;
-  }
-
-  li {
-    margin-bottom: 0.8rem;
-  }
-
-  .abstract-text {
-    margin-top: 0.4rem;
-  }
+  
 </style>
 ---
 <b>I study the <span style="color: #859901;"><i>social mind in dialogue</i></span>: how the human brain processes <span style="color: #859901;"><i>language</i></span> and structures <span style="color: #859901;"><i>conversation</i></span>.</b>
