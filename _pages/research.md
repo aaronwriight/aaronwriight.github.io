@@ -39,6 +39,7 @@ redirect_from:
     display: inline-block;
     margin: 0;
     padding: 0;
+    flex-wrap: wrap;
   }
 
   /* inline formatting for individual dropdown containers */
@@ -46,6 +47,7 @@ redirect_from:
     display: inline-block;
     margin: 0;
     padding: 0;
+    flex-wrap: wrap;
   }
 
   /* clickable summary text for dropdown toggles */
@@ -54,6 +56,7 @@ redirect_from:
     cursor: pointer;
     color: inherit;
     list-style: none;
+    flex-wrap: wrap;
   }
 
   /* clickable summary text for dropdown toggles */
@@ -62,6 +65,7 @@ redirect_from:
     cursor: pointer;
     color: inherit;
     list-style: none;
+    flex-wrap: wrap;
   }
 
   /* apply pointer cursor and remove default marker globally */
@@ -118,7 +122,9 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
-    white-space: nowrap; green text on questions 
+    flex-wrap: wrap;
+    /* white-space: nowrap; /* green text on questions */ */
+
   }
 
   /* inline toggle link for each research topic */
@@ -127,6 +133,7 @@ redirect_from:
     text-decoration: none;
     cursor: pointer;
     color: #859901;
+    flex-wrap: wrap;
     /* white-space: nowrap; */
   }
 
@@ -171,6 +178,7 @@ redirect_from:
     display: inline;
     margin: 0 0.25em;
     color: inherit;
+    flex-wrap: wrap;
     /* white-space: nowrap; */
   }
 
@@ -180,6 +188,7 @@ redirect_from:
     display: flex;
     align-items: baseline;
     gap: 0.35em;
+    flex-wrap: wrap;
     /* flex-wrap: nowrap; */
   }
 
